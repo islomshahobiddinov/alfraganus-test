@@ -1,0 +1,964 @@
+{
+  "id": "ilk-va-maktabgacha-yoshdagi-bolalar-pedagogikasi",
+  "name": "Pedagogika",
+  "timeSeconds": 1800,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Maktabgacha pedagogika qanday fanlar tizimiga kiradi?",
+      "options": ["ijtimoiy", "iqtisodiy", "tabiiy", "siyosiy"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Yosh tarbiyachilar ish o'rganishi uchun kimga biriktiriladi?",
+      "options": [
+        "Tajribali tarbiyachiga",
+        "Uslubchiga",
+        "Tarbiyachi yordamchisiga",
+        "Mudiraning o'zi ish o'rgatadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Pedagogikaning bosh masalasi nima?",
+      "options": ["taʻlim", "tajriba", "bilim", "tarbiya"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Maktabgacha pedagogika necha yoshli bolalarga tarbiya berish qonuniyatlarini oʻrganadi?",
+      "options": [
+        "tugʻildan to yetti yoshgacha",
+        "besh yoshdan yetti yoshgacha",
+        "bir yoshdan yetti yoshgacha",
+        "bir yoshdan uch yoshgacha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Oilada bolaga qanday tarbiya turlari o'rgatilib boriladi?",
+      "options": [
+        "Barcha javoblar to'g'ri",
+        "Estetik tarbiya",
+        "Aqliy tarbiya",
+        "Ma'naviy-axloqiy tarbiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Maktabgacha ta'lim tashkilotining oila bilan olib boradigan ishlari qanday shakllarda yo'lga qo'yilgan?",
+      "options": [
+        "Jamoaviy, individul",
+        "Guruh, yakka",
+        "uch yoshdan yetti yoshgacha",
+        "Mudira va uslubchi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Bilim bu –",
+      "options": [
+        "bolalar ongidagi tushunchalar, sxemalar, borliq haqidagi tizimlashtirilgan ilmiy maʻlumotlar majmui",
+        "maktabgacha pedagogika fanining muhim tarkibiy qismi",
+        "bolalarning xulq-atvori va dunyoqarashini tarkib toptirish",
+        "maktabgacha pedagogika fanining asosiy vazifalasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Maktabgacha ta'lim tashkiloti oila bilan olib boradigan ishlar qanday shakllarda yo'lga qo'yilgan?",
+      "options": [
+        "Tarbiyachi va ota-ona",
+        "Mudira va uslubchi",
+        "Jamoaviy, individul",
+        "Guruh, yakka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Maktabgacha ta’limning maqsadini ayting?",
+      "options": [
+        "Maktabgacha ta’lim bola shaxsini sog‘lom va yetuk, maktabda o‘qishga tayyorlangan tarzda shakllantirish maqsadini ko‘zlaydi",
+        "Barkamol qilish",
+        "Maktabga tayyorlash",
+        "maktabgacha pedagogika fanining muhim tarkibiy qismi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "O‘qituvchilar, maktabgacha ta’lim tashkiloti xodimlari necha yilda o‘z malakalarini oshiradilar?",
+      "options": ["3 yil", "5 yil", "7 yil", "2 yil"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Pedagog-tarbiyachi o‘z kasbining mohir ustasi bo‘lishi uchun qanday shartlarga amal qilishi lozim?",
+      "options": [
+        "Hamma javoblar to‘g’ri",
+        "Yosh avloni kerakli bilim, malaka, ko‘nikmalardan xabardor qilishi",
+        "Bolalarni kuzata oladigan bo‘lishi",
+        "Oliy ma’lumotli bo‘lishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Tarbiyachi bola shaxsini psixologik qo‘llab-quvvatlashi bu …",
+      "options": [
+        "bolalar emotsional-shaxsiy munosabatlarini shakllantirish",
+        "kattalar tomonidan bola muammosini tushunish",
+        "xatolarga yo‘l qo‘yish qo‘rquvini ketkazish",
+        "hamma javoblar to‘g’ri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Tarbiyachi qachon bolalarga ta’sir ko‘rsata oladi?",
+      "options": [
+        "mashg’ulotlarda, birgalikdagi mehnat faoliyatida",
+        "bolalar bilan muomilada",
+        "kundalik hayotda, o‘yinlarda",
+        "hamma javoblar to‘g’ri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Pedagog-tarbiyachi o‘z kasbining mohir ustasi bo‘lishi uchun qanday shartlarga amal qilishi lozim?",
+      "options": [
+        "hamma javoblar to‘g’ri",
+        "yosh avlodni kerakli bilim, malaka, ko‘nikmalardan xabardor qilishi",
+        "bolalarni kuzata oladigan bo‘lishi",
+        "oliy ma’lumotli bo‘lishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Topishmoqlar qaysi tarbiyaga xos?",
+      "options": [
+        "Aqliy tarbiyaga",
+        "Jismoniy tarbiyaga",
+        "Nafosat tarbiyasiga",
+        "Ekologik tarbiyaga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Abu Nasr Forobiy qaysi asarida komil inson tarbiyaviy sifatlarini ko‘rsatib bergan?",
+      "options": [
+        "Fozil odamlar shahri",
+        "Musiqa haqida katta kitob",
+        "Konuni Mas‘uriy",
+        "«Metofizika»ga sharh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Qadimgi Xorazmda qanday din va ma‘rifiy yodgorlik vujudga kelgan?",
+      "options": [
+        "Zardushtiylik dini va «Avesto»",
+        "Otashparastlik dini va «Avesto»",
+        "Kubraviya va «Xadis»",
+        "Naqshbandiya ta‘limoti va «Qur‘on»"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Ibn Sinoning bolaga ta‘lim-tarbiya berishga doir fikrlari bayon etilgan asarlarini aniqlang.",
+      "options": [
+        "«Tib qonunlari», «Tadbiri manozil», «Donishnoma»",
+        ".«Donishnoma», «Risolatul tayr”.",
+        "«Kitob-al Qonuni fit-tib», «Qulunj»",
+        "«Tib qonunlari», «Hidoyat»"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Ibn Sino tavsiya etgan ta‘limni tashkil etish shaklini aniqlang.",
+      "options": [
+        "Jamoa tarzida",
+        "yakka tarzda",
+        "Qo‘rqitish vositasida",
+        "jazolash shaklida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Kaykovusning eng yirik pedagogik merosi hisoblangan asari nomini aniqlang.",
+      "options": [
+        "«Qobusnoma»",
+        "Farzand tarbiya qilmoq zikrida",
+        "Suxandonlik haqida",
+        "Ota-ona haqqini bilmak zikrida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Yusuf Xos Xojibning pedagogik asarini aniqlang.",
+      "options": [
+        "«Qutadgu bilig»",
+        ".«Donishnoma»",
+        "«Onalar maktabi»",
+        "«Eski maktab»"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Abu Rayhon Beruniyning o‘qitish haqidagi fikrlarini aniqlang.",
+      "options": [
+        "Fanlarni almashtirib o‘qitish kerak",
+        "Bolalarni q o‘rqitib o‘qitish kerak",
+        "Avval ovqatlantirib, s o‘ngra o‘qitish kerak",
+        "Kun b o‘yi bitta fanni o‘qitish kerak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Al-Xorazmiyning qaysi asari yirik bir fanning nomiga aylandi?",
+      "options": [
+        "«Al-Kitob-al-muhtasar fi-hisob al-jabr va-l-muqobala»",
+        "«Negizlar»",
+        "«Jug‘rofiya»",
+        "«Kitob at-tarix»"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Zardushtiylik ta‘limotiga ko‘ra bolalarga ta‘lim-tarbiya berish necha yoshdan boshlanadi?",
+      "options": ["5 yoshdan", "7 yoshdan", "6 yoshdan", "0 yoshdan"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Zardushtiylik ta‘limotida olg‘a surilgan 3 asosiy hislatni ayting.",
+      "options": [
+        "Ezgu fikr, ezgu so’z, ezgu amal",
+        "Yaxshilik va yomonlik",
+        "Odoblilik, mehnatsevarlik, insonparvarlik",
+        "Gunoh, savob, uvol"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Ibn Sino ota-onalarga bola tarbiyasini qachondan boshlashni tavsiya etadi?",
+      "options": [
+        "Ona qornida homila paydo bo‘lishi bilan",
+        "Bola olti oylik bo‘lgach",
+        "Bola tug‘ilgan kundan boshlab",
+        "Bola bir yoshga to‘lgach"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Qaysi asarda axloq-odob masalalari keng yoritilgan?",
+      "options": [
+        "\"Qutadg'u bilik\" va \"Hibatul Haqoyiqda",
+        "\"Qobusnoma\"da",
+        "\"Al-AdabAl-Mufrad\"'da",
+        "Barchasida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Bola necha yoshga kirganda uyatchanlik, mustaqillik, xudbinlik va g'amxo'rlik kabi qator shaxsiy xususiyatlar namoyon bo'ladi?",
+      "options": ["3yosh", "5 yosh", "7 yosh", "10 yosh"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Tarbiyaning bola rivojlanishiga ta'siri qanday?",
+      "options": [
+        "Bola axloqiy kamolga yetadi",
+        "Bola jismoniy kamolga yetadi",
+        "Bola ruhiy kamolga yetadi",
+        "Bolaning axloq-odobi tarbiyalanadi."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Bolaning axloqiy rivojlanishidagi muhim omil nima?",
+      "options": ["Ta'lim-tarbiya", "Tevarak-atrof", "Jamoa", "Ota-ona"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Aqliy tarbiya mazmuni qanday hujjatda belgilab beriladi?",
+      "options": [
+        "Tarbiya jarayonida",
+        "Maktabgacha ta'lim tashkilotlarida o'tiladigan mashg'ulotlar matnida",
+        "Ta'lim jarayonida",
+        "\"Bolajon\" tayanch dasturida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Davlatimiz tarixida ilk marotaba \"Ta'lim to'g'risidagi\" Qonun nechanchi yil qabul qilingan?",
+      "options": ["1992-yil", "1995-yil", "1999-yil", "1991-yil"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "\"Maktabgacha ta'lim\" atamasi qachon va qaysi tashkilot tomonidan qabul qilingan?",
+      "options": [
+        "1997-yil YuNESKO",
+        "1999-yil YuNESEF",
+        "1997-yil Xalq Ta'limi bo'limlari",
+        "1998-yil Xalq Ta'limi Vazirligi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Nutq, diqqat, xotira, tafakkur va ijodiy xayol kabi psixologik qobiliyatlarni rivojlantirishda ijtimoiy tarbiyaning qaysi yo‘nalishi muhim ahamiyatga ega?",
+      "options": [
+        "aqliy tarbiya;",
+        "axloqiy tarbiya;",
+        "ekologik tarbiya;",
+        "huquqiy tarbiya;"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Axloq qanday xususiyatga ega?",
+      "options": [
+        "Ijtimoiy-psixologik",
+        "Siyosiy-ijtimoiy",
+        "Tarixiy",
+        "Pedagogik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Insonning barkamolligi nima bilan belgilanadi?",
+      "options": [
+        "Ma'naviy dunyosi bilan",
+        "Adolatli va mehnatsevarligi bilan",
+        "Odobi bilan",
+        "Bilimi bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Didaktika nima?",
+      "options": [
+        "taʻlim nazariyasi",
+        "ijtimoiy nazariya",
+        "tarixiy nazariya",
+        "tarbiya nazariyasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Odob - oltindan qimmat\" hikmati kimga taalluqli",
+      "options": [
+        "A.A.Navoiyga",
+        "Yusuf xos Hojibga",
+        "Ahmad Yugnakiyga",
+        "Koshifiyga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Bola necha yoshga kirganda uyatchanlik, mustaqillik, xudbinlik va g'amxo'rlik kabi qator shaxsiy xususiyatlar namoyon bo'ladi?",
+      "options": ["3 yosh", "2 yosh", "5 yosh", "2-3 yosh"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Tarbiyaning bola rivojlanishga ta'siri qanday? .",
+      "options": [
+        "Bolaning axloq-odobi tarbiyalanadi",
+        "Bola axloqiy kamolga yetadi",
+        "Bola jismoniy kamolga yetadi",
+        "Bola ruhiy kamolga yetadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q41",
+      "prompt": "Necha yoshda bolaning ijobiy xulq-atvori barqarorlashadi?",
+      "options": ["3-5 yoshda", "6-7 yoshda", "8-10 yoshda", "10-15 yoshda"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q42",
+      "prompt": "Maktabgacha ta'limning asosiy maqsadi nima?",
+      "options": [
+        "Bolaning sog'lom, har tomonlama kamol topishini ta'minlash",
+        "Bolaning har tomonlama rivojlanishini ta'minlash",
+        "Maktab ta'limiga tayyorlash, o'qishga qiziqishini uyg'otish",
+        "Barcha javoblar to'g'ri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q43",
+      "prompt": "Maktabgacha ta'lim tashkiloti davlatning qanday ta'minotida?",
+      "options": [
+        "To'liq",
+        "Qisman",
+        "Sharoitga qarab",
+        "Tashkilotning imkoniyatiga ko'ra"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q44",
+      "prompt": "Maktabgacha ta'limda olib boriladigan bolalar yosh chegarasi qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "3 yoshdan 7 yoshgacha",
+        "2 yoshdan 6-7 yoshgacha",
+        "tug'igandan to 7 yoshgacha",
+        "3 oylikdan 6-7 yoshgacha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q45",
+      "prompt": "Maktabgacha ta'lim tashkilotida keng qo'llaniladigan o'qitish uslublariga nimalar kiradi?",
+      "options": [
+        "Ko'rgazmali, og'zaki, Amaliy O'yin'g'ri",
+        "Ko'rgazmali, og'zaki",
+        "Amaliy",
+        "O'yin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q46",
+      "prompt": "Maktab yoshidagi bolani egallashi lozim madaniy-gigiyеnik malakalarini ko’rsating?",
+      "options": [
+        "Ovqatni yeyish ko’nikmalari, o’z tanasini parvarish qilishi, xonada tartibga rioya qilish, kiyimdan foydalanish (kiyinish, yеchinish, taxlash).",
+        "Ovqatlanish",
+        "Yuvinish",
+        "Ovqatni tartib bilan еyish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q47",
+      "prompt": "Bolalar hayotining kun tartibiga nimalar kiradi?",
+      "options": [
+        "Bеdor yurish, uxlash, ovqatlanish, faoliyatning turlarini almashib turishi",
+        "Uyqu, ovqatlanish",
+        "Jismoniy mashqlar",
+        "Ovqatlanish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q48",
+      "prompt": "Oʻqitish bu –",
+      "options": [
+        "pedagogik faoliyat boʻlib, u bilim, koʻnikma va malakalarni bolalarga singdirish, ularning bilish va amaliy faoliyatiga rahbarlik qilishdir.",
+        "shaxsning muayyan faoliyatni tashkil eta olish qobiliyatidir",
+        "taʻlim oluvchining bilim, koʻnikma va malakalarni egallashdagi amaliy faoliyatidir",
+        "bolaning ongi, xulq-atvori va dunyoqarashini tarkib toptirish jarayonidir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q49",
+      "prompt": "Shaxs shakllanishiga taʻsir etuvchi omillar.",
+      "options": [
+        "Mikro muhit, mezo muhit, makro muhit , irsiyat, taʻlim-tarbiya, shaxsiy faoliyat.",
+        "Mikro muhit, isteʻdod, xotira",
+        "Shaxsiy faoliyat, mafkura",
+        "Irsiyat, isteʻdod, xotira"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q50",
+      "prompt": "3-7 yoshli bolalarni ovqatlantirish orasidagi vaqtni ko’rsating?",
+      "options": ["3,5-4 soat oralig’ida", "1-2 soat", "2 soat", "3 soat"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q51",
+      "prompt": "Kun tartibini tashkil etuvchi qismlar qaysilar?",
+      "options": [
+        "Mashg’ulot, sayr, ovqatlanish, uyqu, o’yin",
+        "Kuzatish, ekskursiya",
+        "uyqu",
+        "sayr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q52",
+      "prompt": "O’yin qanday turlarga bo'linadi?",
+      "options": [
+        "harakatli, qoidali",
+        "qurish-yasash, didaktik",
+        "syujetli-rolli, sahnalashtirilgan",
+        "ijodiy, qoidali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q53",
+      "prompt": "Ilk qadam o’quv dasturini O’zbekiston Respublikasi hududida joylashgan qaysi ta’lim muassasalarida qo’llash majburiy?",
+      "options": [
+        "Davlat MTT larida, nodavlat MTT larida, maktabgacha guruhlarga ega bo’lgan mehribonlik uylari, maktabgacha va boshlang’ich ta’limni nazorat qiluvchi boshqaruv organlari",
+        "Davlat MTT larida, nodavlat MTT larida",
+        "Faqat davlat MTT larida",
+        "Davlat MTT larida, barcha ta’lim muassasalarida, maktabgacha guruhlarga ega bo’lgan mehribonlik uylarida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q54",
+      "prompt": "Malaka bu –",
+      "options": [
+        "shaxsning xulq-atvori va dunyoqarashini tarkib toptirish",
+        "muayyan harakat yoki faoliyatni bajarishning avtomatlashtirilgan shakli",
+        "shaxsning muayyan faoliyatni tashkil eta olish qobiliyati",
+        "yangi sifat holatiga oʻtish, harakat va oʻzgarishlar jarayoni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q55",
+      "prompt": "Bilim, koʻnikma, malaka, ilm, aql, ong, fahm kabi tushunchalar qaysi tarbiya turining tarkibiga kiradi?",
+      "options": [
+        "Aqliy tarbiya.",
+        "Estetik tarbiya",
+        "Mehnat tarbiyasi",
+        "Axloqiy tarbiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q56",
+      "prompt": "Bolaning maktabga tayyorgarlik xaritasi necha yoshda to’ldiriladi",
+      "options": ["6-7 yoshda", "4-7yoshda", "1-5 yoshda", "2-3 yoshda"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q57",
+      "prompt": "Pedagogikada jazolash usuli qanday amalga oshiriladi?",
+      "options": [
+        "Tushuntirish, tanbeh berish, ogohlantirish, qattiq ogohlantirish, uyaltirish.",
+        "Kaltaklab, urib, haqorat qilib",
+        "Haqorat qilib",
+        "Tanbeh berib"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q58",
+      "prompt": "Maktabgacha tarbiya yoshidagi bolalar so’zlashuv nutqini kimlar rahbarligida egallashadi?",
+      "options": ["kattalar", "ota-onasi", "tengdoshlari", "tarbiyachi"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q59",
+      "prompt": "Maktabgacha ta'lim qayerda amalga oshiriladi?",
+      "options": [
+        "Barcha javoblar to'g'ri",
+        "Oilalarda, maxsus ixtisoslashtirilgan maktabgacha ta’lim tashkilotlarida",
+        "Nodavlat maktabgacha ta’lim tashkilotisalarida",
+        "Davlat maktabgacha ta’lim tashkilotlarida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q60",
+      "prompt": "Didaktik o’yinlarning asosiy vazifasi?",
+      "options": [
+        "ta’limiy va tarbiyaviy bilim berish",
+        "ta’limiy bilim berish",
+        "tarbiyaviy bilim berish",
+        "ilmiy bilim berish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q61",
+      "prompt": "Mehnatning turlari",
+      "options": ["Hamma javoblar to’g’ri", "Axloqiy", "Aqliy", "Jismoniy"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q62",
+      "prompt": "Axloq qanday xususiyatga ega?",
+      "options": [
+        "Ijtimoiy-psixologik",
+        "Tarixiy",
+        "Pedogogik",
+        "Siyosiy-ijtimoiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q63",
+      "prompt": "Aql nima?",
+      "options": [
+        "Kishilarning oʻz idroki, qalbi va fikri asosida dunyoviy,.hayotiy haqiqatlarni anglashi va ularga amal qilishidir .",
+        "Maʻnaviy-insoniy nuqtayi nazar",
+        "Qalb koʻzi",
+        "Dunyoni anglash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q64",
+      "prompt": "Maktabgacha ta’lim tashkilotlarida o'quv va tarbiyaviy faoliyatni kaysi o'quv yillari bo'yicha tashkil qiladi?",
+      "options": [
+        "O’quv yil 2 sentyabrdan boshlanadi va 31 maygacha davom etadi.1 iyundan 31 avgustgacha MTMda yozgi soglomlashtirish davri tashkil etiladi?",
+        "O’quv yil 5 sentyabrdan boshlanadi va 25 maygacha davom etadi.1 iyundan 31 avgustgacha MTMda yozgi soglomlashtirish davri tashkil etiladi?",
+        "O’quv yil 25 avgustdan boshlanadi va 25 maygacha davom etadi.1 iyundan 31 avgustgacha MTMda yozgi soglomlashtirish davri tashkil etiladi?",
+        "O’quv yil 10 avgustdan boshlanadi va 25 maygacha davom etadi.1 iyundan 31 avgustgacha MTMda yozgi soglomlashtirish davri tashkil etiladi?"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q65",
+      "prompt": "Davlat dasturining dastlabki loyihasi nechinchi yilda chiqarilgan?",
+      "options": ["2018-yil", "2020-yil", "2022-yil.", "2019-yil"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q66",
+      "prompt": "Ilk kadam Maktabgacha ta’lim muassasasining Davlat o'quv dasturi necha tamoyildan iborat?",
+      "options": ["9", "7", "5", "3"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q67",
+      "prompt": "Shaxs rivojlanishiga qanday omillar taʼsir koʻrsatadi?",
+      "options": [
+        "irsiyat, muhit, tarbiya.",
+        "tabiiy muhit, ijtimoiy munosabatlar",
+        "muhit, tarbiya, bilim",
+        "irsiyat, tarbiya, muhit, ijtimoiy munosabatlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q68",
+      "prompt": "Davlat talablari asosidagi yosh davrlari nechta boskichni uz ichiga oladi?",
+      "options": ["6", "5", "4", "3"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q69",
+      "prompt": "Ilk kadam Maktabgacha ta’lim muassasasining Davlat o’quv dasturi birinchi nashri kachon va kim tomonidan tasdiqlandi?",
+      "options": [
+        "O’zbekiston Respublikasi Maktabgacha ta’lim vazirligining 2018 yil 7 iyuldagi 4- sonli xayat yigilishi karori bilan tasdiklangan va nashr kilish uchun tavsiya etilgan.",
+        "O’zbekiston Respublikasi Maktabgacha ta’lim vazirligining 2018 yil 10 iyuldagi 4- sonli xayat yigilishi karori bilan tasdiklangan va nashr kilish uchun tavsiya etilgan.",
+        "O’zbekiston Respublikasi Maktabgacha ta’lim vazirligining 2018 yil 1iyuldagi 5- sonli xayat yigilishi karori bilan tasdiklangan va nashr kilish uchun tavsiya etilgan.",
+        "O’zbekiston Respublikasi Maktabgacha ta’lim vazirligining 2018 yil 15iyuldagi 5- sonli xayat yigilishi karori bilan tasdiklangan va nashr kilish uchun tavsiya etilgan."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q70",
+      "prompt": "Ilk qadam Maktabgacha ta’lim muassasasining Davlat o’quv dasturi qaysi ta’lim muassassalarida qo’llaniladi?",
+      "options": [
+        "Davlat MTT, Nodavlat MTT, Maktabgacha ta’lim guruhlari mavjud bo’lgan mehribonlik uylari,",
+        "Maktabgacha va boshlangich ta’limni nazorat kiluvchi boshqaruv organlari",
+        "Davlat MTT, Nodavlat MTT.",
+        "Davlat MTT, Nodavlat MTT, Maktabgacha ta’lim guruhlari mavjud bulgan mehribonlik uylari."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q71",
+      "prompt": "\"Pedagogika\" tushunchasi qanday maʻnoni anglatadi?",
+      "options": [
+        "bola yetaklayman.",
+        "shaxsni tarbiyalayman",
+        "shaxsni rivojlantiraman",
+        "bolani voyaga yetkazgan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q72",
+      "prompt": "Ilk va maktabgacha yoshdagi bolalar rivojlanishiga qo'yiladigan davlat talablari nechta bobdan iborat?",
+      "options": ["8", "3", "5", "1"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q73",
+      "prompt": "Rivojlanishi nima?",
+      "options": [
+        "Inson tanasi tuzilishi, ruxiyati va xulkida biologik jarayonlar xamda atrof muxit ta’sirida ruy beradigan uzgarishlar",
+        "Inson tanasi tuzilishi",
+        "Inson tanasida biologik uzgarishlar",
+        "fiziologik va psixologik o’zgarish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q74",
+      "prompt": "Men konsepsiyasi?",
+      "options": [
+        "Men konsepsiyasi bolani uzi xaqidagi anglagan tasavvurlari tizimi,uning refleksif faoliyatini bir kism",
+        "Inson tanasi tuzilishi",
+        "Ta’limga yondashuv",
+        "Inson tanasida biologik uzgarishlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q75",
+      "prompt": "Psixologik jarayonlarga nimalar kiradi?",
+      "options": [
+        "Sezgi,iroda,xotira,tafakkur, xayol, idroq, diqqat.",
+        "Sezgi,iroda,xotira,tafakkur, mehnat",
+        "Tafakkur, nutq, xayol, idrok, diqqat, o'yin",
+        "Xotira,tafakkur, nutq, xayol, idrok, diqqat, ta'lim"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q76",
+      "prompt": "Hikoya, rivoyat, ertak,topishmok va maqollar qaysi mashg’ulotda qo’llaniladi?",
+      "options": [
+        "Badiiy adabiyot",
+        "Nutq ustirsh",
+        "Atrof olam",
+        "Tabiat bilan tanishtirish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q77",
+      "prompt": "Maktabgacha tarbiya pedagogikasi qaysi fanlar bilan bog‘langan?",
+      "options": [
+        "Falsafa, Etika, Estetika,",
+        "Matematika, fizika, Kibernetika",
+        "Dialektikmaterializm",
+        "Fiziologiya, psixologiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q78",
+      "prompt": "Shaxsga yunaltirilgan ta’limda pedagogik jarayon qanday tashkil etiladi?",
+      "options": [
+        "Pedagogik jarayon anik va kafolatlangan maksad asosida tashkil etiladi.",
+        "Pedagogik jarayon texnologik yondashuv asosida tashkil etiladi.",
+        "Pedagogik jarayonda interaktiv metodlardan moxirona foydalaniladi.",
+        "Pedagogik jarayon shaxsga belgilangan sifatlarning shakllanishiga karatilgan."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q79",
+      "prompt": "Maktabgacha yoshdagi bolalarning asosiy faoliyat turini aniqlang?",
+      "options": ["O'yin", "Mashgulot", "Mexnat.", "Kuzatish"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q80",
+      "prompt": "6-7 yoshli bolalar xayotida qaysi faoliyat yangi xisoblanadi?",
+      "options": ["O'qish", "Muloqot", "Mexnat", "O'yin"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q81",
+      "prompt": "Bolalarning mustaqil faoliyatiga nimalar kiradi?",
+      "options": [
+        "Didaktik va harakatli о‘yinlar, rasm chizish, loydan narsa yasash, rasmlar tomosha qilish, musiqa badiiy asarlar tinglash",
+        "Ekskursiyada mehnat qilish",
+        "Sayrda kuzatish",
+        "Kattalar mehnati"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q82",
+      "prompt": "Davlat talablarining maqsadi ?",
+      "options": [
+        "Mamlakatda o‘tkazilayotgan ijtimoiy iqtisodiy islohotlarni, xorijiy mamlakatlar ilg‘or tajribasi hamda ilm fan yutuqlari va zamonaviy informatsion kommunikativ texnologiyalarni inobatga olgan holda maktabgacha ta’lim tizimida ma’nan mukammal va intellektual rivojlangan shaxsni tarbiyalashdir.",
+        "Ta’lim-tarbiya jarayoniga pedagogik va zamonaviy axborotkommunikatsiya texnologiyalarini joriy etish;",
+        "bolalar rivojlanishida individual farqlanishlar mavjudligi sababli, har bir bolaga moslashuvchan bo‘lib, individual variativlik asosida yondashish.",
+        "Milliy, umuminsoniy va ma’naviy qadriyatlar asosida bolalarga ta’lim-tarbiya berish, rivojlantirishning samarali shakllari va usullarini joriy etish;"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q83",
+      "prompt": "Maktabgacha ta’limga qo‘yiladigan davlat talablarida “talab” so‘zining ma’nosi qanday ta’riflanadi:",
+      "options": [
+        "Biror-bir aniq yoshdagi bolalar bilishi va bajara olishi shart bo‘lgan talablar majmuidir.",
+        "Jismoniy rivojlanish va sog‘lom turmush tarzining shakllanishi.",
+        "Bilish jarayonining rivojlanishi",
+        "Barcha javob tugri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q84",
+      "prompt": "Davlat talablari rivojlanish sohalarining indikatorlari so‘zining ma’nosi qanday ta’riflanadi:",
+      "options": [
+        "Bolaning ko‘z bilan ko‘rishi va o‘lchashi mumkin bo‘ladigan ko‘nikma va malakalari ko‘rsatkichidir.",
+        "bolaning ko‘z bilan ko‘rishi va o‘lchashi mumkin bo‘ladigan ko‘nikma va malakalari ko‘rsatkichidir",
+        "Ta’lim-tarbiya jarayoniga pedagogik va zamonaviy axborotkommunikatsiya texnologiyalarini joriy etish;",
+        "A va B tugri javoblar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q85",
+      "prompt": "Bolaning injiqligiga ta’sir qiluvchi sabablarni kо‘rsating",
+      "options": [
+        "Bolaning biron narsadan noroziligi, kasalligi, yoki kun artibining notо‘g‘ri tuzilganligi",
+        "«Men» konsepsiyasi;",
+        "Bolaning qaysarligi, erkaligi",
+        "Erkaligi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q86",
+      "prompt": "Maktabgacha ta’lim tashkilotlarida sayr qachon o’tkaziladi?",
+      "options": [
+        "Ertalabki mashg’ulotdan keyin, kunduzgi uyqudan keyin",
+        "Kunduzgi uyqudan keyin",
+        "Ertalabki qabulda",
+        "Peshingi uyqudan oldin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q87",
+      "prompt": "MTM qaysi hujjatga asosan MTT deb nomlangan.",
+      "options": [
+        "2019-yil 13-maydagi 391-sonli qaror asosida",
+        "2001 yil 14 aprel 852-sonli qaror asosida",
+        "2020 yil 3-avgustdagi 100-sonli qaror asosida",
+        "2017 yil oktyabrdagi 3-sonli qaror asosida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q88",
+      "prompt": "Maktabgacha yoshdagi bolalar jamoasining asosiy ishtirokchilari kimlar?",
+      "options": [
+        "Tarbiyachi, tarbiyalanuvchi",
+        "Bola va ona",
+        "Ota va ona",
+        "Bolalar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q89",
+      "prompt": "Maktabgacha ta’lim tizimini 2030 yilgacha rivojlantirish Konsepsiyasi qachon qabul qilindi?",
+      "options": [
+        "2019 yil 8 maydagi PQ-4312-son qaroriga asosan",
+        "2017 yil 18 maydagi PQ-4212-son qaroriga asosan",
+        "2016 yil 8 maydagi PQ-4212-son qaroriga asosan",
+        "2018 yil 8 maydagi PQ-4315-son qaroriga asosan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q90",
+      "prompt": "“Metod” so‘zining ma’nosi?",
+      "options": [
+        "Tadqiqot, usul,maqsadga erishish yo‘li.",
+        "o’yin jarayoni",
+        "Maqsad va vazifa birligi",
+        "Xolat, tavsiya, jarayon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q91",
+      "prompt": "Bolalarga ta’lim berish jarayonida qanday metodlardan foydalaniladi?",
+      "options": [
+        "Suxbat, kuzatish, anketa yo’li bilan so’rash",
+        "Ko’rgazmali, o’g’zaki",
+        "Amaliy oyin",
+        "Xikoya qilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q92",
+      "prompt": "Tarbiya deganda nima tushuniladi?",
+      "options": [
+        "Shaxsni har tomonlama rivojlantirish jarayoni",
+        "Nazorat ishlari",
+        "Test sinovlari",
+        "Kichik guruhdan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q93",
+      "prompt": "Bolalarga ekologik tarbiya berishda qanday usullardan foydalaniladi?",
+      "options": [
+        "Ko’rgazmali, amaliy,og’zaki Suhbatli.",
+        "Kuzatish",
+        "Suhbat",
+        "Bayon qilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q94",
+      "prompt": "Pedagogikaning asosiy maqsadi nima?",
+      "options": [
+        "Barkamol shaxsni tarbiyalash",
+        "Nazorat qilish",
+        "Faqat bilim berish",
+        "Intizomni kuchaytirish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q95",
+      "prompt": "Barcha fuqarolarning bilim olish huquqi Konstitusiyaning nechanchi moddasida belgilangan?",
+      "options": ["41-modda", "31-modda", "38-modda", "40-modda"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q96",
+      "prompt": "Rag‘batlantirish shakllari bu…",
+      "options": ["Maqtash, ma’qullash", "Ma’qullash", "Jazolash", "Koyish"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q97",
+      "prompt": "MTTda \"Ilk qadam\" davlat o`quv dasturing ikkinchi nashri qachondan joriy qilindi.",
+      "options": ["2022-yilda", "2023-yilda", "2018-yilda", "2015-yilda"],
+      "correctIndex": 0
+    }
+  ]
+}

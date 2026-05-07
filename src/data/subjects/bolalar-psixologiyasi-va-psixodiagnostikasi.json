@@ -1,0 +1,1657 @@
+{
+  "id": "bolalar-psixologiyasi-va-psixodiagnostikasi",
+  "name": "Bolalar psixologiyasi va psixodiagnostikasi",
+  "timeSeconds": 1800,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Bolalar psixologiyasida deterministik yondashuv qaysi fikrda aniqroq ifodalanadi?",
+      "options": [
+        "Psixik rivojlanish faqat biologik yetilish natijasidir",
+        "Psixik rivojlanish sabab-oqibat bog‘liqligiga ega bo‘lgan ko‘p omilli jarayondir",
+        "Psixik rivojlanish tasodifiy hodisalarga asoslanadi",
+        "Psixik rivojlanish ijtimoiy omillardan mustaqil kechadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Psixologik tadqiqotlarda tizimli yondashuvning mohiyati nimada?",
+      "options": [
+        "Psixik jarayonlarni alohida o‘rganishda",
+        "Psixik jarayonlarni faoliyat va muhit bilan bog'lash",
+        "psixik hodisalarni faqat biologik holda tushuntirish",
+        "Psixik jarayonlarni statistik jihatdan tahlil qilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Genetik metod psixologiyada qaysi vazifani bajaradi?",
+      "options": [
+        "Psixik jarayonlarning kelib chiqishi va rivojlanishini o‘rganish",
+        "Test natijalarini statistik baholash",
+        "Diagnostik ko‘rsatkichlarni aniqlash",
+        "Psixik jarayonlarni laboratoriyada modellashtirish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Longityud metodining asosiy xususiyati nimada?",
+      "options": [
+        "Turli yoshdagi bolalarni taqqoslashda",
+        "Bir guruh bolalarni uzoq vaqt davomida kuzatishda",
+        "Psixologik testlar o‘tkazishda",
+        "Eksperiment o‘tkazishda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Kesim metodining ilmiy mohiyati nimada?",
+      "options": [
+        "Bir individni uzoq muddat kuzatishda",
+        "Turli yoshdagi bolalarni bir vaqtning o‘zida o‘rganishda",
+        "Psixik jarayonlarni modellashtirishda",
+        "Test natijalarini statistik tahlil qilishda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Kuzatish metodining ilmiylik darajasi qaysi omil bilan belgilanadi?",
+      "options": [
+        "Kuzatuv davomiyligi bilan",
+        "Tadqiqotchining tajribasi bilan",
+        "Rejalilik va tizimlilik bilan",
+        "Natijalar hajmi bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Eksperiment metodining asosiy ustunligi nimada?",
+      "options": [
+        "Psixik jarayonlarni tavsiflash imkoniyatida",
+        "Sabab-oqibat bog‘liqligini aniqlash imkoniyatida",
+        "Sub’ektiv baholashni oshirish imkoniyatida",
+        "Faqat tabiiy muhitda o‘tkazilishida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Tabiiy eksperimentning metodologik o‘ziga xosligi nimada?",
+      "options": [
+        "Laboratoriya sharoitida o‘tkazilishida",
+        "Real pedagogik muhit bilan uyg‘unligida",
+        "Statistik natijalarning ustuvorligida",
+        "Test metodlari bilan bog‘liqligida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Psixologik testlarning validligi nimani bildiradi?",
+      "options": [
+        "Test natijalarining takroriy o'lchashlarda barqarorligini",
+        "Test o‘lchashi lozim bo‘lgan psixologik sifatni haqiqatan o‘lchashini",
+        "Test savollarining murakkabligini",
+        "Test hajmini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Psixologik diagnostikada ishonchlilik tushunchasi nimani anglatadi?",
+      "options": [
+        "Natijalarning interpretatsiya qilinishini",
+        "Natijalarning barqarorligini",
+        "Test savollarining ilmiyligini",
+        "Testning hajmini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Psixodiagnostikaning asosiy vazifasi nimadan iborat?",
+      "options": [
+        "Psixologik xususiyatlarni aniqlash va baholash",
+        "Tibbiy tashxis qo‘yish",
+        "Pedagogik faoliyatni tashkil etish",
+        "Statistik tahlil o‘tkazish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Proyektiv metodlarning asosiy xususiyati nimada?",
+      "options": [
+        "Standart test topshiriqlariga asoslanishi",
+        "Shaxsning ichki kechinmalarini obrazlarga ko‘chirishiga asoslanishi",
+        "Statistik modellarga asoslanishi",
+        "Fiziologik o‘lchovlarga asoslanishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Faoliyat mahsulini tahlil qilish metodi nimani o‘rganishga xizmat qiladi?",
+      "options": [
+        "Bolaning ijodiy faoliyati natijalarini",
+        "Bolaning fiziologik rivojlanishini",
+        "Bolaning kasalliklarini",
+        "Bolaning jismoniy ko‘rsatkichlarini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Psixologik tadqiqotlarda modellashtirish metodi nimani anglatadi?",
+      "options": [
+        "Psixik jarayonlarning sun’iy modelini yaratish orqali o‘rganishni",
+        "Statistik jadval tuzishni",
+        "Eksperiment o‘tkazishni",
+        "Suhbat metodini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Anketa metodining afzalligi nimada?",
+      "options": [
+        "Keng miqdordagi ma’lumotlarni qisqa vaqt ichida olish imkoniyatida",
+        "Psixik jarayonlarni eksperimental o‘rganishda",
+        "Biologik jarayonlarni aniqlashda",
+        "Fiziologik ko‘rsatkichlarni baholashda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Psixologik tadqiqotlarda suhbat metodining ilmiy ahamiyati nimada namoyon bo‘ladi?",
+      "options": [
+        "Shaxsning ichki kechinmalari va motivlarini aniqlash imkoniyatida",
+        "Statistik natijalarni tez olish imkoniyatida",
+        "Biologik jarayonlarni o‘rganish imkoniyatida",
+        "Fiziologik reaksiyalarni aniqlash imkoniyatida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Psixologik tadqiqotlarda kompleks metodlardan foydalanish nimani anglatadi?",
+      "options": [
+        "Faqat bitta metoddan foydalanishni",
+        "Bir nechta metodlarni o‘zaro uyg‘un holda qo‘llashni",
+        "Faqat test metodidan foydalanishni",
+        "Faqat kuzatish metodini qo‘llashni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Psixodiagnostik metodlar qaysi vazifani bajarishga xizmat qiladi?",
+      "options": [
+        "Shaxsning psixologik xususiyatlarini aniqlash va baholashga",
+        "Fiziologik ko‘rsatkichlarni aniqlashga",
+        "Biologik rivojlanishni o‘lchashga",
+        "Statistik modellar tuzishga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Proyektiv metodlarning nazariy asosi nimaga tayanadi?",
+      "options": [
+        "Shaxsning ichki tajribasi tashqi obrazlarga ko‘chirilishiga",
+        "Statistik modellashtirishga",
+        "Fiziologik reaksiyalarga",
+        "Genetik o‘zgarishlarga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Faoliyat mahsulini tahlil qilish metodi qaysi holatda samarali hisoblanadi?",
+      "options": [
+        "Bolaning rasm, yozuv va ijodiy ishlari orqali psixik xususiyatlarini aniqlashda",
+        "Bolaning jismoniy rivojlanishini o‘lchashda",
+        "Fiziologik jarayonlarni tekshirishda",
+        "Biologik o‘sishni o‘rganishda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Bolalar psixologiyasining asosiy ilmiy muammolaridan biri qaysi?",
+      "options": [
+        "Psixik rivojlanish qonuniyatlarini aniqlash",
+        "Biologik evolyutsiyani o‘rganish",
+        "Statistik modellar yaratish",
+        "Tibbiy tashxis qo‘yish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Shaxs rivojlanishida ijtimoiy muhitning roli qanday baholanadi?",
+      "options": [
+        "Shaxs shakllanishining muhim omillaridan biri sifatida",
+        "Ikkilamchi omil sifatida",
+        "Tasodifiy omil sifatida",
+        "Umuman ahamiyatsiz omil sifatida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Yetakchi faoliyat tushunchasi nimani anglatadi?",
+      "options": [
+        "Muayyan yosh davrida psixik rivojlanishga eng katta ta’sir ko‘rsatuvchi faoliyatni",
+        "Har qanday faoliyat turini",
+        "Faqat o‘yin faoliyatini",
+        "Faqat o‘qish faoliyatini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Psixik rivojlanishning harakatlantiruvchi kuchi nimadan iborat?",
+      "options": [
+        "Ichki va tashqi qarama-qarshiliklardan",
+        "Tasodifiy omillardan",
+        "Fiziologik o‘zgarishlardan",
+        "Biologik o‘sishdan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Bolalar psixologiyasida rivojlanish jarayoni qanday xarakterga ega?",
+      "options": [
+        "Bosqichma-bosqich va izchil xarakterga",
+        "Tasodifiy xarakterga",
+        "Statik xarakterga",
+        "Bir xil sur’atda kechadigan jarayonga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Chaqaloqlik davrining asosiy psixologik xususiyati nimada?",
+      "options": [
+        "Emotsional muloqotning ustuvorligida",
+        "Abstrakt tafakkur rivojida",
+        "Nazariy fikrlashda",
+        "Mantiqiy operatsiyalarda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Go‘daklik davrida idrok rivojlanishining asosiy xususiyati nimada namoyon bo‘ladi?",
+      "options": [
+        "Sensor tajribaning tez kengayishida",
+        "Idrokning susayishida",
+        "Idrokning statik bo‘lishida",
+        "Idrokning yo‘qligida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Bir yosh krizisi nimada namoyon bo‘ladi?",
+      "options": [
+        "Mustaqil harakat qilishga intilishda",
+        "Nutq rivojlanishining susayishida",
+        "Emotsional reaksiyalarning kamayishida",
+        "Idrokning pasayishida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Go‘daklik davrida nutq rivojlanishining dastlabki bosqichi nimada namoyon bo‘ladi?",
+      "options": [
+        "Birinchi so‘zlarning paydo bo‘lishida",
+        "Murakkab gaplar tuzilishida",
+        "Ichki nutq shakllanishida",
+        "Yozma nutq paydo bo‘lishida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Go‘daklik davrida kattalar bilan muloqot qanday ahamiyatga ega?",
+      "options": [
+        "Psixik rivojlanishning asosiy sharti sifatida",
+        "Ikkinchi darajali omil sifatida",
+        "Tasodifiy omil sifatida",
+        "Ahamiyatsiz omil sifatida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Ilk bolalik davrining yetakchi faoliyati qaysi?",
+      "options": [
+        "Predmetli manipulyativ faoliyat",
+        "O‘quv faoliyati",
+        "Mehnat faoliyati",
+        "Sport faoliyati"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Ilk bolalik davrida tafakkurning ustuvor shakli qaysi hisoblanadi?",
+      "options": [
+        "Ko‘rgazmali-harakatli tafakkur",
+        "Abstrakt tafakkur",
+        "Dialektik tafakkur",
+        "Nazariy tafakkur"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Uch yosh krizisi nimada namoyon bo‘ladi?",
+      "options": [
+        "“Men o‘zim” pozitsiyasining kuchayishida",
+        "Nutq rivojlanishining susayishida",
+        "Idrokning pasayishida",
+        "Xotira hajmining kamayishida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Ilk bolalik davrida nutq rivojlanishining asosiy ko‘rsatkichi qaysi?",
+      "options": [
+        "Lug‘at boyligining tez ortishi",
+        "Nutqning passivligi",
+        "Nutqning faqat emotsional xarakteri",
+        "Nutqning imo-ishoralarga asoslanishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Ilk bolalik davrida xotira rivojlanishining asosiy xususiyati nimada?",
+      "options": [
+        "Ixtiyorsiz xotiraning ustunligi",
+        "Ixtiyoriy xotiraning ustunligi",
+        "Mantiqiy xotiraning ustunligi",
+        "Nazariy xotiraning ustunligi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Ilk bolalik davrida tasavvur rivojlanishining asosiy omili qaysi hisoblanadi?",
+      "options": [
+        "Predmetli faoliyat va kattalar bilan muloqot",
+        "Biologik yetilish jarayoni",
+        "Tasodifiy tajribalar",
+        "Fiziologik reflekslar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Ilk bolalik davrida idrok rivojlanishining asosiy xususiyati nimada namoyon bo‘ladi?",
+      "options": [
+        "Predmetlarning asosiy belgilarini ajratib ko‘ra boshlashida",
+        "Idrokning statik xarakterida",
+        "Idrokning susayishida",
+        "Idrokning abstrakt shaklda namoyon bo‘lishida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Ilk bolalik davrida nutq rivojlanishining muhim ko‘rsatkichi qaysi?",
+      "options": [
+        "Lug‘at boyligining tez kengayishi",
+        "Nutqning faqat passiv shaklda bo‘lishi",
+        "Nutqning susayishi",
+        "Nutqning faqat emotsional ifodaga ega bo‘lishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Ilk bolalik davrida o‘yin faoliyati qanday ahamiyatga ega?",
+      "options": [
+        "Psixik rivojlanishga yordam beruvchi muhim omil sifatida",
+        "Faqat dam olish vositasi sifatida",
+        "Tasodifiy faoliyat sifatida",
+        "Ahamiyatsiz faoliyat sifatida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Ilk bolalik davrida shaxs rivojlanishining muhim omili qaysi?",
+      "options": [
+        "Kattalar bilan muloqot va predmetli faoliyat",
+        "Faqat biologik o‘sish",
+        "Tasodifiy muhitiy ta’sirlar",
+        "Faqat fiziologik jarayonlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q41",
+      "prompt": "Psixik rivojlanishning bosqichma-bosqich xarakteri nimani anglatadi?",
+      "options": [
+        "Rivojlanishning izchil va ketma-ket jarayon ekanligini",
+        "Rivojlanishning tasodifiyligini",
+        "Rivojlanishning statikligini",
+        "Rivojlanishning bir xil tezlikda kechishini"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q42",
+      "prompt": "Shaxs rivojlanishida tarbiyaning roli qanday baholanadi?",
+      "options": [
+        "Rivojlanishni yo‘naltiruvchi muhim omil sifatida",
+        "Ikkinchi darajali omil sifatida",
+        "Tasodifiy omil sifatida",
+        "Ahamiyatsiz omil sifatida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q43",
+      "prompt": "Psixik rivojlanish jarayonida faoliyatning roli nimada namoyon bo‘ladi?",
+      "options": [
+        "Shaxs sifatlarining shakllanishida",
+        "Faqat biologik jarayonlarda",
+        "Faqat fiziologik reaksiyalarda",
+        "Tasodifiy tajribalarda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q44",
+      "prompt": "Shaxs rivojlanishida ijtimoiy tajriba nimani anglatadi?",
+      "options": [
+        "Jamiyat tomonidan yaratilgan madaniy tajribani o‘zlashtirishni",
+        "Faqat biologik xususiyatlarni",
+        "Tasodifiy muhitiy ta’sirlarni",
+        "Fiziologik jarayonlarni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q45",
+      "prompt": "Psixik rivojlanish jarayonining uzluksizligi nimada namoyon bo‘ladi?",
+      "options": [
+        "Rivojlanishning doimiy davom etuvchi jarayon ekanligida",
+        "Rivojlanishning tasodifiyligida",
+        "Rivojlanishning statikligida",
+        "Rivojlanishning to‘xtab turishida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q46",
+      "prompt": "Chaqaloqlik davrida emotsional reaksiyalar qanday xarakterga ega?",
+      "options": [
+        "Bevosita va spontan xarakterga",
+        "Nazariy xarakterga",
+        "Mantiqiy xarakterga",
+        "Statik xarakterga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q47",
+      "prompt": "Go‘daklik davrida harakat rivojlanishining muhim bosqichi qaysi?",
+      "options": [
+        "Mustaqil yurishning shakllanishi",
+        "Nazariy tafakkurning rivojlanishi",
+        "Abstrakt fikrlashning shakllanishi",
+        "Mantiqiy operatsiyalarning paydo bo‘lishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q48",
+      "prompt": "Go‘daklik davrida nutq rivojlanishining dastlabki shakli qaysi?",
+      "options": [
+        "Gugullash va tovush reaksiyalari",
+        "Murakkab gaplar tuzilishi",
+        "Nazariy nutq",
+        "Yozma nutq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q49",
+      "prompt": "Chaqaloqning kattalar bilan muloqoti qanday xarakterga ega?",
+      "options": [
+        "Emotsional xarakterga",
+        "Nazariy xarakterga",
+        "Mantiqiy xarakterga",
+        "Statik xarakterga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q50",
+      "prompt": "Go‘daklik davrida predmetli harakatlarning rivojlanishi nimani bildiradi?",
+      "options": [
+        "Atrof muhitni faol o‘zlashtirishni",
+        "Tasodifiy harakatlarni",
+        "Biologik reflekslarni",
+        "Fiziologik reaksiyalarni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q51",
+      "prompt": "Ilk bolalik davrida nutq rivojlanishining asosiy funksiyasi nimada namoyon bo‘ladi?",
+      "options": [
+        "Muloqot vositasi sifatida xizmat qilishida",
+        "Faqat emotsional ifoda sifatida",
+        "Tasodifiy tovush reaksiyasi sifatida",
+        "Fiziologik refleks sifatida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q52",
+      "prompt": "Ilk bolalik davrida tafakkur rivojlanishi qaysi faoliyat bilan chambarchas bog‘liq?",
+      "options": [
+        "Predmetli faoliyat bilan",
+        "Nazariy faoliyat bilan",
+        "Statistik faoliyat bilan",
+        "Biologik faoliyat bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q53",
+      "prompt": "Ilk bolalik davrida o‘zini anglash jarayoni nimada namoyon bo‘ladi?",
+      "options": [
+        "“Men” tushunchasining shakllanishida",
+        "Nazariy tafakkurning rivojlanishida",
+        "Mantiqiy operatsiyalarning shakllanishida",
+        "Statistik fikrlashda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q54",
+      "prompt": "Ilk bolalik davrida emotsional rivojlanish nimaga bog‘liq?",
+      "options": [
+        "Kattalar bilan muloqotga",
+        "Faqat biologik o‘sishga",
+        "Tasodifiy muhitga",
+        "Fiziologik reaksiyalarga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q55",
+      "prompt": "Ilk bolalik davrida mustaqillikning shakllanishi qaysi jarayon bilan bog‘liq?",
+      "options": [
+        "Uch yosh krizisi bilan",
+        "Bir yosh krizisi bilan",
+        "O‘n yosh krizisi bilan",
+        "O‘smirlik krizisi bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q56",
+      "prompt": "Erik Erikson nazariyasiga ko‘ra, go‘daklik davrining asosiy psixologik muammosi qaysi?",
+      "options": [
+        "Ishonch va ishonchsizlik",
+        "Mehnatsevarlik va pastlik",
+        "Mustaqillik va shubha",
+        "Identifikatsiya muammosi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q57",
+      "prompt": "John Bowlby nazariyasiga ko‘ra, bola rivojlanishida nima muhim rol o‘ynaydi?",
+      "options": [
+        "Emotsional bog‘lanish",
+        "Faqat biologik reflekslar",
+        "Tasodifiy tajribalar",
+        "Fiziologik jarayonlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q58",
+      "prompt": "John Watson qarashlariga ko‘ra, bola rivojlanishida asosiy omil nima?",
+      "options": [
+        "Muhit va tarbiya",
+        "Genetik xususiyatlar",
+        "Tasodifiy tajribalar",
+        "Biologik reflekslar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q59",
+      "prompt": "Burrhus Frederic Skinner nazariyasiga ko‘ra, xulq-atvor qanday shakllanadi?",
+      "options": [
+        "Mustahkamlash orqali",
+        "Tasodifiy tajribalar orqali",
+        "Faqat biologik reflekslar orqali",
+        "Faqat genetik omillar orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q60",
+      "prompt": "Arnold Gesell bolalar rivojlanishida qaysi omilni asosiy deb hisoblagan?",
+      "options": [
+        "Biologik yetilish",
+        "Faqat tarbiya",
+        "Tasodifiy tajribalar",
+        "Faqat ijtimoiy muhit"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q61",
+      "prompt": "Jean Piaget nazariyasiga ko‘ra, bola qachon predmet doimiyligini tushuna boshlaydi",
+      "options": [
+        "Sensor-motor bosqich oxirida",
+        "Formal operatsiyalar bosqichida",
+        "Latent bosqichda",
+        "Anal bosqichda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q62",
+      "prompt": "Lev Viygotsky fikricha, bola tafakkuri rivojlanishida qaysi vosita muhim?",
+      "options": [
+        "Nutq",
+        "Refleks",
+        "Instinkt",
+        "Fiziologik reaksiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q63",
+      "prompt": "Maria Montessori nazariyasiga ko‘ra, bolalar rivojlanishida qaysi davr muhim hisoblanadi?",
+      "options": [
+        "Sensitiv davrlar",
+        "Statik davrlar",
+        "Nazariy davrlar",
+        "Tasodifiy davrlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q64",
+      "prompt": "Erik Erikson nazariyasiga ko‘ra, ilk bolalik davrining asosiy psixologik muammosi qaysi?",
+      "options": [
+        "Mustaqillik va shubha",
+        "Ishonch va ishonchsizlik",
+        "Identifikatsiya muammosi",
+        "Mehnatsevarlik muammosi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q65",
+      "prompt": "Jean Piaget nazariyasiga ko‘ra, bola tafakkuri rivojlanishining asosiy mexanizmlari qaysilar?",
+      "options": [
+        "Assimilyatsiya va akkomodatsiya",
+        "Refleks va instinkt",
+        "Motiv va ehtiyoj",
+        "Taqlid va takrorlash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q66",
+      "prompt": "Albert Bandura nazariyasiga ko‘ra, bolalar xulqi qanday shakllanadi?",
+      "options": [
+        "Kuzatish va taqlid orqali",
+        "Faqat refleks orqali",
+        "Faqat biologik omillar orqali",
+        "Tasodifiy tajribalar orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q67",
+      "prompt": "Lev Viygotsky fikricha, o‘yin faoliyati bola rivojlanishida qanday rol o‘ynaydi?",
+      "options": [
+        "Psixik rivojlanishni rag‘batlantiradi",
+        "Faqat dam olish vositasi",
+        "Tasodifiy faoliyat",
+        "Ahamiyatsiz faoliyat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q68",
+      "prompt": "Jerome Bruner nazariyasiga ko‘ra, bilim qanday shakllanadi?",
+      "options": [
+        "Faol o‘rganish jarayonida",
+        "Faqat biologik yetilish orqali",
+        "Faqat biologik yetilish orqali",
+        "Reflekslar orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q69",
+      "prompt": "Jean Piaget nazariyasiga ko‘ra, sensor-motor bosqich nechta kichik bosqichdan iborat?",
+      "options": [
+        "6",
+        "3",
+        "4",
+        "8"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q70",
+      "prompt": "Lev Viygotsky nazariyasiga ko‘ra, bola rivojlanishida ta’limning roli qanday?",
+      "options": [
+        "Rivojlanishni oldinga olib boradi",
+        "Rivojlanishga ta’sir qilmaydi",
+        "Tasodifiy ta’sir qiladi",
+        "Faqat biologik o‘sishga bog‘liq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q71",
+      "prompt": "Sigmund Freud nazariyasiga ko‘ra, bola shaxsiyati rivojlanishida nima muhim?",
+      "options": [
+        "Ong osti jarayonlari",
+        "Tasodifiy tajribalar",
+        "Fiziologik reaksiyalar",
+        "Psixik rivojlanishni rag‘batlantiradi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q72",
+      "prompt": "John Bowlby fikricha, bola va ona o‘rtasidagi bog‘lanish nima uchun muhim?",
+      "options": [
+        "Emotsional xavfsizlik uchun",
+        "Faqat fiziologik ehtiyojlar uchun",
+        "Tasodifiy tajribalar uchun",
+        "Nazariy rivojlanish uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q73",
+      "prompt": "Jean Piaget nazariyasiga ko‘ra, bola bilimi qanday rivojlanadi?",
+      "options": [
+        "Faol tajriba orqali",
+        "Faqat o‘qitish orqali",
+        "Faqat biologik o‘sish orqali",
+        "Tasodifiy jarayon orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q74",
+      "prompt": "Lev Vygotsky nazariyasiga ko‘ra, madaniyat bola rivojlanishida qanday rol o‘ynaydi?",
+      "options": [
+        "Psixik rivojlanishni shakllantiradi",
+        "Ahamiyatsiz rol o‘ynaydi",
+        "Faqat biologik jarayonlarga ta’sir qiladi",
+        "Tasodifiy ta’sir ko‘rsatadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q75",
+      "prompt": "Maria Montessori metodikasida ta’lim qanday tashkil etiladi?",
+      "options": [
+        "Bola faoliyatiga mos muhit yaratish orqali",
+        "Faqat nazariy o‘qitish orqali",
+        "Faqat majburiy nazorat orqali",
+        "Tasodifiy faoliyat orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q76",
+      "prompt": "Albert Bandura nazariyasida kuzatish orqali o‘rganish nima deb ataladi?",
+      "options": [
+        "Modellash",
+        "Refleks",
+        "Instinkt",
+        "Assimilyatsiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q77",
+      "prompt": "Arnold Gesell tadqiqotlari qaysi yo‘nalishga asoslangan?",
+      "options": [
+        "Biologik yetilish nazariyasiga",
+        "Ijtimoiy nazariyaga",
+        "Psixoanalizga",
+        "Behaviorizmga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q78",
+      "prompt": "Jean Piaget nazariyasiga ko‘ra, bola qachon sabab-oqibat aloqalarini tushuna boshlaydi?",
+      "options": [
+        "Sensor-motor bosqich oxirida",
+        "Latent bosqichda",
+        "Anal bosqichda",
+        "Genital bosqichda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q79",
+      "prompt": "Lev Vygotsky fikricha, bola rivojlanishida til qanday rol o‘ynaydi?",
+      "options": [
+        "Tafakkurni rivojlantiradi",
+        "Faqat muloqot vositasi",
+        "Tasodifiy jarayon",
+        "Fiziologik refleks"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q80",
+      "prompt": "Jerome Bruner nazariyasiga ko‘ra, bilimni o‘zlashtirishning asosiy usuli qaysi?",
+      "options": [
+        "Kashf etish orqali o‘rganish",
+        "Tasodifiy tajriba",
+        "Faqat yodlash",
+        "Reflekslar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q81",
+      "prompt": "1 yoshli bola o‘yinchoqni ko‘rmay qolsa ham uni qidirishda davom etadi. Bu holat qaysi olim nazariyasiga mos keladi?",
+      "options": [
+        "Jean Piaget sensor-motor rivojlanish nazariyasi",
+        "Sigmund Freud psixoanaliz nazariyasi",
+        "John Watson behaviorizm nazariyasi",
+        "Arnold Gesell yetilish nazariyasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q82",
+      "prompt": "Tarbiyachi bolaga yangi vazifani bajarishda yordam beradi, keyin esa bola uni mustaqil bajaradi. Bu qaysi nazariya bilan izohlanadi?",
+      "options": [
+        "Lev Vygotsky yaqin rivojlanish zonasi",
+        "Jean Piaget operatsion tafakkur",
+        "Sigmund Freud psixoanaliz",
+        "Arnold Gesell biologik yetilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q83",
+      "prompt": "Bola kattalarning xatti-harakatlarini kuzatib, ularni takrorlay boshlaydi. Bu holat qaysi olim nazariyasiga mos?",
+      "options": [
+        "Albert Bandura ijtimoiy o‘rganish nazariyasi",
+        "Jean Piaget kognitiv nazariya",
+        "Sigmund Freud psixoanaliz",
+        "Arnold Gesell yetilish nazariyasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q84",
+      "prompt": "Bola o‘yinchoqni og‘ziga olib ko‘rib, uni shu yo‘l bilan o‘rganadi. Bu qaysi rivojlanish bosqichiga xos?",
+      "options": [
+        "Jean Piaget sensor-motor bosqich",
+        "Viygotskiy Yaqin rivojlanish zonasi nazariyasida",
+        "Sigmund Freud latent bosqich",
+        "Erik Erikson identifikatsiya bosqichi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q85",
+      "prompt": "2 yoshli bola “men o‘zim qilaman” deb mustaqillik ko‘rsatadi. Bu qaysi olim ta’riflagan psixologik bosqichga mos?",
+      "options": [
+        "Erik Erikson mustaqillik va shubha bosqichi",
+        "Sigmund Freud oral bosqich",
+        "Jean Piaget formal operatsiyalar bosqichi",
+        "Arnold Gesell yetilish nazariyasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q86",
+      "prompt": "Ona bolasini quchoqlab tinchlantirganda bola o‘zini xavfsiz his qiladi. Bu holat qaysi nazariya bilan tushuntiriladi?",
+      "options": [
+        "John Bowlby bog‘lanish nazariyasi",
+        "Jean Piaget kognitiv rivojlanish nazariyasi",
+        "John Watson behaviorizm",
+        "Arnold Gesell biologik yetilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q87",
+      "prompt": "Bola yangi predmetni ko‘rib, uni oldingi tajribasiga moslab tushunadi. Bu qaysi jarayon?",
+      "options": [
+        "Jean Piaget assimilyatsiya",
+        "A. Gezell refleks",
+        "Sigmund Freud sublimatsiya",
+        "John Watson refleks"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q88",
+      "prompt": "Bola yangi tajriba tufayli o‘z bilimini o‘zgartiradi. Bu qaysi jarayon?",
+      "options": [
+        "Jean Piaget akkomodatsiya",
+        "John Vatson behaviarizm",
+        "Sigmund Freud regressiya",
+        "John Watson refleks"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q89",
+      "prompt": "Tarbiyachi bolaga mustaqil o‘yin muhitini yaratib beradi. Bu qaysi pedagogik yondashuvga mos?",
+      "options": [
+        "Maria Montessori metodikasi",
+        "Jean Piaget nazariyasi",
+        "Sigmund Freud psixoanaliz",
+        "John Watson behaviorizm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q90",
+      "prompt": "Bola o‘yin davomida kattalar rolini bajarib ko‘radi. Bu qaysi olim fikriga ko‘ra muhim rivojlanish omili hisoblanadi?",
+      "options": [
+        "Lev Viygotsky",
+        "Sigmund Freud",
+        "John Watson",
+        "Arnold Gesell"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q91",
+      "prompt": "Bola kattalarning maqtovidan so‘ng shu xatti-harakatni yana takrorlaydi. Bu qaysi nazariyaga mos?",
+      "options": [
+        "Burrhus Frederic Skinner mustahkamlash nazariyasi",
+        "Jean Piaget kognitiv nazariya",
+        "Sigmund Freud psixoanaliz",
+        "Lev Vygotsky ijtimoiy nazariya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q92",
+      "prompt": "Bola onasidan uzoqlashganda yig‘lay boshlaydi. Bu qaysi hodisa bilan bog‘liq?",
+      "options": [
+        "John Bowlby bog‘lanish reaksiyasi",
+        "Jean Piaget kognitiv rivojlanish",
+        "Sigmund Freud psixoanaliz",
+        "Arnold Gesell biologik yetilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q93",
+      "prompt": "Bola yangi o‘yinchoqni sinab ko‘rib o‘rganadi. Bu qaysi rivojlanish xususiyatiga misol?",
+      "options": [
+        "Jean Piaget faol tajriba orqali o‘rganish",
+        "Sigmund Freud psixoanaliz",
+        "John Watson refleks",
+        "Arnold Gesell yetilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q94",
+      "prompt": "Tarbiyachi bolaga savol berib, uni fikrlashga undaydi. Bu qaysi olim ta’kidlagan usulga mos?",
+      "options": [
+        "Jerome Bruner kashf etish orqali o‘rganish",
+        "Sigmund Freud psixoanaliz",
+        "John Watson behaviorizm",
+        "Arnold Gesell yetilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q95",
+      "prompt": "Bola kattalarga taqlid qilib gapira boshlaydi. Bu qaysi rivojlanish jarayoni bilan bog‘liq?",
+      "options": [
+        "Lev Vygotsky ijtimoiy o‘rganish",
+        "Sigmund Freud psixoanaliz",
+        "John Watson refleks",
+        "Arnold Gesell biologik yetilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q96",
+      "prompt": "Bola o‘yin orqali ijtimoiy rollarni o‘zlashtiradi. Bu qaysi nazariya bilan izohlanadi?",
+      "options": [
+        "Lev Vygotsky ijtimoiy-madaniy nazariya",
+        "Jean Piaget biologik rivojlanish",
+        "Sigmund Freud psixoanaliz",
+        "Arnold Gesell yetilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q97",
+      "prompt": "Bola bir xil harakatni qayta-qayta takrorlab ko‘radi. Bu qaysi bosqichga xos?",
+      "options": [
+        "J. Piaget senso-motor bosqichi",
+        "A. Gezell yetilish bosqichi",
+        "Sigmund Freud latent bosqich",
+        "Erik Erikson identifikatsiya bosqichi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q98",
+      "prompt": "Bola kattalarning harakatlarini ko‘rib, shunday qilishni o‘rganadi. Bu qaysi nazariyaga misol?",
+      "options": [
+        "Albert Bandura ijtimoiy o‘rganish nazariyasi",
+        "Sigmund Freud psixoanaliz",
+        "John Watson behaviorizm",
+        "Arnold Gesell yetilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q99",
+      "prompt": "Bola muammoni hal qilish uchun tajriba qilib ko‘radi. Bu qaysi rivojlanish xususiyati?",
+      "options": [
+        "Jean Piaget faol kognitiv rivojlanish",
+        "Sigmund Freud psixoanaliz",
+        "John Watson refleks",
+        "Arnold Gesell biologik yetilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q100",
+      "prompt": "Bolaning hissiy holatini rasm orqali o‘rganish qaysi metodga kiradi?",
+      "options": [
+        "Proyektiv metod",
+        "Kognitiv test",
+        "Laboratoriya tekshiruvi",
+        "Reflex tekshiruvi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q101",
+      "prompt": "5 yoshli bolaning ijtimoiy qobiliyatini aniqlashda eng samarali metod?",
+      "options": [
+        "Observatsiya",
+        "Biokimyoviy test",
+        "Rentgen",
+        "Fizik mashqlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q102",
+      "prompt": "Bola nutqini va muloqotini tahlil qilish uchun qaysi metod qo‘llanadi?",
+      "options": [
+        "Psixologik suhbat",
+        "Reflex testi",
+        "Laboratoriya tahlili",
+        "Fizik mashqlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q103",
+      "prompt": "Bolaning diqqat va xotirasini o‘rganish qaysi metod bilan amalga oshiriladi?",
+      "options": [
+        "Kognitiv testlar",
+        "Rasm chizish",
+        "O‘yin diagnostikasi",
+        "Biokimyoviy tahlil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q104",
+      "prompt": "Bola o‘yinda o‘z his-tuyg‘ularini ifodalaydi. Bu qaysi metodga misol?",
+      "options": [
+        "Proyektiv metod",
+        "Kognitiv test",
+        "Observatsiya",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q105",
+      "prompt": "Bola topshiriqlarni bajarishda xatolarga yo‘l qo‘yganda uning psixikasi qanday tahlil qilinadi?",
+      "options": [
+        "Kognitiv diagnostika",
+        "Fizik mashqlar",
+        "Biokimyoviy test",
+        "Rentgen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q106",
+      "prompt": "Chaqaloqni ijtimoiy muhitga moslashishini aniqlash uchun qaysi metod ishlatiladi?",
+      "options": [
+        "Observatsiya",
+        "Reflex testlari",
+        "Laboratoriya tahlili",
+        "Biokimyoviy test"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q107",
+      "prompt": "Bola rasm chizish orqali ichki dunyosini ifodalaydi. Bu qaysi diagnostik yondashuv?",
+      "options": [
+        "Proyektiv metod",
+        "Kognitiv test",
+        "Suhbat",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q108",
+      "prompt": "Bola bilan intervyu orqali hissiy va ijtimoiy qobiliyatlarni aniqlash metodini nima deb atashadi?",
+      "options": [
+        "Psixologik suhbat",
+        "Kognitiv test",
+        "Laboratoriya tekshiruvi",
+        "Fizik mashqlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q109",
+      "prompt": "Bolaning e’tiborini va diqqatini o‘rganish uchun qaysi metod samarali?",
+      "options": [
+        "Kognitiv testlar",
+        "Rasm chizish",
+        "Reflex",
+        "Laboratoriya tahlili"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q110",
+      "prompt": "O‘yin orqali bolani psixikasi baholanadigan metodni nima deb atashadi?",
+      "options": [
+        "O‘yin diagnostikasi",
+        "Kognitiv test",
+        "Observatsiya",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q111",
+      "prompt": "Bola topshiriqni bajarayotganda xatolik qilsa, uning kognitiv qobiliyatlarini baholash uchun qaysi metod ishlatiladi?",
+      "options": [
+        "Kognitiv testlar",
+        "Proyektiv test",
+        "Suhbat",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q112",
+      "prompt": "Bolaning hissiy holatini tushunish uchun eng samarali metod?",
+      "options": [
+        "Proyektiv testlar",
+        "Fizik mashqlar",
+        "Biokimyoviy tahlil",
+        "Rentgen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q113",
+      "prompt": "4–5 yoshli bolani ijtimoiy qoidalar va muloqotga moslashishini aniqlash uchun qaysi metod ishlatiladi?",
+      "options": [
+        "Observatsiya",
+        "Reflex",
+        "Laboratoriya testi",
+        "Fizik mashqlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q114",
+      "prompt": "Bola o‘z his-tuyg‘ularini rasm orqali ifodalaydi. Bu qaysi metodga misol?",
+      "options": [
+        "Proyektiv metod",
+        "Kognitiv test",
+        "Suhbat",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q115",
+      "prompt": "Bola nutqini baholash uchun qaysi metod ishlatiladi?",
+      "options": [
+        "Psixologik suhbat",
+        "Rasm chizish",
+        "Reflex",
+        "Laboratoriya tahlili"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q116",
+      "prompt": "Bola e’tiborini va diqqatini baholash uchun ishlatiladigan metod?",
+      "options": [
+        "Kognitiv testlar",
+        "Proyektiv test",
+        "O‘yin diagnostikasi",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q117",
+      "prompt": "Bolaning psixik holatini o‘yinda kuzatish metodini nima deb atashadi?",
+      "options": [
+        "o‘yin diagnostikasi",
+        "Kognitiv test",
+        "Rasm chizish",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q118",
+      "prompt": "Chaqaloqni ijtimoiy muhitga moslashishini tahlil qilish uchun qaysi metod ishlatiladi?",
+      "options": [
+        "Observatsiya",
+        "Reflex",
+        "Laboratoriya tahlili",
+        "Biokimyoviy test"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q119",
+      "prompt": "Bola rasm chizish orqali o‘z ichki holatini ko‘rsatadi. Bu metod qaysi guruhga kiradi?",
+      "options": [
+        "Proyektiv metodlar",
+        "Kognitiv testlar",
+        "Suhbat",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q120",
+      "prompt": "Bola intervyu orqali hissiy va ijtimoiy qobiliyatlarini namoyon qiladi. Bu metod qaysi guruhga kiradi?",
+      "options": [
+        "Psixologik suhbat",
+        "Kognitiv testlar",
+        "Laboratoriya testi",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q121",
+      "prompt": "Bola topshiriqni bajarayotganda muammoga duch keladi va turli yo‘llarni sinab ko‘radi. Bu qaysi psixodiagnostik jarayon bilan o‘lchanadi?",
+      "options": [
+        "Kognitiv diagnostika",
+        "Reflex testi",
+        "Fizik mashqlar",
+        "Rentgen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q122",
+      "prompt": "Chaqaloq ijtimoiy muhitdagi boshqalarning reaktsiyasini kuzatadi. Bu qaysi metod bilan baholanadi?",
+      "options": [
+        "Observatsiya",
+        "Laboratoriya testi",
+        "Biokimyoviy tahlil",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q123",
+      "prompt": "Bola rasm chizish orqali ichki dunyosini ifodalaydi. Bu qaysi metodga misol?",
+      "options": [
+        "Proyektiv metod",
+        "Kognitiv test",
+        "Fizik mashqlar",
+        "Suhbat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q124",
+      "prompt": "5 yoshli bolaning e’tibor va diqqatini o‘rganish uchun qaysi metod ishlatiladi?",
+      "options": [
+        "Kognitiv testlar",
+        "O‘yin diagnostikasi",
+        "Reflex",
+        "Rentgen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q125",
+      "prompt": "Bola intervyu davomida o‘z hissiyotini ifodalaydi. Bu qaysi metodga kiradi?",
+      "options": [
+        "Psixologik suhbat",
+        "Laboratoriya testi",
+        "Biokimyoviy tahlil",
+        "Fizik mashqlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q126",
+      "prompt": "Bola ijtimoiy o‘yin davomida o‘zini boshqalar bilan solishtiradi. Bu qaysi metod bilan tahlil qilinadi?",
+      "options": [
+        "O‘yin diagnostikasi",
+        "Reflex",
+        "Kognitiv test",
+        "Rentgen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q127",
+      "prompt": "Chaqaloq rasm chizishda xotira va hissiy holatini namoyon qiladi. Bu qaysi metod?",
+      "options": [
+        "Proyektiv test",
+        "Observatsiya",
+        "Suhbat",
+        "Biokimyoviy test"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q128",
+      "prompt": "Bola nutq va muloqotini intervyu orqali namoyon qiladi. Bu qaysi metodga kiradi?",
+      "options": [
+        "Psixologik suhbat",
+        "Reflex",
+        "Fizik mashqlar",
+        "Laboratoriya testi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q129",
+      "prompt": "Bola topshiriqni bajarishda xatoga yo‘l qo‘yadi va tuzatadi. Bu qaysi diagnostik jarayon?",
+      "options": [
+        "Kognitiv diagnostika",
+        "Proyektiv test",
+        "Suhbat",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q130",
+      "prompt": "Bola o‘yinda ijtimoiy qoidalarni takrorlaydi va psixikasi baholanadi. Bu qaysi metod?",
+      "options": [
+        "O‘yin diagnostikasi",
+        "Kognitiv test",
+        "Reflex",
+        "Laboratoriya testi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q131",
+      "prompt": "Bola bilan intervyu orqali hissiy holat va ijtimoiy qobiliyatlarni aniqlash metodini nima deb atashadi?",
+      "options": [
+        "Psixologik suhbat",
+        "Reflex",
+        "Rasm chizish",
+        "Laboratoriya testi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q132",
+      "prompt": "Bolaning e’tiborini va diqqatini o‘rganish metodlari qaysi guruhga kiradi?",
+      "options": [
+        "Kognitiv testlar",
+        "Proyektiv testlar",
+        "O‘yin diagnostikasi",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q133",
+      "prompt": "Chaqaloqni o‘yin orqali kuzatish uning hissiy va ijtimoiy qobiliyatini baholash imkonini beradi. Bu qaysi metod?",
+      "options": [
+        "O‘yin diagnostikasi",
+        "Laboratoriya testi",
+        "Biokimyoviy tahlil",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q134",
+      "prompt": "Bola rasm chizish orqali ichki dunyosini ifodalaydi. Bu qaysi metodga misol?",
+      "options": [
+        "Proyektiv metod",
+        "Kognitiv test",
+        "Suhbat",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q135",
+      "prompt": "Bola intervyuda o‘z his-tuyg‘ularini ifodalaydi. Bu qaysi diagnostik metod?",
+      "options": [
+        "Psixologik suhbat",
+        "Laboratoriya testi",
+        "Fizik mashqlar",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q136",
+      "prompt": "4–5 yoshli bolaning ijtimoiy qobiliyatini aniqlashda qaysi metod eng samarali?",
+      "options": [
+        "Observatsiya",
+        "Kognitiv test",
+        "Proyektiv test",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q137",
+      "prompt": "Bola topshiriqni bajarayotganda turli yo‘llarni sinab ko‘radi va xatolarini tuzatadi. Bu qaysi jarayon?",
+      "options": [
+        "Kognitiv diagnostika",
+        "Proyektiv test",
+        "O‘yin diagnostikasi",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q138",
+      "prompt": "Chaqaloq boshqalar bilan o‘yinda o‘zini solishtiradi. Bu qaysi metod bilan baholanadi?",
+      "options": [
+        "O‘yin diagnostikasi",
+        "Reflex",
+        "Kognitiv test",
+        "Laboratoriya testi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q139",
+      "prompt": "Bola rasm chizishda o‘z ichki holatini ko‘rsatadi va psixikasi tahlil qilinadi. Bu qaysi metod?",
+      "options": [
+        "Proyektiv test",
+        "Kognitiv test",
+        "Suhbat",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q140",
+      "prompt": "Bola nutq va muloqotini intervyu orqali namoyon qiladi. Bu qaysi metodga kiradi?",
+      "options": [
+        "Psixologik suhbat",
+        "Kognitiv test",
+        "Reflex",
+        "Laboratoriya testi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q141",
+      "prompt": "Bola e’tibor va diqqatini o‘rganish uchun qaysi metod ishlatiladi?",
+      "options": [
+        "Kognitiv testlar",
+        "O‘yin diagnostikasi",
+        "Reflex",
+        "Laboratoriya testi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q142",
+      "prompt": "Bola o‘yinda ijtimoiy qoidalarni takrorlaydi. Bu qaysi metod bilan tahlil qilinadi?",
+      "options": [
+        "O‘yin diagnostikasi",
+        "Reflex",
+        "Laboratoriya testi",
+        "Biokimyoviy test"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q143",
+      "prompt": "Chaqaloq intervyu orqali o‘z hissiyotini ifodalaydi. Bu qaysi metodga kiradi?",
+      "options": [
+        "Psixologik suhbat",
+        "Kognitiv test",
+        "Reflex",
+        "Fizik mashqlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q144",
+      "prompt": "Bola rasm chizishda ichki holatini ifodalaydi. Bu qaysi diagnostik metod?",
+      "options": [
+        "Proyektiv test",
+        "Kognitiv test",
+        "O‘yin diagnostikasi",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q145",
+      "prompt": "Bola topshiriqni bajarayotganda xatolarini tuzatadi va kognitiv jarayon baholanadi. Bu qaysi metod?",
+      "options": [
+        "Kognitiv diagnostika",
+        "Proyektiv test",
+        "Suhbat",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q146",
+      "prompt": "Chaqaloq ijtimoiy muhitga moslashishini kuzatish uchun qaysi metod ishlatiladi?",
+      "options": [
+        "Observatsiya",
+        "Reflex",
+        "Laboratoriya testi",
+        "Biokimyoviy tahlil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q147",
+      "prompt": "Bola intervyuda o‘z his-tuyg‘ularini ifodalaydi. Bu qaysi metod?",
+      "options": [
+        "Psixologik suhbat",
+        "Kognitiv test",
+        "Reflex",
+        "Laboratoriya testi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q148",
+      "prompt": "Bola o‘yinda ijtimoiy qoidalarni qayta ishlab chiqadi. Bu qaysi metod bilan baholanadi?",
+      "options": [
+        "O‘yin diagnostikasi",
+        "Kognitiv test",
+        "Reflex",
+        "Laboratoriya testi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q149",
+      "prompt": "Bola rasm chizishda o‘z ichki dunyosini ko‘rsatadi. Bu qaysi metod?",
+      "options": [
+        "Proyektiv test",
+        "Kognitiv test",
+        "Suhbat",
+        "Reflex"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q150",
+      "prompt": "Bola nutq va muloqotini intervyu orqali namoyon qiladi va psixikasi baholanadi. Bu qaysi metodga kiradi?",
+      "options": [
+        "Psixologik suhbat",
+        "Kognitiv test",
+        "Reflex",
+        "Laboratoriya testi"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}

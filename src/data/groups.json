@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "id": "mt25",
+      "name": "MT25-1 Kunduzgi",
+      "password": "1020",
+      "assignedSubjects": [
+        "media",
+        "russian",
+        "sahnalashtirish",
+        "ilk-va-maktabgacha-yoshdagi-bolalar-pedagogikasi"
+      ]
+    },
+    {
+      "id": "student",
+      "name": "MT25-1 Kunduzgi 2-semester",
+      "password": "1234",
+      "assignedSubjects": [
+        "bolalar-psixologiyasi-va-psixodiagnostikasi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "id": "psixologiya_part_1",
+  "name": "Psixologiya (1–50)",
+  "timeSeconds": 1500,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Diqqatning asosiy vazifasi qaysi javobda to’g’ri berilgan?",
+      "options": [
+        "Bilish jarayonlarini cheklash",
+        "Axborotni avtomatik unutish",
+        "Psixik faoliyatni yo’naltirish va jamlash",
+        "Emotsional holatni pasaytirish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q2",
+      "prompt": "Diqqatning ixtiyoriy shakli qaysi holatda namoyon bo’ladi?",
+      "options": [
+        "Tashqi ta’sir ostida",
+        "Maxsus maqsad va iroda bilan boshqarilganda",
+        "Reflekslar yordamida",
+        "Uyqu paytida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q3",
+      "prompt": "Qaysi turdagi xotira qisqa muddatli ma’lumotlarni ushlab turadi?",
+      "options": [
+        "Emotsional xotira",
+        "Operativ xotira",
+        "Uzoq muddatli xotira",
+        "Harakat xotirasi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q4",
+      "prompt": "Xotira deb nimaga aytiladi?",
+      "options": [
+        "Tashqi qo’zg’atuvchilar yig’indisi",
+        "Bilimlarni idrok qilish jarayoni",
+        "O’tmish tajribasini eslab qolish, saqlash va qayta tiklash jarayoni",
+        "Faoliyatni rejalashtirish qobiliyati"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q5",
+      "prompt": "Hayolning asosiy funksiyasi qaysi qatorda to’g’ri ko’rsatilgan?",
+      "options": [
+        "Ma’lumotlarni mexanik qayta ishlash",
+        "Yangi obraz va g’oyalar yaratish",
+        "Faktlarni yod olish",
+        "Nutqni avtomatlashtirish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q6",
+      "prompt": "Psixika nima?",
+      "options": [
+        "Markaziy asab tizimining anatomiyasi",
+        "Organizmdagi fiziologik jarayon",
+        "Odam va hayvonlarning tashqi olamni aks ettirish qobiliyati",
+        "Faoliyat natijasi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q7",
+      "prompt": "Psixikaning eng yuqori shakli bu…?",
+      "options": ["Instinkt", "Hissiyot", "Ong", "Tasavvur"],
+      "correctIndex": 2
+    },
+    {
+      "id": "q8",
+      "prompt": "Stress holati nimani bildiradi?",
+      "options": [
+        "Jismoniy charchoq",
+        "Kuchli emotsional zo’riqish holati",
+        "Oddiy kayfiyat o’zgarishi",
+        "Reflektor reaksiya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q9",
+      "prompt": "Idrokning asosiy xususiyati qaysi?",
+      "options": [
+        "Faol va yaxlit bo’lish",
+        "Tasodifiy bo’lish",
+        "Tasodifiy sezgilar yig’indisi",
+        "Mexanik jarayon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Emotsiyaga to‘liq ta’rif keltirilgan qatorni belgilang?",
+      "options": [
+        "Tashqi harakat",
+        "Jismoniy harakat o’zgarishi",
+        "Insonning voqelikka subyektiv munosabati ifodasi",
+        "Nutqning o’zgarishi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q10",
+      "prompt": "Emotsiyaga to‘liq ta’rif keltirilgan qatorni belgilang?",
+      "options": [
+        "Tashqi harakat",
+        "Jismoniy harakat o‘zgarishi",
+        "Insonning voqelikka subyektiv munosabati ifodasi",
+        "Nutqning o‘zgarishi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q11",
+      "prompt": "Psixologiya nechinchi asrda mustaqil fan sifatida ajralib chiqdi?",
+      "options": ["XX", "XIV", "XI", "XII"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "V. Vundt tomonidan psixologiya bo‘yicha ilmiy laboratoriya nechinchi yilda tashkil etilgan?",
+      "options": ["1869 yil", "1879 yil", "1789 yil", "1561 yil"],
+      "correctIndex": 1
+    },
+    {
+      "id": "q13",
+      "prompt": "Umumiy psixologiyaning nechta tuzilishi bor?",
+      "options": ["2", "3", "6", "5"],
+      "correctIndex": 1
+    },
+    {
+      "id": "q14",
+      "prompt": "Behiviorizm asoschilari kimlar?",
+      "options": [
+        "J. Uotson va B. Skinner",
+        "V. Vundt va E. Torndayk",
+        "K. Kolumb",
+        "K. Popper"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "J. Uotson psixologiyaga qanday ta’rif bergan?",
+      "options": [
+        "Tajriba va kuzatish asosida o‘rganiladigan fan",
+        "Diqqat va assotsiatsiyani o‘rganadigan fan",
+        "Faqat ko‘zga ko‘rinadigan xulq-atvorni o‘rganish",
+        "Ong va ichki hissiyotlarni o‘rganadigan fan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q16",
+      "prompt": "Faoliyat bu —",
+      "options": [
+        "Odamning atrof-muhit bilan maqsadga yo‘naltirilgan o‘zaro munosabati",
+        "Obyektiv olamni subyektiv aks ettirish",
+        "Barcha psixik jarayonlarning jamlanishi",
+        "Miyaning obyektiv olamni aks ettirishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Diqqat deb nimaga aytiladi?",
+      "options": [
+        "Bir vaqtning o‘zida ko‘p narsani qilish",
+        "Ongning maqsadsiz obyektga yo‘nalishi",
+        "Ongning oldindan belgilangan maqsadli obyektga yo‘nalishi",
+        "Shaxsning psixik faoliyatini muayyan obyektga jamlash jarayoni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q18",
+      "prompt": "Diqqatning asosiy turlarini sanab o‘ting",
+      "options": [
+        "Diqqat obyekti, diqqatsizlik, diqqat hajmi",
+        "Ixtiyoriy, ixtiyordan keyingi, ixtiyorsiz",
+        "Diqqat chalg‘ishi va diqqat o‘zgarishi",
+        "Ixtiyorsiz va diqqat obyekti"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q19",
+      "prompt": "Diqqatning asosiy xossalaridan biri qaysi?",
+      "options": ["Turg‘unlik", "Tasavvur", "Tafakkur", "Idrok"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Diqqatning ixtiyorsiz turi qanday hosil bo‘ladi?",
+      "options": [
+        "Maxsus mashq orqali",
+        "Maqsad asosida",
+        "Kuchli ta’sirlar natijasida o‘z-o‘zidan",
+        "Irodaviy kuch bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q20",
+      "prompt": "Diqqatning ixtiyorsiz turi qanday hosil bo‘ladi?",
+      "options": [
+        "Maxsus mashq orqali",
+        "Maqsad asosida",
+        "Kuchli ta’sirlar natijasida o‘z-o‘zidan",
+        "Irodaviy kuch bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q21",
+      "prompt": "Ixtiyoriy diqqat nimaga asoslanadi?",
+      "options": [
+        "Qiziqish",
+        "Iroda va maqsadga",
+        "Emotsiya",
+        "Tasodifiy ta’sir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q22",
+      "prompt": "Diqqatning turg‘unligi nimani bildiradi?",
+      "options": [
+        "Diqqatni tez almashtirish",
+        "Diqqatning uzoq vaqt davomida saqlanishi",
+        "Diqqatning tarqoqligi",
+        "Bir nechta ishni bajarish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q23",
+      "prompt": "Diqqatni bir faoliyatdan boshqasiga o‘tkazish qanday ataladi?",
+      "options": [
+        "Turg‘unlik",
+        "Bo‘linuvchanlik",
+        "Ko‘chuvchanlik",
+        "Barqarorlik"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q24",
+      "prompt": "Diqqatning bo‘linuvchanligi deganda nima tushuniladi?",
+      "options": [
+        "Bir vaqtning o‘zida bir nechta ishni bajarish",
+        "Diqqatning uzilishi",
+        "E’tiborsizlik",
+        "Diqqatning pasayishi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Diqqatning hajmi deganda nima tushuniladi?",
+      "options": [
+        "E’lonlar soni",
+        "Bir vaqtning o‘zida qamrab olinadigan obyektlar soni",
+        "Diqqat davomiyligi",
+        "Diqqat kuchi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q26",
+      "prompt": "Diqqatning asosiy fiziologik asoschisi kim?",
+      "options": ["Z. Freyd", "P. Pavlov", "V. Vundt", "J. Piaje"],
+      "correctIndex": 1
+    },
+    {
+      "id": "q27",
+      "prompt": "Diqqatning chalg‘ishi nimani anglatadi?",
+      "options": [
+        "Diqqatning kuchayishi",
+        "Diqqatning boshqa obyektga ko‘chishi",
+        "Diqqatning turg‘unligi",
+        "Diqqat hajmining oshishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q28",
+      "prompt": "O‘quvchining dars payti derazaga qarab ketishi qaysi holat?",
+      "options": [
+        "Turg‘un diqqat",
+        "Ixtiyoriy diqqat",
+        "Ixtiyorsiz chalg‘ish",
+        "Bo‘linuvchan diqqat"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q29",
+      "prompt": "Diqqatning kuchi qaysi holatda oshadi?",
+      "options": [
+        "Charchaganda",
+        "Qiziqish bo‘lganda",
+        "Uyqusi kelganda",
+        "Stressda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q30",
+      "prompt": "“Bir vaqtning o‘zida matn o‘qib, musiqa eshitish” qaysi diqqat turi?",
+      "options": ["Hajm", "Turg‘unlik", "Bo‘linuvchanlik", "Ko‘chuvchanlik"],
+      "correctIndex": 2
+    },
+    {
+      "id": "q30",
+      "prompt": "“Bir vaqtning o‘zida matn o‘qib, musiqa eshitish” qaysi diqqat turi?",
+      "options": ["Hajm", "Turg‘unlik", "Bo‘linuvchanlik", "Ko‘chuvchanlik"],
+      "correctIndex": 2
+    },
+    {
+      "id": "q31",
+      "prompt": "Diqqat buzilishi ko‘proq kimlarda uchraydi?",
+      "options": [
+        "Faqat kattalarda",
+        "Faqat bolalarda",
+        "Har qanday yoshda",
+        "Faqat qariyalarda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q32",
+      "prompt": "Diqqatning pasayishi qanday holat bilan bog‘liq?",
+      "options": [
+        "Emotsional ko‘tarinkilik",
+        "Charchash va zerikish",
+        "Qiziqish kuchayishi",
+        "Ijobiy motivatsiya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q33",
+      "prompt": "Diqqatning obyekti nima?",
+      "options": [
+        "Faqat odam",
+        "Faqat hodisalar",
+        "Diqqat qaratilgan narsa yoki hodisa",
+        "Faqat predmet"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q34",
+      "prompt": "“Talaba telefonidan kelgan signalga qaramay darsni davom ettirdi” — bu?",
+      "options": [
+        "Ixtiyorsiz diqqat",
+        "Ixtiyoriy diqqat",
+        "Bo‘linuvchi diqqat",
+        "Yetarli emas"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q35",
+      "prompt": "Temperamentning psixologik ahamiyati nimada?",
+      "options": [
+        "Shaxsiy muvaffaqiyatni aniqlash",
+        "Hissiy reaksiyalar va ish faoliyatini tushunish",
+        "Jismoniy kuchni oshirish",
+        "Faqat xotirani yaxshilash"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q36",
+      "prompt": "Diqqat psixikaning qaysi jarayonlari bilan bog‘liq?",
+      "options": [
+        "Faqat sezgi bilan",
+        "Faqat xotira bilan",
+        "Barcha bilish jarayonlari bilan",
+        "Faqat tafakkur bilan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q37",
+      "prompt": "Diqqatning irodaga bog‘liq turi qaysi?",
+      "options": [
+        "Ixtiyorsiz diqqat",
+        "Ixtiyoriy diqqat",
+        "Tarqoq diqqat",
+        "Emotsional diqqat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q38",
+      "prompt": "Kognitiv jarayonlar deganda nimani tushunasiz?",
+      "options": [
+        "Faqat hissiyotlar majmui",
+        "Bilish va anglashga oid psixik jarayonlar",
+        "Faqat xotira jarayoni",
+        "Faqat nutq jarayoni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q39",
+      "prompt": "Kognitiv jarayonlarning asosiy turlari qaysi?",
+      "options": [
+        "Hissiyot, iroda",
+        "Idrok, xotira, tafakkur, diqqat",
+        "Temperament, xarakter",
+        "Shaxs yo‘nalishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q40",
+      "prompt": "Aks ettirish darajasi deganda nima nazarda tutiladi?",
+      "options": [
+        "Odamning ish qobiliyati",
+        "Obyektiv voqelikni ongda in’ikos etish chuqurligi",
+        "Jismoniy rivojlanish darajasi",
+        "Nutq rivojlanishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q40",
+      "prompt": "Aks ettirish darajasi deganda nima nazarda tutiladi?",
+      "options": [
+        "Odamning ish qobiliyati",
+        "Obyektiv voqelikni ongda in’ikos etish chuqurligi",
+        "Jismoniy rivojlanish darajasi",
+        "Nutq rivojlanishi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q41",
+      "prompt": "Sezgi qaysi aks ettirish darajasiga kiradi?",
+      "options": [
+        "Eng yuqori daraja",
+        "Past daraja",
+        "O‘rta daraja",
+        "Hech biriga kirmaydi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q42",
+      "prompt": "Idrok sezgidan nimasi bilan farq qiladi?",
+      "options": [
+        "Har doim xatolik keltirib chiqaradi",
+        "Obyektni yaxlit holda aks ettiradi",
+        "Faqat alohida belgilarni aks ettiradi",
+        "Faqat eshitishga bog‘liq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q43",
+      "prompt": "Tasavvur qanday jarayon?",
+      "options": [
+        "Tashqi ta’sir bo‘lmaganda obrazlar hosil qilish",
+        "Faqat ko‘rish qobiliyati",
+        "Harakatni rejalashtirish",
+        "Faqat nutqiy jarayon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q44",
+      "prompt": "Tafakkurning asosiy funksiyasi nima?",
+      "options": [
+        "Sezgi organlarini boshqarish",
+        "Umumlashtirish va muammoni hal qilish",
+        "Faqat eslab qolish",
+        "Faqat his qilish"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q45",
+      "prompt": "Ong qanday aks ettirish darajasiga kiradi?",
+      "options": [
+        "Eng yuqori aks ettirish darajasi",
+        "Past daraja",
+        "O‘rta daraja",
+        "Ong aks ettirish darajasi emas"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q46",
+      "prompt": "Ongsiz jarayonlar nimani bildiradi?",
+      "options": [
+        "Faqat uyqu holatini",
+        "To‘liq nazorat qilinadigan jarayonlarni",
+        "Ong nazoratidan tashqaridagi psixik jarayonlarni",
+        "Faqat nutqiy jarayonlarni"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q47",
+      "prompt": "Temperament (nerv tizimi xususiyatiga bog‘lanishi) asosida kimning nazariyasi mashhur?",
+      "options": ["V. Vundt", "S. Freyd", "I. Pavlov", "J. Piaje"],
+      "correctIndex": 2
+    },
+    {
+      "id": "q48",
+      "prompt": "Inson ongining hayvon psixikasidan ustun jihati nima?",
+      "options": [
+        "Reflekslarning kuchliligi",
+        "Ijtimoiy tajribani ongli ravishda o‘zlashtirish",
+        "Faqat tez yugurish qobiliyati",
+        "Shartsiz reflekslar soni"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q49",
+      "prompt": "Abstrakt tafakkur nimani anglatadi?",
+      "options": [
+        "To‘g‘ridan-to‘g‘ri ko‘rish orqali tafakkur",
+        "Konkret predmetlar bilan fikrlash",
+        "Ramziy va tushunchalar bilan fikrlash",
+        "Harakat orqali fikrlash"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q50",
+      "prompt": "Kognitiv jarayonlarning neyrofiziologik asosi qayerda joylashgan?",
+      "options": [
+        "Yurakda",
+        "Buyrakda",
+        "Bosh miya po‘stlog‘ida",
+        "O‘pka to‘qimasida"
+      ],
+      "correctIndex": 2
+    }
+  ]
+}

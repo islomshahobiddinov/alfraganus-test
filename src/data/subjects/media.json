@@ -1,0 +1,1657 @@
+{
+  "id": "media",
+  "name": "Mediasavodxonlik",
+  "timeSeconds": 1800,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "“Media” so‘zining muqobili nima?",
+      "options": [
+        "ommaviy axborot vositalari",
+        "media vositalari",
+        "kommunikatsiya",
+        "mediamatn"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Jamiyat va davlat hayotiga daxldor barcha soha va yo‘nalishlardagi axborotlarni saralay olish qobiliyati – bu…",
+      "options": [
+        "mediasavodxonlik",
+        "mediamadaniyat",
+        "mediakompaniya",
+        "mediamagnat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Ommaviy axborot vositalarining tarkibiga nimalar kiradi?",
+      "options": [
+        "matbuot, radio, televideniye, internet saytlari va axborot agentliklari",
+        "radio, televideniye, videochat, ijtimoiy tarmoqlar",
+        "kinomatografiya, matbuot, axborot agentliklari",
+        "internet saytlari, matbuot, radio, video, messenjerlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Radioni kim qachon ixtiro qilgan?",
+      "options": [
+        "1895-yil Popov",
+        "1896-yil Grabovskiy",
+        "1897-yil Belyanskiy",
+        "1898-yil Gerts"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Dastlabki bosma nashrlar qachon paydo bo‘lgan?",
+      "options": [
+        "XVII asr",
+        "XVIII asr",
+        "XIX asr",
+        "XX asr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Aprobatsiya jarayoni qaysi so‘z bilan birga ishlatiladi?",
+      "options": [
+        "axborot",
+        "ma’lumot",
+        "kommunikatsiya",
+        "media"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Yangiliklar nechchiga bo‘linadi?",
+      "options": [
+        "2 ga",
+        "3 ga",
+        "4 ga",
+        "5 ga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Axborot qaysi usul yordamida jamoatchilikka yetkaziladi?",
+      "options": [
+        "to‘nkarilgan ehrom usuli",
+        "mevali daraxt usuli",
+        "bumerang usuli",
+        "klaster usuli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Logotip nima?",
+      "options": [
+        "biron-bir korxona yoki tashkilotning ramziy belgisi",
+        "kompaniya imiji",
+        "muassasa nomi",
+        "reputatsiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "“Fake news” ga ta’rif bering?",
+      "options": [
+        "yolg‘on, soxta axborot",
+        "haqqoniy axborot",
+        "rost axborot",
+        "tekshirilmagan axborot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Kontent nima?",
+      "options": [
+        "OAV uchun tayyorlangan material",
+        "mediamahsulot",
+        "Internet",
+        "Propaganda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Medianing asosiy vazifasi nima?",
+      "options": [
+        "axborot yetkazish",
+        "axborotni uzatish",
+        "axborotni saralash",
+        "axborot to‘plash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "“Truth news” nima?",
+      "options": [
+        "rost axborot",
+        "yolg‘on axborot",
+        "tekshirilmagan axborot",
+        "tekshirilgan axborot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "“Klassifikatsiya” so‘zining lug‘aviy ma’nosi nima?",
+      "options": [
+        "tasnif",
+        "tahlil",
+        "tasdiq",
+        "tadqiq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Televideniye vatani qayer?",
+      "options": [
+        "Toshkent",
+        "Tbilisi",
+        "Praga",
+        "Madrid"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Ta’lim jarayoniga oid barcha axborotlarni mediada o‘z ifodasini topishi – bu …",
+      "options": [
+        "mediata’lim",
+        "mediatahdid",
+        "mediasavodxonlik",
+        "mediasiyosat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Axborot – nima?",
+      "options": [
+        "kapital",
+        "mahsulot",
+        "taraqqiyot",
+        "ma’lumotlar yig‘indisi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Yangiliklarni jamoatchilikka yetkazishda qaysi tamoyillardan foydalaniladi?",
+      "options": [
+        "tezkorlik, xolislik, ishonchlilik",
+        "obyektivlik, jiddiylik, tezkorlik",
+        "ishonchlilik, to‘g‘riso‘zlik, tezkorlik",
+        "to‘g‘riso‘zlik, neytrallik, ishonchlilik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Mamlakatimizdagi eng xaridorgir bosma nashrlar ko‘rsatilgan qatorni belgilang?",
+      "options": [
+        "“Xalq so‘zi”, “Народное слово”, “Доверие”, “Ishonch”, “Yangi O‘zbekiston”",
+        "“O‘zbekiston adabiyoti va san’ati”, “Вечерный Ташкент”, “Toshkent oqshomi”",
+        "“Ma’rifat”, “Hurriyat”, “Vatanparvar” “Toshkent haqiqati”, “O‘zbekiston Ovozi”",
+        "“Kitob dunyosi”, “Nuroniy”, “XXI asr”, “Gulxan”, “G‘uncha”, “Bilimdon”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "… - barcha bosma mahsulotlar majmuyi bo‘lib, davriy nashrlar, asosan, gazeta va jurnallarni ifodalaydi",
+      "options": [
+        "matbuot",
+        "radio",
+        "televideniye",
+        "axborot agentligi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Jamoatchilik hukmiga havola etilayotgan axborotlar uchun kim javobgar?",
+      "options": [
+        "muallif",
+        "OAV tashkiloti",
+        "tahririyat",
+        "teleradiokompaniya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Bugungi kun milliy matbuotimizda qaysi janrdagi materiallar uchramayapti?",
+      "options": [
+        "sharh, pamflet, felyeton, ocherk",
+        "esse, korrespondensiya, tahliliy maqola",
+        "xalqaro sharh, jurnalistik surishtiruv, intervyu",
+        "pamflet, esse, voqeaband reportaj"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Mustaqillik davri o‘zbek matbuotida samarali faoliyat olib brogan gazeta qaysi edi?",
+      "options": [
+        "“O‘zbekiston adabiyoti va san’ati”",
+        "“O‘zbekiston Ovozi”",
+        "“Xalq so‘zi”",
+        "“Toshkent oqshomi”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "“Xalq so‘zi” gazatasi qachondan chiqa boshlagan?",
+      "options": [
+        "1991-yil 1-yanvardan",
+        "1991-yil 1-fevraldan",
+        "1991-yil 1-martdan",
+        "1991-yil 1-apreldan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Mamlakatimizdagi qaysi kanallar ham radiokanal, ham telekanal sifatida faoliyat yuritadi?",
+      "options": [
+        "“O‘zbekiston”, “Yoshlar”, “Toshkent”, “Mahalla”, “O‘zbekiston 24”",
+        "“Sport”, “Dunyo bo‘ylab”, “Madaniyat va ma’rifat”, “Foreign languages”",
+        "“Bolajon”, “Navo”, “O‘zbekiston tarixi”, “Kinoteatr”, “Uzreport TV”",
+        "“Aqlvoy”, “Mening yurtim”, “Sevimli TV”, “Milliy TV”, “Zo‘rTV”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Eng arzon ommaviy axborot vositasi qaysi?",
+      "options": [
+        "radio",
+        "televideniye",
+        "matbuot",
+        "internet saytlari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Mediakorporatsiya atamasiga ta’rif bering?",
+      "options": [
+        "ikki va undan ortiq mediakompaniyalar birlashmasi",
+        "ikki va undan ortiq mediakonglomeratlar yig‘indisi",
+        "ikki va undan ortiq mediamagnatlar tashkil etgan holding",
+        "ikki va undan ortiq telekanallar majmuasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Qaysi radioda “xalqona” telegram kanali mavjud?",
+      "options": [
+        "“Avtoradio”",
+        "“Oriat Dono”",
+        "“Vodiy sadosi”",
+        "“O‘zbegim taronasi”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Milliy media birlashmasining raisi kim?",
+      "options": [
+        "Abror Po‘latov",
+        "Abduaziz Abutalipov",
+        "Jaloliddin Usmonov",
+        "Shoxjahon Elmurodov"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "O‘zbekiston milliy teleradiokompaniyasi direktori kim?",
+      "options": [
+        "Alisher Xodjayev",
+        "Tursunali Qo‘ziyev",
+        "Sherzodxon Qudratxo‘ja",
+        "Sardor Usmonov"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Siyosiy axborotlar inson ongiga qanday ta’sir qiladi?",
+      "options": [
+        "ham ijobiy, ham salbiy",
+        "ijobiy",
+        "salbiy",
+        "hech qanday ta’sir qilmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Davlat tasarrufidagi gazeta va jurnallarni qaysi tashkilot ro‘yxatdan o‘tkazib, ularga litsenziya beradi?",
+      "options": [
+        "Milliy matbuot va axborot agentligi",
+        "Milliy media birlashmasi",
+        "Milliy teleradiokompaniya",
+        "Axborot va ommaviy kommunikatsiyalar agentligi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Media makonda o‘z so‘zi, o‘rni, mavqeyi va bir qancha teleradiokanallarga ega shaxs qanday nomlanadi?",
+      "options": [
+        "mediamagnat",
+        "mediakonglomerat",
+        "mediakompaniya",
+        "mediakonglomerat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Dunyo axborot makonida sodir bo‘layotgan tahlikali vaziyat va jarayonlar haqidagi axborotlarning hammasini xalqqa ochiq-oshkor qilish doim ham samaralimi?",
+      "options": [
+        "yo‘q",
+        "ha",
+        "ba’zan ha, ba’zan yo‘q",
+        "hech qanday samara bermaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "“Hurriyat” qaysi yo‘nalishdagi gazeta?",
+      "options": [
+        "iqtisodiy-siyosiy",
+        "ijtimoiy-huquqiy",
+        "madaniy-ma’rifiy",
+        "ilmiy-ommabop"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Mediasavodxonlikni shakllantirishda qaysi usullardan foydalaniladi?",
+      "options": [
+        "to‘nkarilgan ehrom usuli",
+        "mevali daraxt usuli",
+        "bumerang usuli",
+        "klaster usuli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Qaysi auditoriya turlarini bilasiz?",
+      "options": [
+        "ayollar, erkaklar, bolalar, keksalar auditoriyasi",
+        "o‘smirlar, bolalar, ayollar, erkaklar auditoriyasi",
+        "yoshlar, keksalar, bolalar, o‘smirlar auditoriyasi",
+        "7 yoshdan 70 yoshgacha bo‘lgan auditoriyasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Gazeta so‘zining lug‘aviy ma’nosini ayting?",
+      "options": [
+        "varaqa",
+        "esdalik",
+        "kundalik",
+        "daftar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "PR nima?",
+      "options": [
+        "jamoatchilik bilan aloqalar",
+        "hokimiyat bilan aloqalar",
+        "davlat bilan aloqalar",
+        "xalq bilan aloqalar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Tipologiya nima?",
+      "options": [
+        "tur",
+        "tasnif",
+        "ko‘rinish",
+        "yondashuv"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q41",
+      "prompt": "Jurnalist faoliyatida kerak bo‘ladigan texnik qurilmalar tarkibiga nimalar kiradi?",
+      "options": [
+        "mikrofon, diktofon, kamera, petlichka",
+        "petlichka, uyali aloqa, miksher, kamera",
+        "diktofon, planshet, kamera, telefon",
+        "telefon, kamera, petlichka, miksher"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q42",
+      "prompt": "Tok-shou asosan qaysi OAV uchun qulay janr hisoblanadi?",
+      "options": [
+        "televideniye uchun",
+        "radio uchun",
+        "matbuot uchun",
+        "internet sayt uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q43",
+      "prompt": "Shoular media olamida nechchiga bo‘linadi?",
+      "options": [
+        "3 ga",
+        "2 ga",
+        "4 ga",
+        "5 ga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q44",
+      "prompt": "Who?, Which?, When?,What?, Where? so‘zlari nima maqsadda ishlatiladi?",
+      "options": [
+        "professional axborot tayyorlash uchun",
+        "axborot uzatish uchun",
+        "axborot almashish uchun",
+        "kommunikatsiya o‘rnatish uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q45",
+      "prompt": "Web-saytlar uchun axborotlar qanday tayyorlanadi?",
+      "options": [
+        "qisqa va tushunarli tarzda",
+        "sodda va ravon tarzda",
+        "uzun va murakkab tarzda",
+        "tahliliy ko‘rinishda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q46",
+      "prompt": "Ijtimoiy, siyosiy, iqtisodiy va xalqaro mavzudagi yangiliklarni qaysi OAV formatida bergan ma’qul va ancha oson?",
+      "options": [
+        "internetda",
+        "radioda",
+        "matbuotda",
+        "televideniyeda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q47",
+      "prompt": "Stend-ap qaysi OAV formati uchun xos?",
+      "options": [
+        "televideniyeda",
+        "internetda",
+        "radioda",
+        "matbuotda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q48",
+      "prompt": "Mamlakatimizdagi qaysi telekanallar to‘liq axborotga ixtisoslashgan?",
+      "options": [
+        "“O‘zbekiston 24”, “Uzreport”",
+        "“O‘zbekiston”, “Yoshlar”",
+        "“Toshkent”, “Sport”",
+        "“Sevimli TV”, “Mening yurtim”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q49",
+      "prompt": "“American Voice”da faoliyat olib boruvchi o‘zbek jurnalisti kim?",
+      "options": [
+        "Navbahor Imomova",
+        "Gulnoza Husanova",
+        "Luiza Iskandariy",
+        "Dilafruz Kulmatova"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q50",
+      "prompt": "Bahodir Magdiyev, Akmal Mirzo, Ra’no Alimovalar qaysi radiokanalda faoliyat yuritadilar?",
+      "options": [
+        "“Oriat Dono”",
+        "“Vodiy sadosi”",
+        "“O‘zbegim taronasi”",
+        "“Avtoradio”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q51",
+      "prompt": "Anons nima?",
+      "options": [
+        "muayyan voqea-hodisaning kulminatsion nuqtasi",
+        "jarayonning boshlanish nuqtasi",
+        "biron-bir vaziyatning tugatilish nuqtasi",
+        "OAV da uchraydigan hodisa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q52",
+      "prompt": "“Backstage” ga ta’rif bering?",
+      "options": [
+        "tezlashtirilgan kadr",
+        "sekinlashtirilgan kadr",
+        "umumiy kadr",
+        "intershum"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q53",
+      "prompt": "Radio uchun birlamchi omil – bu …",
+      "options": [
+        "ovoz",
+        "matn",
+        "ko‘rinish",
+        "tasvir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q54",
+      "prompt": "Qaysi xorijiy media makonda radio OAV orasida eng yuqorio‘rinni egallaydi?",
+      "options": [
+        "AQSH",
+        "Buyuk Britaniya",
+        "Xitoy",
+        "Rossiya Federatsiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q55",
+      "prompt": "Radio taraqqiyoti haqida O‘zbekistonda yozilgan ilk doktorlik dissertatsiyasining muallifi kim?",
+      "options": [
+        "Ismailova Klimentina Fuzailovna",
+        "Shomaqsudova Saodat Hidoyatovna",
+        "Toshmuhammedova Latofat Ismatovna",
+        "Allambergenova Perxan Kudaybergenovna"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q56",
+      "prompt": "Mamlakat hududida to‘g‘ridan-to‘g‘ri efirga uzatiladigan radioeshittirishlar qayerda tayyorlanadi?",
+      "options": [
+        "Radiochilar uyida",
+        "Milliy teleradiokompaniya hududida",
+        "Milliy media birlashmasida",
+        "Axborot va ommaviy kommunikatsiyalar agentligida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q57",
+      "prompt": "Radiojurnalist uchun qaysi sifatlar xos?",
+      "options": [
+        "so‘zomonlik, sohirovozlik, operativlik",
+        "tezkorlik, ustomonlik, xolislik",
+        "improvizatsiyadan foydalana olish",
+        "vaziyatni to‘g‘ri baholay olish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q58",
+      "prompt": "Radioning quroli nima?",
+      "options": [
+        "ovoz",
+        "tasvir",
+        "matn",
+        "so‘z"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q59",
+      "prompt": "Pauza, ovoz, shovqin, ritm, tembr tushunchalari qaysi OAV ga tegishli?",
+      "options": [
+        "radio",
+        "matbuot",
+        "televideniye",
+        "internet saytlari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q60",
+      "prompt": "Televideniyedagi ko‘rsatuvlar qaysi qurilma orqali efirga uzatiladi?",
+      "options": [
+        "teleminora orqali",
+        "radiopriyomnik orqali",
+        "teleto‘lqinlar orqali",
+        "radioto‘lqinlar orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q61",
+      "prompt": "Telekanallar tuzilishiga ko‘ra nechchiga bo‘linadi?",
+      "options": [
+        "2 ga",
+        "3 ga",
+        "4 ga",
+        "5 ga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q62",
+      "prompt": "Bugungi kunda respublika miqyosidagi davlat telekanallari nechtani tashkil qiladi?",
+      "options": [
+        "60 dan ortiq",
+        "70 dan ortiq",
+        "80 dan ortiq",
+        "100 dan ortiq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q63",
+      "prompt": "Hozirda qaysi telekanallar reklamaga ixtisoslashgan kanalga aylanib bormoqda?",
+      "options": [
+        "“Navo”, “Bolajon”, “Kinoteatr”",
+        "“Mahalla”, “Dunyo bo‘ylab”, “Yoshlar”",
+        "“Sport”, “Toshkent”, “O‘zbekiston”",
+        "“O‘zbekiston 24”, “Madaniyat va ma’rifat”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q64",
+      "prompt": "Qaysi davlat telekanali tarkibida “Foreign Languages” tashkil etildi?",
+      "options": [
+        "“Oilaviy”",
+        "“Navo”",
+        "“Kinoteatr”",
+        "“Dunyo bo‘ylab”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q65",
+      "prompt": "Televideniye axborot uzatishda qaysi metodlardan foydalanadi?",
+      "options": [
+        "to‘nkarilgan ehrom",
+        "bumerang",
+        "klaster",
+        "baliq skeleti"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q66",
+      "prompt": "O‘zida ovoz, tasvir va matn imkoniyatlarini jamlaydigan OAV turi qaysi?",
+      "options": [
+        "televideniye",
+        "radio",
+        "matbuot",
+        "internet"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q67",
+      "prompt": "Zamonaviy televideniye qaysi tendensiyadan foydalanmoqda?",
+      "options": [
+        "vizualizatsiya",
+        "konvergensiya",
+        "universallashuv",
+        "professionalism"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q68",
+      "prompt": "Televideniyeda qanday dasturlar faoliyat olib boradi?",
+      "options": [
+        "ko‘ngilochar, informatsion",
+        "ijtimoiy-siyosiy",
+        "iqtisodiy-huquqiy",
+        "madaniy-ma’rifiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q69",
+      "prompt": "OAV dagi shou nomlari qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "reality shou, kulinar shou, tok-shou",
+        "kulinar shou, tibbiy shou, tok-shou",
+        "huquqiy shou, kulinar shou, tok-shou",
+        "OAV da shoular tasniflanmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q70",
+      "prompt": "Jamoatchilik qaysi media formatidagi axborotlarga ko‘proq ishonadi?",
+      "options": [
+        "televideniye",
+        "matbuot",
+        "axborot agentliklari",
+        "radio"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q71",
+      "prompt": "Media makonda janrlar nechchi guruhga bo‘linadi?",
+      "options": [
+        "3 ga",
+        "2 ga",
+        "4 ga",
+        "5 ga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q72",
+      "prompt": "Qaysi OAV da yangiliklar xalqqa tezkorlik bilan yetkaziladi?",
+      "options": [
+        "televideniyeda",
+        "matbuotda",
+        "axborot agentliklarida",
+        "radioda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q73",
+      "prompt": "Janrlar nomlari to‘g‘ri keltirilgan qatorni belgilang?",
+      "options": [
+        "axboriy, tahliliy, badiiy-publitsistik",
+        "informatsion, tanqidiy, tadqiqiy",
+        "siyosiy, iqtisodiy, ilmiy",
+        "huquqiy, ommabop, davriy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q74",
+      "prompt": "Tashqi ko‘rinish, ovoz, artikulyatsiya, sof diksiya tushunchalari qaysi OAV ga tegishli?",
+      "options": [
+        "televideniyega",
+        "matbuotga",
+        "axborot agentliklariga",
+        "radioga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q75",
+      "prompt": "Reportyor kim?",
+      "options": [
+        "muxbir",
+        "jurnalist",
+        "diktor",
+        "boshlovchi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q76",
+      "prompt": "Respondentga ta’rif bering?",
+      "options": [
+        "intervyu beruvchi shaxs",
+        "intervyu oluvchi shaxs",
+        "intervyu tayyorlovchi shaxs",
+        "suhbatdoshni intervyuga ko‘ndiruvchi shaxs"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q77",
+      "prompt": "Korrespondent kim?",
+      "options": [
+        "intervyu oluvchi",
+        "intervyu beruvchi",
+        "intervyu tayyorlovchi",
+        "suhbatdoshni intervyuga ko‘ndiruvchi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q78",
+      "prompt": "Noshir atamasiga izoh bering?",
+      "options": [
+        "nashrga tayyorlovchi",
+        "sahifalovchi",
+        "muqovalovchi",
+        "to‘plovchi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q79",
+      "prompt": "Musahhih kim?",
+      "options": [
+        "materialni teruvchi",
+        "materialni bosib chiqaruvchi",
+        "materialni tahrir qiluvchi",
+        "materialni muqovalovchi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q80",
+      "prompt": "Muarrih atamasiga ta’rif bering?",
+      "options": [
+        "tarixchi",
+        "huquqshunos",
+        "siyosatchi",
+        "tilshunos"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q81",
+      "prompt": "Eng ko‘p pavilionga, ya’ni, suratga olish maydonchalariga ega nodavlat telekanal qaysi?",
+      "options": [
+        "“Zo‘rTV”",
+        "“My5”",
+        "“Milliy TV”",
+        "“Sevimli TV”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q82",
+      "prompt": "Rakurs nima?",
+      "options": [
+        "yondashuv",
+        "nuqtayi nazar",
+        "dunyoqarash",
+        "tafakkur"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q83",
+      "prompt": "Mamlakatimiz OAV da qaysi soha va yo‘nalishga oid materiallar va kontentlar deyarli yo‘q?",
+      "options": [
+        "osmon jismlariga oid kontent",
+        "turizmga doir kontent",
+        "moda haqidagi kontent",
+        "kulinariyaga oid content"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q84",
+      "prompt": "“Qalampir uz” saytining direktori kim?",
+      "options": [
+        "Qamariddin Shayxov",
+        "Elyor Go‘ro‘g‘liyev",
+        "Ulug‘bek Xudoyberganov",
+        "Bekzod Abdusamadov"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q85",
+      "prompt": "“Nose for news” atamasiga ta’rif bering?",
+      "options": [
+        "hamma sohaga oid axborotlardan xabardorlik",
+        "tor doiradagi sohaga oid axborotlardan xabardorlik",
+        "keng doiradagi sohaga oid axborotlardan xabardorlik",
+        "muayyan birgina mavzu va sohaga oid axborotlardan xabardorlik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q86",
+      "prompt": "Buyurtma asosida tahliliy material va surishtiruv olib boruvchi qaysi saytni bilasiz?",
+      "options": [
+        "“Effect.uz”",
+        "“Rost 24”",
+        "“Repost.uz”",
+        "“Human.uz”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q87",
+      "prompt": "Yurtimizda qaysi sana OAV xodimlari kuni sifatida nishonlanadi?",
+      "options": [
+        "27-iyun",
+        "27-iyul",
+        "27-avgust",
+        "27-sentabr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q88",
+      "prompt": "“Taraqqiy” gazetasida asosan qaysi mavzudagi materiallar muntazam berib borilgan?",
+      "options": [
+        "istiqlol mavzusidagi",
+        "ilm mavzusidagi",
+        "ayollar mavzusidagi",
+        "bolalar mavzusidagi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q89",
+      "prompt": "“Sadoyi Turkiston”, “Sadoyi Farg‘ona” gazetalari qachondan boshlab chiqarila boshlagan?",
+      "options": [
+        "1914-yildan",
+        "1915-yildan",
+        "1916-yildan",
+        "1917-yildan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q90",
+      "prompt": "Tijorat ilmi uchun mo‘ljallangan gazeta qaysi edi?",
+      "options": [
+        "“Tujjor”",
+        "“Xurshid”",
+        "“Shuhrat”",
+        "“Taraqqiy”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q91",
+      "prompt": "“Turkiston viloyatining gazeti” rasman nechinchi yildan chiqa boshlagan?",
+      "options": [
+        "1870-yil 28-aprel",
+        "1878-yil 28-aprel",
+        "1884-yil 28-aprel",
+        "1898-yil 28-aprel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q92",
+      "prompt": "“Ayollar olami” jurnali kimning tashabbusi bilan dunyo yuzini ko‘rgan?",
+      "options": [
+        "Ismoil Gaspirinskiy",
+        "Mahmudxo‘ja Behbudiy",
+        "Abdurauf Fitrat",
+        "Sora Muzaffariya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q93",
+      "prompt": "“Saodat”, “Gulchehralar”, “Ayollar olami” singari bosma nashrlar kimlar uchun mo‘ljallangan?",
+      "options": [
+        "ayollar uchun",
+        "bolalar uchun",
+        "keksalar uchun",
+        "o‘smirlar uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q94",
+      "prompt": "“Oyina” jurnaliga kim muharrirlik qilgan?",
+      "options": [
+        "Mahmudxo‘ja Behbudiy",
+        "Abdulla Avloniy",
+        "Ashurali Zohiriy",
+        "Hoji Muin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q95",
+      "prompt": "Jadidlar davrida qaysi bosma nashr 60 chi sonidan keyin tugatilgan?",
+      "options": [
+        "“Sadoi Farg‘ona”",
+        "“Xurshid”,",
+        "“Taraqqiy”",
+        "“Oyina”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q96",
+      "prompt": "Bolalar dunyoqarashini o‘stirishga xizmat qilib kelayotgan bosma nashr qaysi?",
+      "options": [
+        "“Gulxan”",
+        "“Tengdosh”",
+        "“2x2”",
+        "“G‘uncha”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q97",
+      "prompt": "Media sohasiga oid “Jurnalistikaga kirish”, “Jurnalistika va publitsistika”  asarlarining muallifi kim?",
+      "options": [
+        "Muxtor Xudoyqulov",
+        "To‘lqin Qozoqboyev",
+        "Boybo‘ta Do‘stqorayev",
+        "Ahmadjon Meliboyev"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q98",
+      "prompt": "Bolalar auditoriyasiga doir yirik xorijiy telekanal qaysi?",
+      "options": [
+        "“Disney”",
+        "“Карусель”",
+        "“Balapan”",
+        "“Bolajon”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q99",
+      "prompt": "Istiqloldan so‘ng “Hurriyat” gazetasining birinchi soni qachon va kimning muharrirligida chop etilgan?",
+      "options": [
+        "1996-yil 27-dekabr Karim Bahriyev boshchiligida",
+        "1996-yil 27-dekabr Xurshid Do‘stmuhammad boshchiligida",
+        "1996-yil 27-dekabr Amirqul Karim boshchiligida",
+        "1996-yil 27-dekabr Ismat Xudoyorov boshchiligida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q100",
+      "prompt": "Bosma nashrlarning tili va uslubi qanday bo‘lishi lozim?",
+      "options": [
+        "tili – ravon, publitsistik uslubda",
+        "tili – murakkab, ilmiy uslubda",
+        "tili – sodda, rasmiy uslubda",
+        "tili – oddiy, badiiy uslubda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q101",
+      "prompt": "“Jadid” so‘zining lug‘aviy ma’nosi nima?",
+      "options": [
+        "yangi",
+        "rivojlanish",
+        "taraqqiyot",
+        "hurriyat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q102",
+      "prompt": "Turkistondagi dastlabki bosma nashrlar qaysi edi?",
+      "options": [
+        "“Turkiston viloyatining gazeti”, “Туркестанские ведемости”",
+        "“ Sadoyi Farg‘ona”, “Sadoyi turkiston”",
+        "“Taraqqiy”, “Oyina”",
+        "“Tujjor”, “Xurshid”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q103",
+      "prompt": "“Abulfayzxon” dramasining muallifi kim?",
+      "options": [
+        "Abdurauf Fitrat",
+        "Abdulhamid Sulaymon o‘g‘li Cho‘lpon",
+        "Hamza Hakimzoda Niyoziy",
+        "Mahmudxo‘ja Behbudiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q104",
+      "prompt": "Qaysi jadidlarimiz o‘z hisobidan darsliklar yaratib, xalqining ilmli bo‘lishiga sababchi bo‘lgan?",
+      "options": [
+        "Munavvar Qori Abdurashidxonov, Mahmudxo‘ja Behbudiy",
+        "Abdurauf Fitrat, Abdulla Qodiriy",
+        "Ashurali Zohiriy, Ubaydullaxo‘ja Asadullaxo‘jayev",
+        "Abdulla Avloniy, Hamza Hakimzoda Niyoziy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q105",
+      "prompt": "“Gulxan”, “G‘uncha”, “Tengdosh”, “Bilimdon” gazeta va jurnallari qaysi auditoriya uchun mo‘ljallangan?",
+      "options": [
+        "bolalar",
+        "o‘smirlar",
+        "keksalar",
+        "ayollar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q106",
+      "prompt": "Milliy matbuotda ijod qilgan ilk ayol mualliflardan kimlarni bilasiz?",
+      "options": [
+        "Sora Muzaffariya, Poshshaxonim Jalilova",
+        "Muzayana Alaviya, Ganira Pashayeva",
+        "Zulfiya Isroilova, Halima Xudoyberdiyeva",
+        "Oydin Hojiyeva, Saida Zunnunova"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q107",
+      "prompt": "O‘zbek romanchiligining asoschisi kim?",
+      "options": [
+        "Abdulla Qodiriy",
+        "Abdulla Avloniy",
+        "Abdulla Qahhor",
+        "O‘tkir Hoshimov"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q108",
+      "prompt": "“Chig‘atoy gurunglari” qanday tashkilot?",
+      "options": [
+        "ijtimoiy-siyosiy, huquqiy",
+        "madaniy-ma’rifiy",
+        "adabiy-badiiy",
+        "ilmiy-ommabop"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q109",
+      "prompt": "Xalqaro “Nilufar”, “Javoharlal Neru” mukofotlari sohibi kim?",
+      "options": [
+        "Zulfiya",
+        "Hamid Olimjon",
+        "O‘tkir Hoshimov",
+        "Muzayana Alaviya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q110",
+      "prompt": "“Millatimiz oydinlari” deya kimga ta’rif beriladi?",
+      "options": [
+        "jadidlarga",
+        "shoirlarga",
+        "yozuvchilarga",
+        "ilm ahliga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q111",
+      "prompt": "Ahmadjon Meliboyev qalamiga mansub asarlar qaysi qatorda to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "“Torning cho‘michdan farqi”, “100 savolga 99 javob”",
+        "“Iltijo”, “Jurnalistikaga kirish”",
+        "“Xayol kemasi”, “Vulqon”",
+        "“Odob manzili”, “Yo‘qotilgan umr”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q112",
+      "prompt": "“Taraqqiy” gazetasida asosan qaysi mavzudagi materiallar muntazam berib borilgan?",
+      "options": [
+        "istiqlol mavzusidagi",
+        "ilm mavzusidagi",
+        "ayollar mavzusidagi",
+        "bolalar mavzusidagi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q113",
+      "prompt": "Jurnalistikaning qanday funksiyalari mavjud?",
+      "options": [
+        "tasvir, ta’sir, tahlil",
+        "tanqid, tahlil, ta’sir",
+        "ta’sir, tanqid, tadqiq",
+        "tahlil, tasvir, tanqid"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q114",
+      "prompt": "“Haq olinur, berilmas” kim tomonidan aytilgan?",
+      "options": [
+        "Mahmudxo‘ja Behbudiy",
+        "Abdulla Qodiriy",
+        "Munavvar Qori Abdurashidxonov",
+        "Abdurauf Fitrat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q115",
+      "prompt": "Ganira Pashayeva qaysi millatga mansub edi?",
+      "options": [
+        "ozar",
+        "turk",
+        "arman",
+        "tatar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q116",
+      "prompt": "Ashurali Zohiriy qaysi sohada samarali ijod qilgan?",
+      "options": [
+        "publitsistika",
+        "jurnalistika",
+        "lingvistika",
+        "tarjimonlik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q117",
+      "prompt": "Jadidlar orasida kim hajviy publitsistik asarlar yozgan?",
+      "options": [
+        "Abdulla Qodiriy",
+        "Hoji Muin",
+        "G‘ozi Yunus",
+        "Abdulla Avloniy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q118",
+      "prompt": "Huquqiy mavzularda qalam tebratgan yirik jadidimiz kim edi?",
+      "options": [
+        "Ubaydullaxo‘ja Asadullaxo‘jayev",
+        "Abdurauf Fitrat",
+        "Ashurali Zohiriy",
+        "Munavvar Qori Abdurashidxonov"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q119",
+      "prompt": "“Birinchi muallim”, “Ikkinchi muallim” asarlarining muallifi kim?",
+      "options": [
+        "Abdulla Avloniy",
+        "Abdulla Qahhor",
+        "Abdulla Qodiriy",
+        "Abdurauf Fitrat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q120",
+      "prompt": "“Sadoyi Turkiston”, “Sadoyi Farg‘ona” gazetalari qachondan boshlab chiqarila boshlagan?",
+      "options": [
+        "1914-yildan",
+        "1915-yildan",
+        "1916-yildan",
+        "1917-yildan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q121",
+      "prompt": "Tijorat ilmi uchun mo‘ljallangan gazeta qaysi edi?",
+      "options": [
+        "“Tujjor”",
+        "“Xurshid”",
+        "“Shuhrat”",
+        "“Taraqqiy”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q122",
+      "prompt": "Milliy matbuotda samarali ijod qilgan yirik publitsistlardan kimlarni bilasiz?",
+      "options": [
+        "Nazarmat, Mirkarim Osim, Shukur Xolmirzayev, Odil Yoqubov",
+        "Zulfiya, Muzayana Alaviya, Sora Muzaffariya",
+        "Abdulla Qahhor, Ashurali Zohiriy, Poshshaxonim Jalilova",
+        "Ahmadjon Meliboyev, O‘tkir Hoshimov, Abdurauf Fitrat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q123",
+      "prompt": "“Turkiston viloyatining gazeti” rasman nechinchi yildan chiqa boshlagan?",
+      "options": [
+        "1870-yil 28-aprel",
+        "1878-yil 28-aprel",
+        "1884-yil 28-aprel",
+        "1898-yil 28-aprel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q124",
+      "prompt": "“Ayollar olami” jurnali kimning tashabbusi bilan dunyo yuzini ko‘rgan?",
+      "options": [
+        "Ismoil Gaspirinskiy",
+        "Mahmudxo‘ja Behbudiy",
+        "Abdurauf Fitrat",
+        "Sora Muzaffariya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q125",
+      "prompt": "“Saodat”, “Gulchehralar”, “Ayollar olami” singari bosma nashrlar kimlar uchun mo‘ljallangan?",
+      "options": [
+        "ayollar uchun",
+        "bolalar uchun",
+        "keksalar uchun",
+        "o‘smirlar uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q126",
+      "prompt": "“Oyina” jurnaliga kim muharrirlik qilgan?",
+      "options": [
+        "Mahmudxo‘ja Behbudiy",
+        "Abdulla Avloniy",
+        "Ashurali Zohiriy",
+        "Hoji Muin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q127",
+      "prompt": "Abdulla Avloniy maqolalarida qanday g‘oyalar ilgari surilgan?",
+      "options": [
+        "insonparvarlik",
+        "ilmlilik",
+        "vatanparvarlik",
+        "hurlik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q128",
+      "prompt": "Badiiy adabiyotimizda vafo va sadoqat kuychisi kim?",
+      "options": [
+        "Zulfiyaxonim Isroilova",
+        "Saida Zunnunova",
+        "Oydin Hojiyeva",
+        "Halima Xudoyberdiyeva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q129",
+      "prompt": "“Xalq so‘zi” gazatasi qachondan chiqa boshlagan?",
+      "options": [
+        "1991-yil 1-yanvardan",
+        "1991-yil 1-fevraldan",
+        "1991-yil 1-martdan",
+        "1991-yil 1-apreldan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q130",
+      "prompt": "Jadidlar davrida qaysi bosma nashr 60 chi sonidan keyin tugatilgan?",
+      "options": [
+        "“Sadoi Farg‘ona”",
+        "“Xurshid”,",
+        "“Taraqqiy”",
+        "“Oyina”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q131",
+      "prompt": "Mustaqillik davri o‘zbek matbuotida samarali faoliyat olib brogan gazeta qaysi edi?",
+      "options": [
+        "“O‘zbekiston adabiyoti va san’ati”",
+        "“O‘zbekiston Ovozi”",
+        "“Xalq so‘zi”",
+        "“Toshkent oqshomi”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q132",
+      "prompt": "“Hurriyat berilmas, olinur” kimning qalamiga mansub?",
+      "options": [
+        "Munavvar Qori Abdurashidxonov",
+        "Mahmudxo‘ja Behbudiy",
+        "Abdulla Avloniy",
+        "Ishoqxon Ibrat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q133",
+      "prompt": "Bugungi kun milliy matbuotimizda qaysi janrdagi materiallar uchramayapti?",
+      "options": [
+        "sharh, pamflet, felyeton, ocherk",
+        "esse, korrespondensiya, tahliliy maqola",
+        "xalqaro sharh, jurnalistik surishtiruv, intervyu",
+        "pamflet, esse, voqeaband reportaj"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q134",
+      "prompt": "“Gulchehralar” gazetasining tili va uslubi qanday?",
+      "options": [
+        "tili – ravon, publitsistik uslub",
+        "tili – murakkab, ilmiy uslub",
+        "tili – sodda, rasmiy uslub",
+        "tili – oddiy, badiiy uslub"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q135",
+      "prompt": "Bugungi kunda tanqidiy ruhdagi jurnalistik materiallari bilan jamoatchilik e’tiboriga tushgan muallif kim?",
+      "options": [
+        "Qamariddin Shayxov",
+        "Iqbol Qo‘shshayeva",
+        "Gulmira Musajonova",
+        "Hamza Jumayev"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q136",
+      "prompt": "Jurnal so‘zining lug‘aviy ma’nosi nima?",
+      "options": [
+        "kundalik daftar",
+        "esdalik",
+        "varaqa",
+        "axborot qog‘ozi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q137",
+      "prompt": "Bolalar dunyoqarashini o‘stirishga xizmat qilib kelayotgan bosma nashr qaysi?",
+      "options": [
+        "“Gulxan”",
+        "“Tengdosh”",
+        "“2x2”",
+        "“G‘uncha”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q138",
+      "prompt": "Media sohasiga oid “Jurnalistikaga kirish”, “Jurnalistika va publitsistika”  asarlarining muallifi kim?",
+      "options": [
+        "Muxtor Xudoyqulov",
+        "To‘lqin Qozoqboyev",
+        "Boybo‘ta Do‘stqorayev",
+        "Ahmadjon Meliboyev"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q139",
+      "prompt": "“American Voice”da jurnalistik faoliyat olib boruvchi o‘zbek jurnalisti kim?",
+      "options": [
+        "Navbahor Imomova",
+        "Gulnoza Husanova",
+        "Luiza Iskandariy",
+        "Dilafruz Kulmatova"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q140",
+      "prompt": "Davlat tasarrufidagi gazeta va jurnallarni qaysi tashkilot ro‘yxatdan o‘tkazib, ularga litsenziya beradi?",
+      "options": [
+        "Milliy matbuot va axborot agentligi",
+        "Milliy media birlashmasi",
+        "Milliy teleradiokompaniya",
+        "Axborot va ommaviy kommunikatsiyalar agentligi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q141",
+      "prompt": "Jadidlar o‘zlari ochgan bosma nashlar sahifalarini qanday materiallar bilan to‘ldirar edilar?",
+      "options": [
+        "o‘zlarining mualliflik asarlari bilan",
+        "xorij adabiyoti namunalari bilan",
+        "tarjima asarlari bilan",
+        "zamondoshlarining asarlari bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q142",
+      "prompt": "Jadidlar gazeta va jurnallarni nechchi tilda yuritar edilar?",
+      "options": [
+        "4 tilda",
+        "5 tilda",
+        "3 tilda",
+        "2 tilda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q143",
+      "prompt": "“BBC Uzbek”da faoliyat yurituvchi o‘zbek jurnalisti kim?",
+      "options": [
+        "Luiza Iskandariy",
+        "Gulnoza Husanova",
+        "Navbahor Imomova",
+        "Dilafruz Kulmatova"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q144",
+      "prompt": "Axborotni jamoatchilikka uzatishda qanday metodlardan foydalaniladi?",
+      "options": [
+        "“to‘nkarilgan ehrom” usuli",
+        "“baliq skeleti” usuli",
+        "“aqliy hujum” usuli",
+        "“bumerang” usuli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q145",
+      "prompt": "Istiqloldan so‘ng “Hurriyat” gazetasining birinchi soni qachon va kimning muharrirligida chop etilgan?",
+      "options": [
+        "1996-yil 27-dekabr Karim Bahriyev boshchiligida",
+        "1996-yil 27-dekabr Xurshid Do‘stmuhammad boshchiligida",
+        "1996-yil 27-dekabr Amirqul Karim boshchiligida",
+        "1996-yil 27-dekabr Ismat Xudoyorov boshchiligida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q146",
+      "prompt": "Mamlakatimizda nega aynan 27-iyun matbuot va OAV xodimlari kuni sifatida nishonlanadi?",
+      "options": [
+        "1906-yil 27-iyun “Taraqqiy” gazetasining ilk soni nashr etilgan",
+        "1907-yil 27-iyun “Sadoi Farg‘ona” gazetasining ilk soni nashr etilgan",
+        "1908-yil 27-iyun “Oyina” jurnalining ilk soni nashr etilgan",
+        "1909-yil 27-iyun “Mushtum” jurnalining ilk soni nashr etilgan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q147",
+      "prompt": "“Hurriyat” qaysi yo‘nalishdagi gazeta?",
+      "options": [
+        "iqtisodiy-siyosiy",
+        "ijtimoiy-huquqiy",
+        "madaniy-ma’rifiy",
+        "ilmiy-ommabop"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q148",
+      "prompt": "“Padarkush” asarining muallifi kim?",
+      "options": [
+        "Mahmudxo‘ja Behbudiy",
+        "Abdurauf Fitrat",
+        "G‘ozi Yunus",
+        "Ishoqxon Ibrat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q149",
+      "prompt": "“Baxtsiz kuyov” asarining muallifi kim?",
+      "options": [
+        "Abdulla Qodiriy",
+        "Abdulla Avloniy",
+        "Mahmudxo‘ja Behbudiy",
+        "Hamza Hakimzoda Niyoziy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q150",
+      "prompt": "Jadidlarning asosiy maqsadi nima edi?",
+      "options": [
+        "millatni savodli qilish",
+        "xalq ongini zaharli fikrlardan tozalash",
+        "ozodlik uchun kurashishga chorlash",
+        "dunyoga bo‘y cho‘zish"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
