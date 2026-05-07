@@ -12,12 +12,10 @@
       ]
     },
     {
-      "id": "student",
+      "id": "lorem",
       "name": "MT25-1 Kunduzgi 2-semester",
-      "password": "1234",
-      "assignedSubjects": [
-        "bolalar-psixologiyasi-va-psixodiagnostikasi"
-      ]
+      "password": "ipsum",
+      "assignedSubjects": ["bolalar-psixologiyasi-va-psixodiagnostikasi"]
     }
   ]
 }
