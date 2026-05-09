@@ -15,7 +15,17 @@
       "id": "lorem",
       "name": "MT25-1 Kunduzgi 2-semester",
       "password": "ipsum",
-      "assignedSubjects": ["bolalar-psixologiyasi-va-psixodiagnostikasi"]
+      "assignedSubjects": [
+        "bolalar-psixologiyasi-va-psixodiagnostikasi"
+      ]
+    },
+    {
+      "id": "kalom",
+      "name": "Rivoj guruhi",
+      "password": "6789",
+      "assignedSubjects": [
+        "rivojlantiruvchi-markazlarni-tashkil-qilish-texnologiyasi"
+      ]
     }
   ]
 }

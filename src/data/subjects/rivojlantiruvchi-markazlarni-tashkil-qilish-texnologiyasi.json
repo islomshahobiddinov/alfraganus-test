@@ -1,0 +1,1316 @@
+{
+  "id": "rivojlantiruvchi-markazlarni-tashkil-qilish-texnologiyasi",
+  "name": "Rivoj",
+  "timeSeconds": 1800,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Qaysi yoshda bolalarda \"O’yinlar o’ylab topadi, syujet-rolli o’yinlarda ishtirok etadi, turli ertaklarni sahnalashtirishda qatnashadi\" malakasi  shakllantiriladi",
+      "options": [
+        "6 yoshu 9 oylik",
+        "6 yoshu 6oylik",
+        "5 yoshu 9 oylik",
+        "6 yoshu 3oylik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Taʼlim faoliyatini mavzuviy rejalashtirish to’plami mazmunida  qaysi faoliyatning ish mazmuni qayd etiladi?",
+      "options": [
+        "Rivojlanish markazlardagi taʼlim-tarbiyaviy jarayon mazmuni",
+        "Rivojlanish xarita hisoboti",
+        "Maktab bilan hamkorlik",
+        "Mahalla bilan hamkorlik hisoboti"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Bolaning rivojlanish xaritasi asosida yil davomida necha marta kuzatuv jarayoni tashkil etiladi?",
+      "options": [
+        "3marta (sentyabr, dekabr, may oyida)",
+        "Kuzatuv olib borilmaydi",
+        "Ota-ona kuzatuvi asosida 5 marta",
+        "2-marta yil boshida va yil yakunida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Bolaning rivojlanish xaritasida qaysi vaqtda erishilgan natijalarni (✔) belgisi bilan belgilaydi?",
+      "options": [
+        "Kutilgan natijalar bola tomonidan o’zlashtirilganda",
+        "Bola o’zlashtirmaganda",
+        "Bolalar davomatda qayd etilmasa",
+        "To’garak ishlari yakunida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Bolalarni jamoa bo’lib ishlashga o’rgatishda tarbiyachi qanday yo’l tutadi?",
+      "options": [
+        "Bolalarning har biriga maʼlum bir faoliyat bilan mashg’ul bo’lishni.",
+        "Sovg’a berish asosida",
+        "Besh tashabbus yo’nalishlari asosida",
+        "Kuzatuv kengash Nizomi asosida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Maktabgacha ta’lim tizimida qaysi dastur alohida ehtiyojga ega bo’lgan bolalar uchun mo’ljallangan?",
+      "options": [
+        "\"Ilk qadam” Davlat o’quv dasturi",
+        "“Bolajon” dasturi",
+        "“Uchinchi ming yillikning bolasi” dasturi",
+        "“Bilimdon” dasturi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Maktabgacha yoshdagi bolalarning badiiy asarlarga qiziqishi qaysi kompetensiyaga tegishli?",
+      "options": [
+        "Nutq, muloqat, o’qish va yozish malakalari sohasi",
+        "Ijodiy rivojlanish sohasi",
+        "Bilish jarayonining rivojlanishi sohasi",
+        "Jismoniy rivojlanish va sog’lom turmush tarzini shakllantirish sohasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Peshlavha, kitob nomlari, rasm tagidagi yozuvlar va hokazolarni o‘qiydi ko‘rsatkichi qaysi kichik sohani talabi hisoblanadi",
+      "options": [
+        "O‘qish malakalari",
+        "Nutq va til",
+        "So‘zlashuv malakalari",
+        "Savodxonlik malakalari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "Qog‘ozda to‘g‘ri chiziqlar, so‘zlar va qisqa gaplarni yozadi ko‘rsatkichi qaysi kichik sohani talabi hisoblanadi",
+      "options": [
+        "Qo‘l barmoqlari mayda motorikasi",
+        "O‘qish malakalari",
+        "Nutq va til",
+        "Savodxonlik malakalari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Maktabgacha ta’limda kompyuterli ta’limiy va rivojlantiruvchi o‘yinlarning davomiyligi?",
+      "options": [
+        "15daqiqa",
+        "20 daqiqa",
+        "35-daqiqa",
+        "25 daqiqa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Nutq,muloqot, o`qish va yozish malakalari nechanchi kompetensiyaviy soha?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Kuzatilayotgan voqea va hodisalarni tushuntiradi- rivojlanish xaritasida qaysi kompetenцiyaviy soha nazorat savoli hisoblanadi ?",
+      "options": [
+        "Nutq, muloqat, o‘qish va yozish malakalari sohasi",
+        "Bilish jarayonining rivojlanish sohasi",
+        "Ijtimoiy-hissiy rivojlanish sohasi",
+        "Jismoniy rivojlanish va sog‘lom turmush tarzini shakllantirish."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Bolaning og‘zaki nutqini mustahkamlash qaysi kompetensiyada o‘rgatiladi",
+      "options": [
+        "Nutq, muloqat, o‘qish va yozish malakalari sohasi",
+        "Bilish jarayonining rivojlanish sohasi",
+        "Ijtimoiy-hissiy rivojlanish sohasi",
+        "Jismoniy rivojlanish va sog‘lom turmush tarzini shakllantirish."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "\"Nutq va til\" markazida qanday o‘quv faoliyatlar tashkillashtiriladi?",
+      "options": [
+        "Atrof-olam bilan tanishtirish, badiiy adabiyot",
+        "Musiqa, jismoniy tarbiya",
+        "Tasviriy san’at, musiqa",
+        "Qurish-yasash va matematika."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Yumshoq aqliy rivojlantiruvchi kubikchalar «Alifbe» mashg‘ulot uchun didaktik material har bir bola uchun belgilangan son miqdori qancha   hisoblanadi?",
+      "options": [
+        "1",
+        "4",
+        "3",
+        "2"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "Bolalar adabiyoti, Jahon xalqlari ertaklari,Xalq og‘zaki ijodi, audio ertaklar qaysi markaz uchun resurs hisoblanadi?",
+      "options": [
+        "Til va nutq",
+        "Zamonaviy adabiyotdan",
+        "Xalq og‘zaki ijodidan",
+        "Jahon adabiyotidan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Harfli kubiklar to‘plami,  hikoyalar to‘qish uchun syujetli rasmlar,  Alifbo (kesma harflar), so‘zda tovushni aniqlash uchun mavzuli kartalar to‘plamlari qaysi rivojlantiruvchi soha uchun jihoz hisoblanadi.",
+      "options": [
+        "nutq, muloqat, o‘qish va yozish malakalari sohasi",
+        "ijodiy rivojlanish sohasi",
+        "bilish jarayonining rivojlanishi sohasi",
+        "Jismoniy rivojlanish va sog‘lom turmush tarzini shakllantirish sohasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Bolalarda o‘qish malakalari qanday shakllantiriladi?",
+      "options": [
+        "So‘zlarni bo‘g‘inlarga bo‘ladi; \nbo‘g‘inli kartochkalar yordamida bo‘g‘inlardan so‘zlar tuzadi;",
+        "Bosma harflarni yozish orqali",
+        "Tovushni to‘g‘ri talaffuzi",
+        "Harflarni tanish va qo‘shib o‘qish orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Bolalar portfoliosi nima?",
+      "options": [
+        "Bolaning guruhga kelganidan ta maktabgacha taʼlim tashkilotini yakunlagunga qadar yutuqlari va ishlarining yakka toʻplami",
+        "Bolalarning dasturni oʻzlashtirishidagi yutuqlari bayon etiladigan daftar",
+        "Bolalarning tadbirlar, koʻrgazma va koʻrik tanlovlardagi muvaffaqiyatli ishtiroklari qayd etiladigan daftar",
+        "Bolaning shu davrgacha erishgan yutuqlari, taʼlim sohalarini oʻzlashtirish boʻyicha mavjud boʻlgan muammolari qayd etiladigan daftar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Bolalarda yozish malakalari qanday shakllantiriladi?",
+      "options": [
+        "Qo‘lni uzmasdan nuqta-chiziqchalarni birlashtirib rasm chizadi",
+        "Bosma harflarni topish orqali",
+        "Tovushni to‘g‘ri talaffuzi",
+        "Harflarni tanish va qo‘shib o‘qish orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Bolalarning rivojlanish xaritasi ma`lumotlari  qancha davrgacha saqlanadi?",
+      "options": [
+        "5 yil",
+        "1 yil",
+        "Ota-onalarga beriladi",
+        "Saqlanmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Kuzatish va uning turlari.",
+      "options": [
+        "uzoq muddatli, qisqa muddatli, solishtirma",
+        "obyektiv, subyektiv, laboratoriya, qisqa muddatli",
+        "epizodik, tabiiy kuzatish",
+        "tabiiy kuzatish, qisqa muddatli, solishtirma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Bola o‘ziga tanish ertak qahramonlaridan biri rolini o‘ynaydi, o‘yin jarayonida u qahramon so‘zlarini takrorlaydi va shu tariqa o‘z nutqini boyitadi. Bu qanday o‘yin turiga kiradi?",
+      "options": [
+        "Sahnalashtirilgan o‘yin",
+        "Rolli o‘yin",
+        "«Rejissyorlik» o‘yin",
+        "Syujetli o‘yin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Tarbiyachining bilimdоnligi, zukkоligi, fidоiyiligi, ijоdkоrligi, eruditsiyasi vа h.k qanday sifatlari turiga kiritish mumkin?",
+      "options": [
+        "kasbiy fazilatlari",
+        "Ikkilamchi hususiyatlari",
+        "Shaxsiy fazilatlari",
+        "To’gri javob yuq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Faoliyatlar jarayonida nimalar shakllanadi?",
+      "options": [
+        "Boshlangʻich bilimlar",
+        "Axloqiy shakllanadi",
+        "Turlar va usullar shaklanadi",
+        "Oʻyinlar shakllanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Ogʻzaki oʻyin turlariga qaysilar kiradi?",
+      "options": [
+        "“Nima uchadi, yuguradi, sakraydi”",
+        "“Ortiqchasini top”, “Ertaklarni top”",
+        "“Suvda havoda, yerda”, “Kerak-kerak emas”",
+        "“Mazasidan top”, “suvda, havoda, yerda”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Pedagog uchun sahnalashtirilgan faoliyatni bolalar tayyorlov guruhiga kelib kutgan natijaga erishish uchun qaysi guruhdan boshlab shug’ullanishi zarur",
+      "options": [
+        "O’rta guruhdan boshlab shug‘ullanish kerak",
+        "Kichik  guruhdan boshlab shug‘ullanish kerak",
+        "Katta  guruhdan boshlab shug‘ullanish kerak",
+        "Tayyorlov  guruhdan boshlab shug‘ullanish kerak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Turli xil magnitlar, lupalar, oʻlchov idishlari, qumli konteynerlar, tovushli audio tasmalar qaysi markaz uchun resurs hisoblanadi?",
+      "options": [
+        "“Fan  va tabiat”*",
+        "Syujetli -rolli oʻyinlar va saxnalashtirish",
+        "San’at",
+        "Til va nutq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Ogʻzaki metod bu-",
+      "options": [
+        "tabiat hodisalari bilan tanishtirishning yetakchi uslubi",
+        "maqol, maʻtal, videofilmni kuzatish",
+        "maqol, sheʻr, hikoya, kinofilm, oʻyin",
+        "kinofilm, oʻyin, hikoya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Qoradan oqgacha tuslangan ranglar qanday ranglar deyiladi",
+      "options": [
+        "Axromatik",
+        "Xromatik",
+        "To‘q ranglar",
+        "Och ranglar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Faoliyat turlari?",
+      "options": [
+        "yangi bilim beruvchi, bilimlarni mustahkamlovchi, bilimlarni aniqlovchi noʻananaviy mashg'ulot.",
+        "bilimlarni tartibga soluvchi, aniqlovchi",
+        "bilimlarni umumlashtiruvchi, noʻananaviy",
+        "bilimlarni mustahkamlovchi, bilimlarni tartibga soluvchi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Maktabga tayyorlov guruhining \"Tabiiy boʻyoqlar\" mavzui qaysi markaz mavzusi hisoblanadi?",
+      "options": [
+        "“Fan  va tabiat”",
+        "Til va nutq",
+        "Syujetli -rolli oʻyinlar va saxnalashtirish",
+        "Qurish,konstruksiyalash va matematika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "\"Fan va  tabiat\" rivojlanish  markazida qanday oʻquv faoliyatlar takomillashtiriladi?",
+      "options": [
+        "Ilk tadqiqotchilik",
+        "Oddiy jarayon.",
+        "Tasviriy sanʼat",
+        "musiqaga bogʻliq jarayon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Qo‘g‘irchoq qo‘lqop qaysi teatr uchun kerakli anjom hisoblanadi?",
+      "options": [
+        "Qo‘g‘irchoq teatri",
+        "Soya teatri",
+        "Stol teatri",
+        "Paxmoq teatri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Maktabgacha ta’limning asosiy ikkita metodlari qaysi javobda to‘g‘ri berilgan?",
+      "options": [
+        "Didaktik va metodik",
+        "Ta’limiy va tashkiliy",
+        "Tarbiyaviy va metodik",
+        "Didaktik va tashkiliy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Sahnalashtirilgan o‘yinlarda qatnashib, bolalar atrof olamni qanday tanishadi",
+      "options": [
+        "Obrazlar, ranglar (bo‘yoqlar), tovushlar bilan tanishadi.",
+        "O‘yin vaqtida tanishadi",
+        "Tarbiyachilar tanishtiradi",
+        "Har hil ro’llar yordamida tanishadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Maktabga tayyorlov guruhida \"Toshning xususiyatlari\" qaysi markaz mavzusi hisoblanadi?",
+      "options": [
+        "“Fan  va tabiat”",
+        "San’at",
+        "Syujetli -rolli oʻyinlar va saxnalashtirish",
+        "Til va nutq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Bolalar  bilan suhbatda  Dushanba kuni qaysi  mavzu bo‘yicha suhbatlar o‘tkazish tavsiya etiladi ?",
+      "options": [
+        "“Kelajak soati”",
+        "“Huquqiy savodxonlik”",
+        "“Odob-axloq qoidalari”",
+        "“Yoʻl harakati qoidalari”"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "\"Amaliy san’at turlari haqida birlamchi tushunchaga ega\" ushbu natija qaysi guruhga tegishli",
+      "options": [
+        "Katta guruh",
+        "Kichik guruh",
+        "Tayyorlov guruh",
+        "O‘rta guruh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Bolalarda boshlangʻich bilimlar  qanday jarayonda shakllanadi?",
+      "options": [
+        "Faoliyatlarda",
+        "Turli darslarda shaklanadi",
+        "Oʻyinlar",
+        "Ekskursiyada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q41",
+      "prompt": "Maktabgacha yoshdagi bolalarni eshitish qobiliyatlarini rivojlantirish uchun qanday usullardan foydalaniladi?",
+      "options": [
+        "Maktabgacha yoshdagi bolalarni shovqinli va musiqiy tovushlarni farqlashga o’rgatish orqali",
+        "Bolalarning shaxsiy kompetensiyalarini rivojlantirish orqali",
+        "Musiqiy cholg'ular va belgilarni rasmini chizishga o'rgatish orqali",
+        "Bolalarga musiqa savodiga oid bilimlarni o'rgatish orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q42",
+      "prompt": "Katta guruhining \"Yer osti qazilmalari\" mavzui qaysi markaz mavzusi hisoblanadi?",
+      "options": [
+        "“Fan  va tabiat”",
+        "Til va nutq",
+        "Qurish,konstruksiyalash va matematika",
+        "Syujetli -rolli oʻyinlar va saxnalashtirish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q43",
+      "prompt": "Soya teatrining sahnasi nima deb ataladi?",
+      "options": [
+        "Ekran",
+        "O‘yin burchagi",
+        "“Chodir jamol”",
+        "Interfaol ekran"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q44",
+      "prompt": "Havo bilan chiniqtirishda havo harorati necha gradus  boʻlishi kerak ?",
+      "options": [
+        "19-22º",
+        "24-28º",
+        "16-20º",
+        "10-12º"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q45",
+      "prompt": "Maktabgacha ta’lim tashkilotida sahnalashtirish faoliyatning asosiy vazifalari bo’lmagan qatorni tanlang",
+      "options": [
+        "Kattalarning sanalashtirilgan faoliyati (ota-onalar, xodimlar ishtirokida birgalikda spektakllar qo‘yish;).",
+        "Sahnalashtirilgan faoliyatda   bolalarning ijodiy faolligi uchun sharoit yaratish.",
+        "Pedagogik jarayonda sanalashtirilgan va boshqa faoliyat turlari o‘zaro aloqadorligi uchun sharoit yaratish.",
+        "Bolalarni teatr madaniyatiga oshno qilish."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q46",
+      "prompt": "\"Kitob tarixi va inson\"  hafta mavzusi qaysi oy mavzusi asosida belgilangan?",
+      "options": [
+        "Ajib dunyo",
+        "Yer sayyorasi – umumiy uyimiz",
+        "Oʻzbekiston – mening Vatanim",
+        "Goʻzal bahor"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q47",
+      "prompt": "Bolaga ijod uchun imkoniyatlar qaysi usullar orqali namaoyon bo’ladi",
+      "options": [
+        "Kichik sahnalarni o‘ynab o‘ziga ishonch, topqirlik rivojlanish orqali",
+        "Bolalani  o‘ziga ishonchini rivojlantirish",
+        "Rol orqali hammani qiziqtirishi bilan",
+        "Kichik  yoshdan jamoa oldida nutq so‘zlashga o‘rgatish yo‘li bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q48",
+      "prompt": "Kommunikativ\n kompetentlik",
+      "options": [
+        "ta’lim jarayonining barcha  ishtirokchilari, jumladan,  tarbiyalanuvchilar bilan samimiy  muloqotda bo‘lish.",
+        "Pedagogik jarayonni takomillashtirish,   ta’lim sifati",
+        "Pedagogik faoliyatga ijodiy yondashish, o‘zining ijodkorlik malakalariga egaligini namoyish eta olish",
+        "To`g`ri javob yo`q"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q49",
+      "prompt": "Qaysi javobda kamalak ranglar ketma-ketlikda joylashtirilgan?",
+      "options": [
+        "Qizil, zarg‘aldoq, sariq, yashil, zangori, ko‘k, siyoxrang.",
+        "Moviy, zarg‘aldoq, oq, yashil, qora, ko‘k, siyoxrang.",
+        "Oq, zarg‘aldoq, sariq, yashil, zangori, pushti, siyoxrang.",
+        "Zarg‘aldoq, qora, yashil, qizil, zangori, ko‘k, siyoxrang."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q50",
+      "prompt": "Sahnalashtirishda adabiy asarlarni tanlashda qo’yiladigan talablarni belgilang?",
+      "options": [
+        "Hamma javoblar to’gri",
+        "Mazmunining g’oyaviy ma’naviy barkamolligi",
+        "Badiiy jihatdan mazmundorligi",
+        "Asardagi qatnashchi va ro’llarning soni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q51",
+      "prompt": ".........– bu pedagogik faoliyatining o‘zaro bog‘liq g‘oяlari, tushunchalari va usullarning o‘ziga xos xarakteri to‘plamidan foydalanadigan pedagogning uslubiy yo‘nalishi.",
+      "options": [
+        "yondashuv",
+        "Shaxs",
+        "Kuzatish",
+        "Tarbiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q52",
+      "prompt": "Qaysi ertak turida tasvir  engsiz taglik ko‘rinishida bo‘ladi?",
+      "options": [
+        "Stol teatri",
+        "Paxmoq teatri",
+        "Soya teatri",
+        "Qo‘g‘irchoq qo‘lqop teatri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q53",
+      "prompt": "Ijodiy rivojlanish sohasi nechta kichik sohalarga bo‘linadi va ular qaysi javobda to‘g‘ri berilgan?",
+      "options": [
+        "1. Dunyoni badiiy tasavvur etish                     2. Badiiy – ijodiy qobiliyatlar",
+        "1. Dunyoni badiiy tasavvur etish 2. Borliqni ijodiy o‘zgartirish 3. San’atni anglash",
+        "1. Borliqni ijodiy o‘zgartirish  2. San’atni anglash",
+        "1. Dunyoni bilish 2. Badiiy – ijodiy qobiliyatlar 3. Borliqni ijodiy o‘zgartirish 4. San’atni anglash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q54",
+      "prompt": "Stol teatri qayerda namoyish qilinadi?",
+      "options": [
+        "Stol ustida",
+        "Interfaol ekran",
+        "“Chodir jamol”",
+        "Ekran"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q55",
+      "prompt": "\"Ilk qadam\" Davlat oʻquv dasturi asosida tajribalar nima asosida rejalashtirilgan?",
+      "options": [
+        "Mavzuviy rejalashtirish asosida",
+        "Belgilangan talablar asosida",
+        "Mavsumiy oʻzgarishlar asosida",
+        "Bolaning istaklari asosida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q56",
+      "prompt": "Tushirib qoldirilgan soʻzni toping.   _______qanchalik mustahkam boʻlsa, bola dunyoqarashi, intellektual salohiyati shunchalik rivojlanadi va kamol topadi.",
+      "options": [
+        "Bilim",
+        "Soha",
+        "Faoliyat",
+        "Diqqat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q57",
+      "prompt": "Predmetli oʻyinlarga qaysilar kiradi?",
+      "options": [
+        "domino, loto, zoologiya, botanika",
+        "stol bosma oʻyinlari, zoologiya lotosi.",
+        "stol bosma oʻyinlari, zoologiya lotosi.",
+        "chumchuq va avtomobil, tovuq jujalari bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q58",
+      "prompt": "Maktabga tayyorlov  guruhda yozgi sogʻlomlashtirish davrida haftasiga nechta mashgʻulot rejalashtiriladi?",
+      "options": [
+        "7ta",
+        "10ta",
+        "6ta",
+        "8ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q59",
+      "prompt": "Bolalarni qobiliyatlarini rivojlantiradigan faoliyat qanday?",
+      "options": [
+        "sahnalashtirilgan faoliyat",
+        "bolalarni  hamma narsaga qiziqtirish faoliyati bilan",
+        "o’yin faoliyati",
+        "jamoa erkin so‘zlashishga o‘rgatish yo‘li bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q60",
+      "prompt": "Oʻyinlar bolada qanday tajribalarni ortiradi?",
+      "options": [
+        "Sezuvchanlik.",
+        "Kuzatuvchanlik",
+        "Qoʻrquv",
+        "Boshqaruvchanlik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q61",
+      "prompt": "MTT ning qaysi guruhida sahnalashtirilgan mualliflik o‘yinlarining boshlang‘ich etaplarini ko‘rish mumkin",
+      "options": [
+        "Katta guruh",
+        "Kichik  guruh",
+        "O‘rta guruh",
+        "Tayyorlov guruhi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q62",
+      "prompt": "Taʻlim va tarbiya jarayonini mavzuviy rejalashtirish toʻplami mazmunida  qaysi faoliyatning ish mazmuni qayd etiladi?",
+      "options": [
+        "Rivojlanish markazlardagi taʼlim-tarbiyaviy jarayon mazmuni",
+        "Rivojlanish xarita hisoboti",
+        "Maktab bilan hamkorlik",
+        "Mahalla bilan hamkorlik hisoboti"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q63",
+      "prompt": "Bolaning rivojlanish xaritasi asosida yil davomida qanday kuzatuv jarayoni tashkil etiladi?",
+      "options": [
+        "Dastlabki,oraliq,yakuniy kuzatuv",
+        "2-marta yil boshida va yil yakunida",
+        "Kuzatuv olib borilmaydi",
+        "Ota-ona kuzatuvi asosida 5 marta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q64",
+      "prompt": "Markazlardagi faoliyatlar qachon oylik reja daftariga qayd etiladi?",
+      "options": [
+        "Namunaviy rejalashtirish berilgan markazlardagi faoliyatlarga, hudud (shahar)larning ichki imkoniyatlarini inobatga olib yoki ijodiy yondoshgan holda (asosiy oy mavzusidan chiqib ketilmaydi) oʻzgartirish va qoʻshimchalar kiritilganda",
+        "To‘liq yoritiladi",
+        "Kiritilmaydi",
+        "Ota-onalar talabiga binoan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q65",
+      "prompt": "MTTda integratsiyalash nima?",
+      "options": [
+        "MTT tizimida bola rivojlanish sohalarininng oʻquv tarbiyaviy faoliyatda  oʻzaro mutanosib qoʻllanilishi",
+        "MTTda integratsiya qoʻllanilmaydi.",
+        "Ota-onalar  bilan \"Yoʻl xarita\" tuzish",
+        "MTT mahalla hamkorligi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q66",
+      "prompt": "Bolaning rivojlanish darajasi qaysi  tushuntirishlar yordamida belgilanadi?",
+      "options": [
+        "K – kuzatilmaydi yoki kamdan-kam kuzatiladi \nB – baʻzida kuzatiladi \nT – tez-tez kuzatiladi \nD – doimiy ravishda kuzatiladi",
+        "S-sezgir,\nF-faol,\nK-kommunikativ,\nR-rivojlanmagan",
+        "B-biladi,\nM-malakali,\nT-tushunmaydi,\nSh-shakllangan",
+        "B-bilim,\nM-malaka,\nK-koʻnikma"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q67",
+      "prompt": "Shахsning ichki qоbiliyati: To’g’ri javobni aniqlang",
+      "options": [
+        "o`z-o`zini bilish, tushunish vа his qilish qоbiliyati",
+        "Pеdаgоgning o`z хаtti- hаrаkаtlаrini muvоfiqlаshtirish qоbiliyati",
+        "Bundаy qоbiliyatgа egа bo`lgаn insоnlаr musiqаni sеvishаdi, оhаngni yaхshi his qilishаdi",
+        "Ushbu qоbiliyat turi hаr bir pеdаgоgning sеrgаkligidа, tа`lim оluvchilаrning ruhiyatini, ichki dunyosini ko`rа оlishidа nаmоyon bo`lаdi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q68",
+      "prompt": "Suhbat uning turlari.",
+      "options": [
+        "kirish suhbati, yakuniy suhbat",
+        "asosiy, kirish, yakuniy suhbat",
+        "yakuniy, kirish, ogʻzaki",
+        "yakuniy suhbat, ogʻzaki"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q69",
+      "prompt": "Faoliyatning samaraliligi nimaga bogʻliq?",
+      "options": [
+        "Tarbiyachi tayyorgarligiga",
+        "Faoliyat turiga",
+        "Hech nimaga",
+        "Rejalashtirishga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q70",
+      "prompt": "Tarbiyachining pedagogik mahorati qayerda namoyon bo'ladi?",
+      "options": [
+        "faoliyatda",
+        "Ish hujjatlarida",
+        "Umumiy yigiliwlarda",
+        "Ota onalar bilan munosabatida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q71",
+      "prompt": "Shaxsga yo‘naltirilgan yondashuvning  asosiy tamoyillari nechta",
+      "options": [
+        "7",
+        "3",
+        "10",
+        "5"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q72",
+      "prompt": "Soya  teatri  personajlari  qanday  rangda bo‘yaladi?",
+      "options": [
+        "Qora rangda",
+        "Oq rangda",
+        "Qizil rangda",
+        "Rangsiz"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q73",
+      "prompt": "Kollobratsiya bu…?",
+      "options": [
+        "umumiy maqsadlarga erishish uchun ikki yoki undan ko‘p insonlarning birgalikdagi faoliyati",
+        "Pedagogik jarayonni  takomillashtirish,    ta’lim sifati",
+        "Barcha javob to`g`ri",
+        "Ta’lim jarayonining barcha  ishtirokchilari, jumladan,  tarbiyalanuvchilar bilan samimiy  muloqotda bo‘lish."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q74",
+      "prompt": "kritika so'zining ma'nosi",
+      "options": [
+        "Tahlil qilish, hukm qilish san'ati,yani tanqidiy fikr",
+        "Kreativ\n kompetentlik",
+        "kommunikativ\n kompetentlik",
+        "To`g`ri javob yo`q"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q75",
+      "prompt": "Inglizcha- Qobiliyat bu",
+      "options": [
+        "kompetensiya",
+        "To`g`ri javob yo`q",
+        "Kreativlik",
+        "Kollobratsiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q76",
+      "prompt": "Kreativlik nima?",
+      "options": [
+        "kreativlik (lot. “creation ” - yaratuvchanlik, ijodkorlik)",
+        "Kreativlik (ing. “creation ” - o`ychanlik, o`zgaruvchanlik)",
+        "Kreativlik (fran. “creation ” - boshqaruvchanlik, chaqqonlik)",
+        "Kreativlik (ital. “creatione ” - zabardast, olg`ir)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q77",
+      "prompt": "Qizil va sariq rang aralashmasidan qaysi rang hosil bo‘ladi",
+      "options": [
+        "Zarg‘aldoq",
+        "Sapsar",
+        "To‘q sariq",
+        "barcha javob to‘g‘ri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q78",
+      "prompt": "Asosiy ranglar qanday turlarga bo‘linadi?",
+      "options": [
+        "Iliq va sovuq",
+        "Och va to‘q",
+        "Xromatik va axromatik",
+        "Yorqin va xira"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q79",
+      "prompt": "Applikatsiyada ishlatiladigan asosiy resurslarni belgilang?",
+      "options": [
+        "Rangli qog‘ozlar, qaychi, kley, tabiiy materiallar (barg, urug‘lar, novda v.b.)",
+        "Qog‘ozlar, qaychi, stek, tabiiy materiallar (tarvuz urug‘i)",
+        "Oq qog‘oz, pichoq, kley, xolst, gips",
+        "Moy bo‘yoq, qaychi, stek, tabiiy materiallar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q80",
+      "prompt": "Asosiy rang nomlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "Qizil, sariq, ko‘k",
+        "Qizil, sariq, yashil,",
+        "Oq, qora, qizil",
+        "Siyoxrang, oq, sariq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q81",
+      "prompt": "Koʻrgazmali metodlar guruhi namoyishi bu-",
+      "options": [
+        "rasmlar koʻrish, kinofilm, diafilm, diopozitiv “yilning to’rt fasli” uy hayvonlari»",
+        "badiy adabiyot, predmetli rasm",
+        "tabiat haqidagi rasmlarlar namoyish qilish",
+        "predmetli rasm, kinofilm, diafilm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q82",
+      "prompt": "Loy ishlari MTTlarida birinchi qaysi guruhdan boshlanadi?",
+      "options": [
+        "Kichik guruhdan",
+        "O‘rta guruhdan",
+        "Tayyorlov guruh",
+        "Katta guruhdan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q83",
+      "prompt": "Tasviriy faoliyat  turlari qaysi javobda ko‘rsatilgan?",
+      "options": [
+        "Rasm,  applikatsiya, plastilin (loy) bilan ishlash",
+        "Musiqa, loy ishi, grafika",
+        "Qurilish va konstruksiyalash, musiqa,applikatsiya",
+        "Qurilish va konstruksiyalash, musiqa, rasm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q84",
+      "prompt": "Tasviriy faoliyatda rasm chizishning qanday turlari bor?",
+      "options": [
+        "Syujetli, predmetli, personajli",
+        "Syujetli-rolli, kompozitsiya, naturadan tasvirlash",
+        "Nusxa ko‘chirish, kompozitsiya, naturadan tasvirlash",
+        "Rangtasvir, grafika, mozaika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q85",
+      "prompt": "Predmetli rasm deganda nimani tushinasiz?",
+      "options": [
+        "Bitta buyumni tasvirlash",
+        "Natyurmortni tasvirlash",
+        "Plastilindan buyum yasash",
+        "Tabiat manzaralarini tasvirlash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q86",
+      "prompt": "\"6-7 yoshli bola tasviriy san’at turlarini farqlaydi\" ushbu natija qaysi kichik rivojlanish soxasiga tegishli",
+      "options": [
+        "Dunyoni badiiy tasavvur etish",
+        "Intelektual-bilish malakalari",
+        "Badiiy – ijodiy qobiliyatlar",
+        "O‘qish malakalari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q87",
+      "prompt": "\"5-6 yoshli bola xotira va tasavvurga ko‘ra syujet yaratadi\" ushbu natija qaysi kichik rivojlanish soxasiga tegishli",
+      "options": [
+        "Badiiy – ijodiy qobiliyatlar",
+        "Xissiyotlar va ularni boshqarish",
+        "Nutq va til",
+        "Dunyoni badiiy tasavvur etish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q88",
+      "prompt": "\"6-7 yoshli bola turli predmetlardan kompozitsiyalar yaratadi\" ushbu natija qaysi kichik rivojlanish soxasiga tegishli",
+      "options": [
+        "Badiiy – ijodiy qobiliyatlar",
+        "Men konsepsiyasi",
+        "O‘qish malakalari",
+        "Ijtimoiylashuv, kattalar va tengdoshlar bilan muloqot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q89",
+      "prompt": "Dunyoni badiiy tasavvur etish qaysi rivojlanish soxasiga tegishli",
+      "options": [
+        "Ijodiy rivojlanish",
+        "Nutq, muloqot, o‘qish va yozish malakalari",
+        "Bilish jarayonining rivojlanishi",
+        "Ijtimoiy-hissiy rivojlanish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q90",
+      "prompt": "Tasviriy san’at turlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "Rangtasvir, haykaltaroshlik, grafika",
+        "Natyurmort, manzara, portret",
+        "Rasm, applikatsiya, loy ishi",
+        "rassomlik, naqqoshlik, kulolchilik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q91",
+      "prompt": "Tasviriy san’at janrlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "Portret, manzara, natyurmort, maishiy, animalistik, botal, tarixiy, marina",
+        "Portret,  natyurmort, manzara, maishiy, animalistik, tarixiy",
+        "Portret, manzara, natyurmort, maishiy, haykaltarshlik, nyu, tarixiy,",
+        "Rassomlik, manzara, natyurmort, maishiy, animalistik, botal, tarixiy, marina"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q92",
+      "prompt": "Asosiy ranglar deb nimaga aytiladi?",
+      "options": [
+        "Asosiy ranglarni boshqa ranglardan hosil qilib bo‘lmagani uchun",
+        "Ramziy ma’nolari borligi uchun",
+        "To‘q bo‘lganligi uchun",
+        "Yorqinligi uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q93",
+      "prompt": "Maktabgacha yoshdagi bolalarni musiqiy ritmik harakatlarga o’rgatishning asosiy maqsadi nima?",
+      "options": [
+        "Bolalarni musiqa ritmini his qilishga o'rgatadi, musiqiy o'quvi, xotirasini  mustahkamlaydi",
+        "Bolalarni qo'shiq kuylash faoliyatiga o'rgatadi",
+        "Bolalarning nutqini, talaffuzini rivojlantiradi",
+        "To'g'ri javob yo'q"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q94",
+      "prompt": "Ko‘k va qizil rang aralashmasidan qaysi rang hosil bo‘ladi",
+      "options": [
+        "Siyohrang",
+        "Moviy",
+        "Yashil",
+        "Zangori"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q95",
+      "prompt": "Metod nimaga koʻra tanlanadi?",
+      "options": [
+        "Turi, asosiy maqsadiga koʻra",
+        "Fanlarga ko’ra",
+        "Tabiatdagi oʻzgarishlar tahliliga ko’ra",
+        "Faoliyat turiga ko’ra"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q96",
+      "prompt": "Applikatsiya turlari qaysi javobda to‘g‘ri ko‘rsatilgan?",
+      "options": [
+        "Predmetli, mazmunli, dekorativ",
+        "Ixtiyoriy, dekorativ, mazmunli",
+        "Yassi, mazmunli, erkin",
+        "Hajmli, bo‘rtma, yassi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q97",
+      "prompt": "MTTda sogʻlomlashtirish ishlarini tashkil etish qanday metodik tavsiya asosida amalga oshiriladi",
+      "options": [
+        "\"Yoz oʻtmoqda soz\" metodik tavsiya\"",
+        "Tejamkorlik saboqlari \"dasturi asosida",
+        "\"Mehr aksiyasi\" mehr muruvvat oyligi",
+        "\"Baxtli bolalik\"Konsepsiyasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q98",
+      "prompt": "\"Ayrim san’at turlari va janrlarini farqlaydi\" ushbu natija qaysi guruhga tegishli",
+      "options": [
+        "O‘rta guruh",
+        "Tayyorlov guruh",
+        "Kichik guruh",
+        "Katta guruh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q99",
+      "prompt": "\"O‘zbekiston amaliy san’ati haqida birlamchi tushunchaga ega\" ushbu natija qaysi guruhga tegishli",
+      "options": [
+        "O‘rta guruh",
+        "Tayyorlov guruh",
+        "Katta guruh",
+        "Kichik guruh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q100",
+      "prompt": "\"Tasviriy san’at elementlaridan foydalanadi\" ushbu natija qaysi yoshga tegishli",
+      "options": [
+        "3-4 yosh",
+        "5-6 yosh",
+        "6-7 yosh",
+        "4-5 yosh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q101",
+      "prompt": "\"Loy, xamir va plastilindan narsalar yasaydi\" ushbu natija qaysi kichik rivojlanish soxasiga tegishli",
+      "options": [
+        "Badiiy – ijodiy qobiliyatlar",
+        "Dunyoni badiiy ta`savvur etish",
+        "Elementar matematik malakalar",
+        "Xissiyotlar va ularni boshqarish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q102",
+      "prompt": "Bolalar musiqiy rivojlanishining maqsad va vazifalari nimalardan iborat?",
+      "options": [
+        "Bolaning musiqaviy, badiiy-ijodiy qobiliyatlarini rivojlantirish, ashula aytish va musiqaviy-ritmik malakalarga o’rgatish",
+        "Musiqa mashg'ulotini tashkil etishda foydalaniladigan metodlarni o'rgatadi",
+        "O'quv materialini nazariy va amaliy yo'naltirish yo'llarini o'rgatadi",
+        "Musiqiy faoliyat turlarini mashg'ulot jarayonida qo'llashni o'rgatadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q103",
+      "prompt": "Musiqiy faoliyat turlari nechta?",
+      "options": [
+        "5 ta",
+        "2 ta",
+        "3 ta",
+        "6 ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q104",
+      "prompt": "Bolalar cholg’ularida jo’r bo’lishga o’rgatishning ahamiyatli tomonlari nimada?",
+      "options": [
+        "Bolalarning musiqaga boʻlgan qiziqishlarini yanada oshiradi, ritm tuygʻusi, musiqiy o'quvi, xotirasini mustahkamlaydi",
+        "Musiqiy ritmik harakatlar bajaradi, qo'shiq kuylash faoliyatini to'g'ri bajaradi",
+        "Bolalarning bilish kompetensiyalarini rivojlantiradi",
+        "Turli vaziyatlarda tengdoshlari bilan muloqotga kirishishni o'rganadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q105",
+      "prompt": "Bolalar uchun musiqiy repertuar tanlashda nimalarga e’tibor qaratiladi?",
+      "options": [
+        "Har bir yosh guruhi uchun qiziqarli ularning kayfiyatiga mos keladigan, maʼnaviy jihatdan tarbiyaviy ahamiyatga ega boʻlgan musiqiy asarlar tanlanadi",
+        "Bolalarning ritm tuygʻusi, musiqiy uquvi, xotirasining rivojlanganlik darajasiga e'tibor qaratiladi",
+        "Bolalar uchun musiqiy repertuar tanlashda bolalarning bilim darajasi inobatga olinadi",
+        "Pedagog o'zi hohlagan asarlarni bolalarga o'rgatishi mumkin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q106",
+      "prompt": "Musiqiy ta'lim tizimining o‘ziga xos xususiyatlari nimalardan iborat?",
+      "options": [
+        "Bolaning musiqiy, badiiy-ijodiy qobiliyatlarini rivojlantirish",
+        "Bolalarning kommunikativ kompetensiyalarini shakllantirish",
+        "O'yin faoliyatiga bolalarni jalb etish",
+        "Bolalarni musiqa tinglashga o'rgatish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q107",
+      "prompt": "Maktabgacha yoshdagi bolalarga ta’lim berishda kompetensiyaviy yondashuv dasturning majburiy 5ta ta’lim soxasini o‘z ichiga oladi, bular qaysilar?",
+      "options": [
+        "Hamma javoblar to’g’ri",
+        "«Jismoniy rivojlanish va sog‘lom turmush tarzini shakllantirish» sohasi kompetensiyalari, «Ijodiy rivojlanish» sohasi kompetensiyalari",
+        "«Ijtimoiy-hissiy rivojlanish» sohasi kompetensiyalari, «Bilish jarayonining rivojlanishi» sohasi kompetensiyalari",
+        "«Nutq, muloqot, o‘qish va yozish malakalari» sohasi kompetensiyalari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q108",
+      "prompt": "Bolalarni musiqiy ritm tuyg'usini rivojlantirish uchun qanday faoliyatlar amalga oshiriladi?",
+      "options": [
+        "Musiqa jo’rligida ritmik o’yinlar tashkil etiladi",
+        "Bolalarga musiqa savodiga oid bilimlar o'rgatiladi",
+        "Jismoniy mashqlar bajartiriladi",
+        "Musiqiy cholg'ularni rasmini chizishga o'rgatiladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q109",
+      "prompt": "Tarqatma materiallardan foydalanib kuzatish qaysi metodga kiradi.",
+      "options": [
+        "koʻrgazmali metod",
+        "amaliy metod",
+        "og’zaki metod",
+        "hikoya, mehnat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q110",
+      "prompt": "Musiqa faoliyatida bolalarni qanday usullar yordamida milliylik tushunchasiga o'rgatib borish mumkin?",
+      "options": [
+        "O’zbek milliy cholg’ulari bilan tanishtirish, milliy kuylarni eshittirish",
+        "Musiqa faoliyatida turli qiziqarli o'yinlar o'ynash",
+        "Fortepiano cholg'usida chalishga o'rgatish va qo'shiq kuylashga o'rgatish",
+        "Jismoniy mashqlar bajartirib, amaliy metodlardan foydalanish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q111",
+      "prompt": "Bolalar cholg’ularida jo’r bo’lishga o’rgatish faoliyatini qanday tashkil etish mumkin?",
+      "options": [
+        "Bolalarni shovqinli cholg’ular bilan musiqaga jo’r bo’lishga o’rgatish orqali",
+        "To'g'ri javob yo'q",
+        "O'quv materialini nazariy va amaliy yo'naltirish orqali",
+        "Bolalarning nutqini, talaffuzini rivojlantirish orqali"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q112",
+      "prompt": "Musiqiy ta’lim metodlari haqida nimalarni bilasiz?",
+      "options": [
+        "Musiqiy ta’lim metodlari og’zaki, ko’rgazmalilik, amaliy metodlardan iborat",
+        "Musiqiy ta’lim metodlari musiqa tinglash, kuylash, amaliy metodlardan iborat",
+        "Musiqiy ta’lim metodlari texnoligik, innovatsion, amaliy metodlardan iborat",
+        "Musiqiy ta'lim jarayonida metodlardan foydalanilmaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q113",
+      "prompt": "Nutq, muloqot, o‘qish va yozish malakalari “Ilk qadam” davlat o‘quv dasturining nechanchi soha konsepsiyasi?",
+      "options": [
+        "Uchinchi",
+        "Beshinchi",
+        "ikkinchi",
+        "birinchi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q114",
+      "prompt": "Bolaning bilish qobiliyatining rivojlanganligi?",
+      "options": [
+        "Yozish malakalarini shakllanganligi",
+        "Mexanik xotira",
+        "O‘qishni bilishi",
+        "Diqqatli, idrok, tafakkuri, xotirasining rivojlanganlik darajasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q115",
+      "prompt": "Bolalarni rivojlantirish va maktabga tayyorlash davrini va bosqichlarini ayting",
+      "options": [
+        "Chaqaloqlik, ilk yosh kichik yosh o‘rta yosh, katta yosh va maktabga tayyorlov davr",
+        "Kichik o‘rta katta tayyorlov davr",
+        "Maktabga yetuklik davr",
+        "Katta va maktabga tayyorlov davr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q116",
+      "prompt": "Stol bosma oʻyinlari?",
+      "options": [
+        "zoologiya lotosi, botanika lotosi, yilning turli fasli, mevalar, oʻsimliklar",
+        "tabiat materiallaridan turli narsalar yasash",
+        "tashlandiq materiallardan tayyorlangan o’yinlar",
+        "Domino,predmetli rasm, turli xilildizlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q117",
+      "prompt": "Maktabgacha ta’lim yoshidagi bolalarning asosiy faoliyat turi nima?",
+      "options": [
+        "О‘yin",
+        "О‘qish",
+        "Ta’lim",
+        "Mehnat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q118",
+      "prompt": "Pеdаgоgik mаhоrаtning аsоsi -",
+      "options": [
+        "o'z ustida mustaqil ishlashi",
+        "Ota ona bilan muloqoti",
+        "O’quv soatlarini rejali bajarishi",
+        "Tashkiliy ishlarda faolligi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q119",
+      "prompt": "Sayr va uning turlari.",
+      "options": [
+        "ertalabki, kechki sayr",
+        "yer maydonchasiga, hiyobonga",
+        "maqsadli sayr maqsadsiz",
+        "hiyobonga, hayvonot bogiga"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
