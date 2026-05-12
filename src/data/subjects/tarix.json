@@ -1,0 +1,1162 @@
+{
+  "id": "tarix",
+  "name": "Tarix",
+  "timeSeconds": 1800,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "2022-2026-yillarga moʻljallangan taraqqiyot strategiyasi nechta ustuvor yoʻnalishdan iborat?",
+      "options": [
+        "4 ta",
+        "5 ta",
+        "6 ta",
+        "7 ta"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q2",
+      "prompt": "Oʻzbekiston Prezidenti farmonlari va qarorlarining ijrosini ta’minlovchi organni toping.",
+      "options": [
+        "Oʻzbekiston Respublikasi Vazirlar Mahkamasi",
+        "Oʻzbekiston Respublikasi Oliy Sudi",
+        "Oʻzbekiston Respublikasi Konstitusiyaviy Sudi",
+        "Oʻzbekiston Respublikasi Oliy Majlisi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Oʻzbekiston Respublikasining hududi ....",
+      "options": [
+        "460,4 ming km. kv.",
+        "346,6 ming km. kv.",
+        "448,978 ming km. kv.",
+        "576,7 ming km. kv."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q4",
+      "prompt": "“Paxta ishi” deb atalgan siyosiy qatagʻonlar davrida 1983-yilda tuzulgan tergov guruhining rahbarlari kim edi?",
+      "options": [
+        "T.X. Tuxugov. N.V. Ivanov",
+        "T.X.Gdlyan va T.X.Tuxugov",
+        "T.X.Gdlyan va N.V.Ivanov",
+        "T.X.Gdlyan va A.D.Molotov"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q5",
+      "prompt": "Oʻzbekistonda Prezidentlik lavozimi qachon joriy etilgan?",
+      "options": [
+        "1991-yil 25-iyun",
+        "1991-yil 20-may",
+        "1990-yil 24-mart",
+        "1991-yil 24-aprel"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q6",
+      "prompt": "Mustaqil Oʻzbekiston Respublikasida birinchi muqobil prezidentlik saylovlari qachon boʻlib oʻtgan edi?",
+      "options": [
+        "1991-yil 31-avgustda",
+        "1990-yil 21- martda",
+        "1991- yil 29- dekabrda",
+        "1992- yil 2-martda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q7",
+      "prompt": "Oʻzbekiston Respublikasi nechta davlat bilan chegaradosh?",
+      "options": [
+        "4 ta",
+        "5 ta",
+        "6 ta",
+        "7 ta"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q8",
+      "prompt": "Oʻzbekistonda “Oʻzbek tiliga davlat tili maqomini berish toʻg‘risidagi Qonun qachon qabul qilingan edi?",
+      "options": [
+        "1990- yil 20- iyunda",
+        "1991- yil 18- noyabrda",
+        "1989- yil 21-oktyabrda",
+        "1990- yil 24- martda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q9",
+      "prompt": "1992-yil 10-dekabrda Oʻzbekiston Respublikasining qaysi davlat ramzi qabul qilingan edi?",
+      "options": [
+        "davlat gerbi",
+        "davlat madhiyasi",
+        "Konstitutsiya",
+        "davlat bayrogʻi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q10",
+      "prompt": "Davlat va jamiyat hayotining eng muhim masalalari xalq muhokamasiga qoʻyilishi qanday ataladi?",
+      "options": [
+        "Umumxalq saylovi",
+        "Ombudsman",
+        "Muqobil saylov",
+        "Referendum"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q11",
+      "prompt": "1991-yil 18-noyabrda Oʻzbekiston Respublikasining qaysi davlat ramzi qabul qilingan edi?",
+      "options": [
+        "davlat gerbi",
+        "davlat madhiyasi",
+        "Konstitutsiya",
+        "davlat bayrogʻi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q12",
+      "prompt": "Oʻzbekiston Respublikasining milliy valyutasi – «soʻm» qachondan muomalaga kiritildi?",
+      "options": [
+        "1991- yil 18- noyabrdan",
+        "1992- yil 8- dekabrdan",
+        "1994- yil 1- iyuldan",
+        "1992- yil 2- iyuldan"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q13",
+      "prompt": "Davlat hokimiyati necha boʻg‘inga boʻlinadi?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q14",
+      "prompt": "Oʻzbekiston Respublikasida viloyat va Toshkent shahar hokimlarini kim tayinlaydi ?",
+      "options": [
+        "Prezident",
+        "Kengash deputatlari",
+        "Bosh vazir",
+        "Senat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "Tuman va shaharlar hokimlarini kim tayinlaydi?",
+      "options": [
+        "Prezident",
+        "Kengash deputatlari",
+        "Bosh vazir",
+        "Viloyat hokimi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q16",
+      "prompt": "Tumanlarga boʻysunadigan shahar hokimlari kim tomonida tayinlanadi?",
+      "options": [
+        "Prezident",
+        "tuman hokimi",
+        "Bosh vazir",
+        "viloyat hokimi"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q17",
+      "prompt": "Oʻzbekiston Respublikasida necha yoshga toʻlgan shaxslar saylash huquqiga ega?",
+      "options": [
+        "16",
+        "18",
+        "21",
+        "25"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q18",
+      "prompt": "Oʻzbekiston Respublikasida faoliyat yuritayotgan siyosiy partiyalarni aniqlang?",
+      "options": [
+        "OʻzXDP, OʻzLiDeP, Adolat SDP, OʻzMDP, Ekologik partiya.",
+        "OʻzXDP, OʻzLiDeP, Adolat SDP, Birlik harakati, OʻzMDP.",
+        "OʻzXDP, OʻzLiDeP, Adolat SDP, Erk harakati, Ekologik partiya.",
+        "OʻzXDP, OʻzLiDeP, OʻzMDP, Toʻmaris harakati, Ekologik partiya."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Necha yoshga toʻlgan fuqarolar viloyat, tuman, shahar Kengashlariga deputatlikka saylanishi mumkin?",
+      "options": [
+        "35 yosh",
+        "25 yosh",
+        "21 yosh",
+        "18 yosh"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q20",
+      "prompt": "Oʻzbekiston Respubikasida Bosh vazir Virtual qabulxonasi va Prezident Xalq qabulxonalari nechanchi yilda tashkil etildi?",
+      "options": [
+        "2016-yilda",
+        "2017-yilda",
+        "2010-yilda",
+        "2019-yilda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Yurtimizda “Xalq bilan muloqot va inson manfaatlari yili” deb e’lon qilingan yilni aniqlang.",
+      "options": [
+        "2010-yil",
+        "2017-yil",
+        "2015-yil",
+        "2013-yil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q22",
+      "prompt": "1991-yilda yurtimizda qaysi allomaning 550 yilligi nishonlangan edi?",
+      "options": [
+        "Alisher Navoiy",
+        "Bobur",
+        "Mirzo Ulugʻbek",
+        "Fargʻoniy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Yurtimizda Ahmad al-Fargʻoniyning 1200 yillik yubileyi qachon nishonlangan edi?",
+      "options": [
+        "1996-yilda",
+        "2000-yilda",
+        "1998-yilda",
+        "2001-yilda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q24",
+      "prompt": "Yurtimizda Imom al-Buxoriyning 1225 yillik yubileyi qachon nishonlangan edi?",
+      "options": [
+        "1996-yilda",
+        "2000-yilda",
+        "1998-yilda",
+        "2001-yilda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q25",
+      "prompt": "Oʻzbekiston Respublikasining birinchi Prezidenti I.Karimov farmoni bilan Xorazm Fanlar akademiyasi (Ma’mun Akademiyasi) qachon qayta tiklangan edi?",
+      "options": [
+        "1997-yilda",
+        "1996-yilda",
+        "1999-yilda",
+        "2001-yilda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Toshkentda “Shahidlar xotirasi” majmui qachon ochildi?",
+      "options": [
+        "2005-yil 27-avgustda",
+        "2000-yil 12-mayda",
+        "2007-yil 29-avgustda",
+        "2002-yil 9-mayda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q27",
+      "prompt": "Toshkentda Temuriylar tarixi davlat muzeyi qachon ochildi?",
+      "options": [
+        "1996-yil 1-sentabrda",
+        "1995-yil 29-avgustda",
+        "1996-yil 18-oktabrda",
+        "1997-yil 16-martda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q28",
+      "prompt": "Jaloliddin Manguberdi tavalludining 800 yilligi qachon nishonlandi?",
+      "options": [
+        "1999-yilda",
+        "1997-yilda",
+        "2001-yilda",
+        "1998-yilda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Siyosiy partiya — bu?",
+      "options": [
+        "fuqarolarning eng faol, mushtarak mafkura asosida bog‘langan, davlat hokimiyatini qoʻlga kiritish, uni saqlab qolish va amalga oshirishga intiluvchi qismi, ixtiyoriy ittifoqi.",
+        "aholi turli qatlamlari va guruhlarini, davlat mintaqalarini jipslashtiruvchi organ boʻlib xizmat qiladi.",
+        "jamiyatdagi barqarorlikning kafolati boʻlgani holda, yangi oʻzbek davlatchiligi binosining asosiy tayanchi vazifasini bajarmoqda.",
+        "Toʻg‘ri javob A va C javoblari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "2019-yildan Prezidentimiz SH.Mirziyoyev tashabbusi bilan “Mahalla posboni” tuzilmasi rahbari lavozimi oʻrniga qanday lavozim joriy etildi?",
+      "options": [
+        "profilaktika inspektorining jamoat tartibini saqlash boʻyicha yordamchisi",
+        "tuman hokimining jamoat tartibini saqlash boʻyicha yordamchisi",
+        "mahalla inspektorining jamoat tartibini saqlash boʻyicha rais yordamchisi",
+        "profilaktika inspektorining yordamchisi lavozimi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Oʻzbekiston Respublikasi konstitutsiyasiga koʻra Oʻzbekiston Respublikasi Qurolli Kuchlarining Oliy Bosh qoʻmondoni … hisoblanadi.",
+      "options": [
+        "Mudofaa vaziri",
+        "Ichki ishlar shtibi bosh qoʻmondoni",
+        "Oʻzbekiston Respublikasi Prezidenti",
+        "Oliy Majlis senati raisining birinchi oʻrinbosari"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q32",
+      "prompt": "Qachon Qoraqalpog‘iston Respublikasining Davlat suvereniteti toʻg‘risidagi Deklaratsiya qabul qilingan?",
+      "options": [
+        "1990-yil 14-dekabrda",
+        "1991-yil 14-dekabrda",
+        "1992-yil 24-oktabrda",
+        "1990-yil 17-noyabrda"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q33",
+      "prompt": "Qoraqalpoq davlat universitetiga qaysi alloma nomi berilgan?",
+      "options": [
+        "Ajiniyoz",
+        "Ogahiy",
+        "Berdaq",
+        "Saribiy"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q34",
+      "prompt": "Mustaqillik yillarida Qoraqalpog‘iston sog‘liqni saqlash muassasalari erishgan eng muhim yutuq, bu- ...",
+      "options": [
+        "Respublikada sil kasalligi tugatilganligi",
+        "onalar oʻlimi sonining kamayishiga erishilganligi",
+        "aholi oʻrtasida turli yuqumli kasalliklar tarqalishi oldini olinganligi",
+        "chaqaloqlar oʻlimiga barham berilganligi"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q35",
+      "prompt": "Mustaqil Davlatlar Hamdoʻstligi (MDH) tashkiloti qachon tashkil etilgan edi?",
+      "options": [
+        "1991-yilda",
+        "1994-yilda",
+        "2001-yilda",
+        "2010-yilda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Oʻzbekiston qachon YUNESKOga a’zo boʻlib kirdi?",
+      "options": [
+        "28-dekabr 1993-yilda.",
+        "15-noyabr 1999-yilda.",
+        "14-sentabr 1990-yilda.",
+        "26-oktabr 2001-yilda."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Oʻzbekiston Respublikasi qaysi tashkilotga a’zo emas?",
+      "options": [
+        "Yevropa Ittifoqiga",
+        "YUNESKO ga",
+        "Xalqaro Valyuta Fondiga",
+        "Jahon Bankiga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "Oʻzbekiston Birlashgan Millatlar Tashkiloti (BMT)ga qachon a’zo boʻlgan?",
+      "options": [
+        "1992-yil 2-martda",
+        "1995-yil 12-mayda",
+        "1997-yil 31-avgustda",
+        "1945-yil 24-oktyabrda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Toshkentda BMTning vakolatxonasi qachon oʻz faoliyatini boshladi?",
+      "options": [
+        "1993-yil",
+        "1990-yil",
+        "1996-yil",
+        "1999-yil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Oʻzbekiston Respublikasini yanada rivojlantirish boʻyicha Harakatlar strategiyasi qaysi yillarni qamrab olgan?",
+      "options": [
+        "2016-2022",
+        "2017-2021",
+        "2018-2023",
+        "2019-2024"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q41",
+      "prompt": "Prezident SH.Mirziyoyevning Yangi Oʻzbekiston strategiyasi asari nechanchi yilda nashr etilgan?",
+      "options": [
+        "2021-yil",
+        "2020-yil",
+        "2019-yil",
+        "2018-yil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q42",
+      "prompt": "Oʻzbekiston Respubikasi Prezidenti Sh.M.Mirziyoyev qachon BMT Bosh Assambleyasining 75-sessiyasida qachon oʻzbek tilida nutq soʻzlagan edi?",
+      "options": [
+        "2016-yil 15-sentabrda",
+        "2020-yil 23-sentabrda",
+        "2015-yil 7-fevralda",
+        "2019-yil 5-martda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q43",
+      "prompt": "2020-yil may oyida Toshkent shahrida fashizm ustidan erishilgan g‘alabaning 75 yilligi munosabati bilan ...",
+      "options": [
+        "Yugurish boʻyicha yarim Marafon tadbiri oʻtkazildi",
+        "Toshkent – tinchlik shahri mavzuida xalqaro konferensiya oʻtkazildi",
+        "G‘alaba bog‘i majmuasining ochilish marosimi boʻlib oʻtdi",
+        "Adiblar xiyoboni majmuasida katta bayram tadbiri oʻtkazildi"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q44",
+      "prompt": "2016-yil 4-dekabrda boʻlib oʻtgan Prezident saylovlarida SH.M.Mirziyoyev qaysi partiyadan nomzod sifatida koʻrsatilgan edi?",
+      "options": [
+        "Xalq demokratik partiyasidan",
+        "Oʻzbekiston Liberal-demokratik partiyasidan",
+        "Adolat sotsial-demokratik partiyasidan",
+        "Milliy tiklanish partiyasidan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q45",
+      "prompt": "Oʻzbekiston Prezidenti Shavkat Mirziyoyev tashabbusi bilan Islom sivilizatsiyasi markazi qaysi shaharda tashkil etildi?",
+      "options": [
+        "Toshkent",
+        "Buxoro",
+        "Termiz",
+        "Samarqand"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q46",
+      "prompt": "Oʻzbekiston Shanxay Hamkorlik tashkiloti (ShHT)ga qachon a’zo boʻldi?",
+      "options": [
+        "2001-yil 15-iyun",
+        "1998-yil 12-fevral",
+        "2011-yil 12-iyul",
+        "2005-yil 15-iyun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q47",
+      "prompt": "Qaysi yildan boshlab ilk bor mamlakat aholisi va hukumatning toʻg‘ridan-toʻg‘ri muloqoti yoʻlga qoʻyildi?",
+      "options": [
+        "2016-yil",
+        "2015-yil",
+        "2017-yil",
+        "2018-yil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q48",
+      "prompt": "“Yoshlarga oid davlat siyosati toʻg‘risida”gi Oʻzbekiston Respublikasining yangi tahrirdagi Qonuni qachon qabul qilingan?",
+      "options": [
+        "2016-yil 14-sentabrda",
+        "2018-yil 19-martda",
+        "2017-yil 7-fevralda",
+        "2019-yil 5-martda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q49",
+      "prompt": "Renessans soʻzining lug‘aviy ma’nosini ayting",
+      "options": [
+        "Fransuzcha “qayta tug‘ilish”, uyg‘onish, qayta tiklanish, yuksalish degan ma’noni anglatadi.",
+        "Inglizcha “taraqqiyot” degan ma’noni anglatadi",
+        "Yunoncha “ilm-fan ravnaqi” degan ma’noni anglatadi.",
+        "Lotincha “qayta tug‘ilish”, uyg‘onish, qayta tiklanish, yuksalish degan ma’noni anglatadi."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q50",
+      "prompt": "Oʻzbekiston Respublikasi qachon mustaqillikga erishgan?",
+      "options": [
+        "1991-yil 31-Avgust",
+        "1991-yil 1-Sentabr",
+        "1990-yil 31-Avgust",
+        "1991-yil 30-Avgust"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q51",
+      "prompt": "Oʻzbekiston Respublikasi Prezidenti Sh.M.Mirziyoyev tomonidan “Oʻzbekiston Respublikasining Birinchi Prezidenti, buyuk davlat va siyosat arbobi Islom Аbdug‘aniyevich Karimov tavalludining 80 yilligini nishonlash toʻg‘risida”gi qaror qachon qabul qilindi?",
+      "options": [
+        "2017-yil 27-noyabrda",
+        "2018-yil 26-noyabrda",
+        "2018-yil 25-noyabrda",
+        "2019-yil 28-noyabrda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q52",
+      "prompt": "Oʻzbekiston Respublikasi davlat Madhiyasini kim yozgan.",
+      "options": [
+        "Аbdulla Oripov",
+        "Yunus Rajabiy",
+        "Mutal Burhonov",
+        "Аbdulla Qodiriy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q53",
+      "prompt": "Oʻzbekiston Respublikasi davlat Madhiyasiga kim kuy bastalagan.",
+      "options": [
+        "Mutal Burhonov",
+        "Аbdulla Oripov",
+        "Аbdulla Qodiriy",
+        "Yunus Rajabiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q54",
+      "prompt": "Oʻzbekiston Xalq demokratik partiyasi (OʻzXDP) qachon tashkil qilingan?",
+      "options": [
+        "1991-yilda",
+        "1992-yilda",
+        "1993-yilda",
+        "1994-yilda"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q55",
+      "prompt": "Oʻzbekiston nechta siyosiy partiya bor.",
+      "options": [
+        "5ta",
+        "6ta",
+        "4ta",
+        "7ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q56",
+      "prompt": "“Oʻzbek modeli” nechta tamoyil asosida joriy etilgan?",
+      "options": [
+        "3",
+        "6",
+        "5",
+        "7"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q57",
+      "prompt": "Davlat va jamiyat boshqaruvida Oliy Majlis qanday organ?",
+      "options": [
+        "Qonun ishlab chiquvchi va qabul qiluvchi",
+        "Ijro etuvchi",
+        "Nazorat qiluvchi",
+        "Mustaqil hokimiyat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q58",
+      "prompt": "“Xalq davlat idorasiga emas, davlat idoralari xalqqa xizmat qilishi kerak” degan tamoyilni ilgari surgan davlat rahbarini koʻrsating.",
+      "options": [
+        "Sh.Mirziyoyev",
+        "Bosh vazir A. Aripov",
+        "I.Karimov",
+        "Senat raisi T.Norboyeva"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q59",
+      "prompt": "Oʻzbekiston Respublikasi Prezidenti Sh.M.Mirziyoyevning fikricha, jamiyat rivojiga gʻov boʻlayotgan yana bir illat bu ...?",
+      "options": [
+        "korrupsiya",
+        "terrorizm",
+        "mahalliychilik",
+        "millatchilik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q60",
+      "prompt": "Quyidagi davlatlardan qaysi biri Oʻzbekiston mustaqilligini birinchi boʻlib tan oldi?",
+      "options": [
+        "Turkiya",
+        "Germaniya",
+        "AQSh",
+        "Rossiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q61",
+      "prompt": "Oʻzbekiston BMTga qachon a’zo boʻldi?",
+      "options": [
+        "1992-yil 2-mart",
+        "1992-yil 9-aprel",
+        "1992-yil 4-mart",
+        "1992-yil 12 -may"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q62",
+      "prompt": "Ikki yoki koʻppartiyaviylik tizimi qaysi siyosiy tartibotga xos?",
+      "options": [
+        "Demokratik",
+        "Avtoritar",
+        "Totalitar",
+        "Avtoritar, demokratik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q63",
+      "prompt": "Xususiy mulk insonga qanday xis baxsh etadi?",
+      "options": [
+        "oʻziga ishonch hissini uygʻotadi.",
+        "muammolarni yengib oʻtadi.",
+        "oʻz bilimini sinab koʻradi.",
+        "moddiy imkoniyatlatini kuchaytiradi."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q64",
+      "prompt": "O`zbekiston paxta yechishtirish boʻyicha dunyoda nechanchi o`rinda turadi?",
+      "options": [
+        "6",
+        "3",
+        "2",
+        "4"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q65",
+      "prompt": "Umuminsoniy qadriyatlar deganda nimani tushunasiz?",
+      "options": [
+        "barchasi toʻgʻri",
+        "jahonda tinchlikni saqlash, yadroviy urushning oldini olish.",
+        "yuqumli kasalliklarning tarqalib ketishiga yoʻl qoʻymaslik.",
+        "Noyob arxitektura va madaniy yodgorliklarni asrash."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q66",
+      "prompt": "Biznes erkinligi, mehnat erkinligi hamda investitsiya erkinligi qaysi xalqaro reytingning asosiy tarkibiy qismi sanaladi?",
+      "options": [
+        "Iqtisodiy erkinlik",
+        "Inson taraqqiyoti",
+        "Ekologik samaradorlik",
+        "Biznes yuritish osonligi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q67",
+      "prompt": "“Oʻzbekiston — 2030” strategiyasi toʻg‘risida Prezident Farmoni qachon qabul qilindi?",
+      "options": [
+        "2023- yil 11-sentyabr",
+        "2023- yil 22-sentyabr",
+        "2023-yil 12- sentyabr",
+        "2023-yil 12-oktyabr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q68",
+      "prompt": "Respublikamizda “ Yoshlar ittifoqi” ijtimoiy harakat tashkiloti qachon tashkil etilgan?",
+      "options": [
+        "2017-yil 30-iyunda",
+        "2016-yil 30-iyunda",
+        "2018-yil 1-iyunda",
+        "2018-yil 10-martda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q69",
+      "prompt": "Oʻzbekistonda qachondan boshlab faol demokratik yangilanish va moderniztsiyalash jarayoni kuzatildi?",
+      "options": [
+        "2000-yildan",
+        "2010-yildan",
+        "2017-yildan",
+        "2002-yildan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q70",
+      "prompt": "Oʻzbekiston SSRning Mustaqillik Deklaratsiyasi qachon qabul qilingan?",
+      "options": [
+        "1990-yil 20-iyun",
+        "1990-yil 21-iyul",
+        "1991-yil 20-iyun",
+        "1990-yil 19 avgust"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q71",
+      "prompt": "Sovet Ittifoqida davlat toʻntarishi sodir boʻlgan sanalarni koʻrsating?",
+      "options": [
+        "19-21-avgust",
+        "19-20-sentyabr",
+        "18-21-oktyabr",
+        "19-21-sentyabr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q72",
+      "prompt": "“SSSR GKCHP ning Oʻzbekiston SSR Konstitutsiyasi va qonuniga zid hujjatlari Oʻzbekiston hududida amal qilmaydi” degan qarori qachon qabul qilingan?",
+      "options": [
+        "1991-yil 21-avgust",
+        "1991-yil 22-avgust",
+        "199-yil 25-avgust",
+        "199-yil 28-avgust"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q73",
+      "prompt": "Oʻzbekicton Recpublikasining Konstitutsiyasi 1992 yil bahori umumxalq muxokamasiga  qoʻyilganda nechta moddadan iborat boʻlgan?",
+      "options": [
+        "149 moddadan iborat",
+        "150 moddadan iborat",
+        "128 moddadan iborat",
+        "138 moddadan iborat"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q74",
+      "prompt": "“Oʻzbekiston Respublikasi davlat mustaqilligi asoslari togʻrisida”gi qonun necha moddadan iborat?",
+      "options": [
+        "17 moddadan iborat",
+        "13 moddadan iborat",
+        "15 moddadan iborat",
+        "21 moddadan iborat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q75",
+      "prompt": "“Oʻzbekiston Respublikasi Mudofaa ishlari vazirligini tuzish toʻgʻrisida”gi qonun qaysi sanada qabul qilingan?",
+      "options": [
+        "1991-yil 5-sentyabr",
+        "1991-yil 6-sentyabr",
+        "1991-yil 7-sentyabr",
+        "1991-yil 8-sentyabr"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q76",
+      "prompt": "Mamlakatimiz milliy davlatchiligining rivojlanishida mutlaqo yangi bosqichni boshlab bergan prezidentlik institutiga qachon asos solingan?",
+      "options": [
+        "1990-yil 24-mart",
+        "1990-yil 1-noyabr",
+        "1991-yil 24-mart",
+        "1990-yil 14-mart"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q77",
+      "prompt": "1996-yil 18-oktyabrda Oʻzbekistondagi qaysi muzey ochilishi boʻlib oʻtdi?",
+      "options": [
+        "Toshkentda Temuriylar tarixi muzeyi",
+        "Namanganda Boborahim Mashrab muzeyi",
+        "Buxoroda Temirchilik muzeyi",
+        "Urganchda Xorazm amaliy san’ati va tarixi muzeyi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q78",
+      "prompt": "Oʻzbekiston davlat hokimyati tizimi nechta boʻlinish prinsipiga asoslanadi?",
+      "options": [
+        "3 boʻlinish prinsipiga asoslanadi",
+        "2 boʻlinish prinsipiga asoslanadi",
+        "4 boʻlinish prinsipiga asoslanadi",
+        "5 boʻlinish prinsipiga asoslanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q79",
+      "prompt": "Har bir hokimiyat faoliyatini muvofiqlashtiruvchi mustaqil organ berilgan javobni toping?",
+      "options": [
+        "Prezident",
+        "Oliy majlis",
+        "Vazirlar Mahkamasi",
+        "Sud"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q80",
+      "prompt": "Qachon Qoraqalpog`iston Respublikasida «O`zbekiston Respublikasi tarkibida Qoraqalpog`iston Respublikasi Davlat suverenteti to`g`risida» gi deklaratsiya qabul qilindi.",
+      "options": [
+        "1990-yil 14-dekabr",
+        "1991-yil 31-avgust",
+        "1991-yil 20-iyun",
+        "1991-yil 1-sentabr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q81",
+      "prompt": "Oʻzbekistonda vitse-prezident lavozimi qachon tugatilgan?",
+      "options": [
+        "1992-yil 4-yanvar",
+        "1990-yil 15-noyabr",
+        "1993-yil 5-yanvar",
+        "1992-yil 14-yanvar"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q82",
+      "prompt": "Oʻzbekistonda Bosh vazir lavozimi qachon tasis etilgan?",
+      "options": [
+        "1992-yil",
+        "1995-yil",
+        "1993-yil",
+        "1994-yil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q83",
+      "prompt": "Mamlakatimizda oʻlim jazosi nechanchi yilda bekor qilingan?",
+      "options": [
+        "2008-yil 1-yanvar",
+        "2003-yil -dekabr",
+        "2008-yil 1-dekabr",
+        "1998-yil 1-yanvar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q84",
+      "prompt": "14-yanvar “Vatan himoyachilari” kuni deb e’lon qilingan yilni toping?",
+      "options": [
+        "1993-yil",
+        "1992-yil",
+        "1998-yil",
+        "1995-yil"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q85",
+      "prompt": "1997-yilda quyidagi qaysi shaharlarning 2500 yilligi keng nishonlandi?",
+      "options": [
+        "Buxoro va Xiva",
+        "Samarqand va Buxoro",
+        "Xiva va Samarqand",
+        "Toshkent va Qarshi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q86",
+      "prompt": "Xalq deputatlari Kengashlari qaysi organga kiradi?",
+      "options": [
+        "mahalliy vakillik organlariga",
+        "sud hokimiyati organlari",
+        "ichki ishlar organlari",
+        "ijroiya hokimiyat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q87",
+      "prompt": "Xalq deputatlari Kengashlari ishining asosiy tashkiliy – huquqiy shakli bu……",
+      "options": [
+        "majlis",
+        "sessiya",
+        "qurultoy",
+        "chaqiriq"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q88",
+      "prompt": "Markaziy saylov komissiyasi qachondan doimiy organ sifatida tashkil etildi?",
+      "options": [
+        "2016-yildan",
+        "1998-yildan",
+        "1991-yildan",
+        "2014-yildan"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q89",
+      "prompt": "Koʻppartiyaviylik tizimi nima?",
+      "options": [
+        "jamiyat hayotida ikki yoki undan ortiq siyosiy partiyaning faoliyat yuritishi",
+        "jamiyat hayotida bir partiyaning faoliyat yuritishi",
+        "deputatlari doimiylik asosida ishlaydigan, asosiy vazifasi qonun yaratishdan iborat boʻlgan siyosiy partiyalar tizimi",
+        "davlat hokimiyatini boshqarish huquqini saylov yoʻli bilan qoʻlga kiritish uchun kurashuvchi u yoki bu sinf va qatlamning ilg‘or, ongli, uyushgan qismini birlashtirgan tashkilot."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q90",
+      "prompt": "1991-yilning noyabrida asos solingan partiya qaysi?",
+      "options": [
+        "Oʻzbekiston Xalq demokratik partiyasi",
+        "Erk demokratik partiyasi",
+        "Vatan taraqqiyoti partiyasi",
+        "Fidokorlar milliy-demokratik partiyasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q91",
+      "prompt": "1995-yili iyunda tuzilgan partiya qaysi?",
+      "options": [
+        "Oʻzbekiston Milliy tiklanish demokratik partiyasi",
+        "Oʻzbekiston «Fidokorlar» milliy demokratik partiyasi",
+        "«Vatan taraqqiyoti» partiyasi",
+        "Oʻzbekiston Xalq demokratik partiyasi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q92",
+      "prompt": "Oʻzbekiston Respublikasi Prezidentining Oliy Majlisga Birinchi Murojaatnomasi qachon e’lon qilindi?",
+      "options": [
+        "2017-yil 22-dekabrda",
+        "2016-yil 14-dekabrda",
+        "2017-yil 2-fevralda",
+        "2016-yil 5-martda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q93",
+      "prompt": "Fаrgʻоnа voqealаri sоdir boʻlgаn dаvrdа Oʻzbеkistоn SSR Kоmpаrtiyasining rаhbаri kim edi?",
+      "options": [
+        "R.Nishоnоv",
+        "Usmоnhoʻjаеv",
+        "I.А.Kаrimоv",
+        "Sh.Rаshidоv"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q94",
+      "prompt": "1989- yil mаy-iyun оylаridа qаysi viloyatlardа millаtlаrаrо mоjаrоlаr roʻy bеrdi?",
+      "options": [
+        "Fаrgʻоnа, Tоshkеnt, Аndijоn",
+        "Fаrgʻоnа, Sаmаrqаnd, Аndijоn",
+        "Аndijоn, Fаrgʻоnа, Хоrаzm",
+        "Tоshkеnt, Buхоrо, Nаmаngаn"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q95",
+      "prompt": "2018-yil holatiga ko`ra O`zbekistonni  qancha xorijiy davlatlar tan olgan?",
+      "options": [
+        "180 ga yaqin",
+        "140 ga yaqin.",
+        "150 ta",
+        "200 ga yaqin"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q96",
+      "prompt": "Toshkentda BMTning vakolatxonasi qachon ochilgan?",
+      "options": [
+        "1993-yilda",
+        "1992-yilda",
+        "1991-yilda",
+        "1994-yilda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q97",
+      "prompt": "Bugungi kunda mamlakatimizda nechta tillarda teleradio eshittirishlar efirga chiqmoqda?",
+      "options": [
+        "12 tillarda",
+        "13 tillarda",
+        "14 tillarda",
+        "15 tillarda"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q98",
+      "prompt": "Inson huquqlari umumjahon deklaratsiyasi qachon qabul qilingan ?",
+      "options": [
+        "1948-yil",
+        "1947-yil",
+        "1980-yil",
+        "1958-yil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q99",
+      "prompt": "Mamlakatimizda milliy madaniy markazlar soni?",
+      "options": [
+        "150 dan ortiq",
+        "120 dan ortiq",
+        "100 dan ortiq",
+        "110 dan ortiq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q100",
+      "prompt": "Oʻzbekiston Respublikasida ... xalqaro shartnomalarni ratifikasiya qilish huquqiga ega.",
+      "options": [
+        "Vazirlar Mahkamasi",
+        "Oliy Sud",
+        "Prezident",
+        "Oliy Majlis"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q101",
+      "prompt": "BMT Ustavida va Xalqaro huquq prinsiplari bo‘yicha deklaratsiyada asosiy prinsiplarni aniqlang Kuch ishlatmaslik yoki kuch bilan tahdid qilmaslik; Aralashmaslik Xalqlarning teng huquqliligi va o‘z huquqlarini o‘zlari belgilashi; Davlatlarning suveren tengligi; Manfaatlar ustunligi Ziddiyatlarni tinch yo‘l bilan bartaraf etish; Asosiy millat vakillarning ustunligi",
+      "options": [
+        "1,2,3,4",
+        "1, 5,6,7",
+        "2,4,5,7",
+        "3,4,5,7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q102",
+      "prompt": "Quyidagi tashkilotga oxirgi bo’lib a’zo bo‘lgan?",
+      "options": [
+        "SHHT",
+        "MDH",
+        "MOH.",
+        "Markaziy Osiyo davlat rahbarlari maslahat uchrashuvi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q103",
+      "prompt": "“6+3” guruh nima maqsad bilan tashkil etilgan",
+      "options": [
+        "Suriyada tinchlik ta’minlash.",
+        "Afg‘oniston masalasi",
+        "Markaziy Osiyo tashqi siyosati.",
+        "Sharqiy Turkisto masalasida"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q104",
+      "prompt": "Fuqarolik jamiyatining eng muhim omillarini belgilang. iqtisodiy\terkinlik,\tmulk\tshakllarining\trang-barangligi; hokimiyatning qonuniyligi va demokratik xususiyati fuqarolarning shaxsiy hayotiga davlatning aralashmasligi, ularning o‘zaro majburiyatlari va burchlari; ma’lum bir gurhning mulkiy munosabatlarni tartibga solishi sinfiy va milliy totuvlik, ijtimoiy sherikchilik; raqobatni chklash tizimini joriy etilishi",
+      "options": [
+        "1,3,4,6",
+        "1,2,3,5",
+        "2,3,4,6",
+        "3,4,5,6"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q105",
+      "prompt": "Fuqarolik jamiyatining asosiy belgilari ko‘rasting. erkin individlar uyushmasi; 2. o‘zaro hamkorlikka asoslangan ijtimoiy tuzilma; 3. murakkab tuzilishga ega bo‘lgan plyuralistik tizim; 4. Jamoatchilik nazorati; 5. o‘zini o‘zi rivojlantiradigan va o‘zini o‘zi boshqaradigan tizim; 6. Mulkchilik munosabtning ustunligi",
+      "options": [
+        "2,3,4,5",
+        "1,2,3,5",
+        "2,3,4,5",
+        "1,3,4,5"
+      ],
+      "correctIndex": 1
+    }
+  ]
+}
