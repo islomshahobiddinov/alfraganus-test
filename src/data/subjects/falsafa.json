@@ -1,0 +1,1657 @@
+{
+  "id": "falsafa",
+  "name": "Falsafa",
+  "timeSeconds": 1800,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "«Falsafa» sо‘zining lug‘aviy ma’nosi tо‘g‘ri kо‘rsatilgan javobni belgilang?",
+      "options": [
+        "Yunoncha, phileo – sevaman va sophia – donolik",
+        "Yunoncha, phileo – sevaman va sophia – bilish",
+        "Lotincha, philo – sevaman va sophi – donishmandlik",
+        "Lotincha, phileo – sevaman va sophia – donolik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Falsafa qachon va qayerda fan bo‘lib shakllangan?",
+      "options": [
+        "er. oldingi VI-V asrlarda, Yunonistonda",
+        "er. oldingi 11-ming yillik boshlarida Misrda",
+        "er. oldingi 11-ming yillikning 2-yarmida Markaziy Osiyoda",
+        "VI-V asrlarda, Xindistonda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "«Falsafa» atamasini birinchi bо‘lib qaysi faylasuf о‘z asarida qо‘llagan?",
+      "options": [
+        "Suqrot",
+        "Aristotel",
+        "Pifagor",
+        "Platon"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q4",
+      "prompt": "Falsafaning predmeti nima?",
+      "options": [
+        "Insonlarni hayotiy yo‘li",
+        "tafakkur",
+        "Inson o'z qiziqishi obyekti haqida muayyan tasavvur hosil qilish maqsadida savol berishga asos bo'lishi mumkin bo'lgan hamma narsa",
+        "Materiyaning mavjudligini aniqlash hamda ularni uskunalar orqali kuzatish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q5",
+      "prompt": "Kishilarning olam va uning o'zgarishirivojlanishi haqidagi ilmiy, falsafiy, siyosiy, huquqiy, axloqiy, estetik, diniy qarashlar tizimi nima?",
+      "options": [
+        "o‘zlikni anglash",
+        "dunyoni tushunish",
+        "dunyoqarash",
+        "dunyoni sezish"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q6",
+      "prompt": "Dunyoqarashning tuzilishi qanday?",
+      "options": [
+        "Axloqni yuksaltirish",
+        "Dunyoni tasavvur qilish",
+        "Dunyoni sezish, idrok etish, tushunish",
+        "Dunyoni idrok qilish va anglash"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q7",
+      "prompt": "Materialistlar deb qaysi toifadagi kishilarni aytish mumkin?",
+      "options": [
+        "Olamning markaziga madaniyatni qo‘yuvchilar",
+        "Ongni birinchi o‘ringa qo‘yuvchilar",
+        "Olamni azaldan, moddiy deb, ong bu materiyaning mahsuli deyuvchilar",
+        "Olamni hissiy darajada anglovchilar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q8",
+      "prompt": "Falsafiy dunyoqarash olamni nimalarga tayangan holda tushuntiradi?",
+      "options": [
+        "tuyg‘ularga",
+        "e’tiqodga",
+        "aql va bilimga",
+        "tasavvurga"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q9",
+      "prompt": "Dunyoning negizida ikkita emas, balki undan ko‘proq mohiyat borligini tan oluvchi ta’limot qaysi?",
+      "options": [
+        "dialektika",
+        "liberalizm",
+        "Plyuralizm",
+        "idealizm"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q10",
+      "prompt": "Dunyo azaldan moddiy, ong esa bu materiyaning mahsulidir, deb hisoblovchilar qanday ataladi?",
+      "options": [
+        "idealistlar",
+        "gnostikla",
+        "materialistlar",
+        "agnostiklar"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q11",
+      "prompt": "Dunyoni idrok etish bu?",
+      "options": [
+        "Olamni aqliy bilish",
+        "Bu o‘zini qurshagan dunyoni materilaistik tushunish",
+        "Inson o‘zini tushunish",
+        "Atrof borliqni ideal obrazlarda tasavvur qilishdir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Dunyoning asosiga suvni qo’ygan faylasuf kim?",
+      "options": [
+        "Anaksimen",
+        "Geraklit",
+        "Anaksimandr",
+        "Fales"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q13",
+      "prompt": "“Ezgu fikr, ezgu so‘z, ezgu amal” g‘oyasi kim tomonidan ilgari surilgan?",
+      "options": [
+        "Zardusht",
+        "G‘azzoliy",
+        "Nasafiy",
+        "Navoiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "Xudoga, uning mohiyatiga dunyoning birinchi sababi va asosi sifatida yondashish o‘rta asrlar falsafasiga xos bo‘lib, u qanday nomlanadi?",
+      "options": [
+        "Teosentrizm",
+        "Geleosentrizm",
+        "Geosentrizm",
+        "Monizm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "IX-XIII asrlarda qaysi mutafakkirlar Markaziy Osiyo hududida yashab ijod etgan?",
+      "options": [
+        "Alisher Navoy, Forobiy, Al-Xorazmiy, Ibn Sino",
+        "Forobiy, Ibn Rushd, Farididdin Attor",
+        "Mirzo Ulug‘bek, Qozizoda Rumiy, Beruniy",
+        "Al-Xorazmiy, Forobiy, Ibn Sino, Abu Rayhon Beruniy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q16",
+      "prompt": "Konfutsiyning qaysi talimoti uning muhim talimotiga aylangan?",
+      "options": [
+        "Ijtimoiy tabaqalanish",
+        "Tabiat - inson oshyoni",
+        "Jamiyatda davlatning o‘rni",
+        "Osmon qonuni"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q17",
+      "prompt": "Kanfutsiylik ta’limoti qayerda paydo bo’lgan?",
+      "options": [
+        "Yaponiya",
+        "Hindiston",
+        "Markaziy Osiyo",
+        "Xitoy"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q18",
+      "prompt": "Milet maktab asoschisi kim?",
+      "options": [
+        "Pifagor",
+        "Geraklit",
+        "Demokrit",
+        "Fales"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q19",
+      "prompt": "Atomistik ta'limot asoschilari kimlar?",
+      "options": [
+        "Demokrit va Epikur",
+        "Epikur va Lukretsiy Kar",
+        "Lukretsiy Kar va Levkipp",
+        "Levkipp va Demokrit"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q20",
+      "prompt": "Gʻoyalar va soyalar dunyosi g'oyasi asoschisi kim?",
+      "options": [
+        "Pifagor",
+        "Aristotel",
+        "Suqrot",
+        "Platon"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q21",
+      "prompt": "“Bir daryoga ikki marotaba tushib bo‘lmaydi” degan fikr kimga tegishli?",
+      "options": [
+        "Epikur",
+        "Platon",
+        "Suqrot",
+        "Geraklit"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q22",
+      "prompt": "«Ontologiya» atamasi qaysi so‘zdan olingan?",
+      "options": [
+        "Xitoycha so’zdan olingan",
+        "Lotincha «ontos» - borliq, «logos» - so‘z, ta’limot",
+        "Arabchadan olingan",
+        "Yunoncha «ontos» - borliq, «logos» - so‘z, ta’limot"
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "q23",
+      "prompt": "Yangi davr falsafasida faylasuflarni qiziqtirgan asosiy masala nima edi?",
+      "options": [
+        "ontologiya va gnoseologiya",
+        "mifologiya va gerantalogiya",
+        "tanatalogiya va germenevtika",
+        "sinergetika va epistemalogiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "F.Bekon, T.Gobbs, J.Lokk, R.Dekart, B.Spinoza va Leybnits qaysi asrga mansub Yevropaning buyuk faylasuflari bo‘lib hisoblanadi?",
+      "options": [
+        "XVII asr",
+        "XV asr",
+        "XI asr",
+        "X asr"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Falsafaning tushunish va tushuntirish bilan shug‘ullanadigan yo‘nalishi qaysi?",
+      "options": [
+        "germenevtika",
+        "sinergetika",
+        "epistemalogiya",
+        "tanatalogiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Borliqni tushunishga nisbatan dialektik yondoshuvni ilk bor kim ilgari surdi?",
+      "options": [
+        "Anaksimandr",
+        "Fales",
+        "Geraklit",
+        "Ksenofan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Falsafaning borliq haqidagi ta’limotini izohlaydigan qismi qanday ataladi?",
+      "options": [
+        "Germenevtika",
+        "gnoseologiya",
+        "ontologiya",
+        "Epistemologiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Ilmiy bilish qaysi tushuncha bilan nomlanadi?",
+      "options": [
+        "Ideologiya",
+        "Ontologiya",
+        "Epistemologiya",
+        "Gnoselogiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Dunyoni bilish mumkin deb xisoblovchilar qanday ataladi?",
+      "options": [
+        "materialistlar",
+        "agnostiklar",
+        "optimistlar",
+        "skeptiklar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Dunyoni bilish mumkinligini rad etuvchilar kimlar?",
+      "options": [
+        "Agnostiklar",
+        "Gnostiklar",
+        "Optimistlar",
+        "Skeptiklar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Subektning bilish faoliyati qaratilgan narsa yoki xodisa bu ...?",
+      "options": [
+        "Obekt",
+        "Makon",
+        "Zamon",
+        "Tushuncha"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Falsafada gnoseologiya nimani o‘rganadi?",
+      "options": [
+        "Bilish jarayonining umumiy, falsafiy mohiyati va muammolarini o‘rganadi",
+        "Bizning muayyan narsalar haqidagi e’tiqodlarimizni o‘rganadi",
+        "Tafakkurning umumiy qonuniyatlarini o‘rganadi",
+        "Bilim va e’tiqodimizni obrazlarini o’rganadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Etika fani asoschisi kim?",
+      "options": [
+        "Aristotel",
+        "Buyuk qadimgi yunon faylasufi Sokrat",
+        "Platon",
+        "Seneka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Axloq – bu?",
+      "options": [
+        "jamiyatdagi odamlarning xulq-atvor g‘oyalari, qoidalarini aks ettiruvchi ijtimoiy ong shakli",
+        "ijtimoiy hamjamiyat (guruh) ichida odatlar shakli",
+        "ijtimoiy tajribani avloddan-avlodga yetkazish vositasi",
+        "marosimlar va faoliyat shakllarini bajarishdagi obrazlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Etikaning asosiy kategoriyasini belgilang?",
+      "options": [
+        "makon va zamon",
+        "ezgulik va yovuzlik",
+        "erkinlik",
+        "vijdon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Yaxshilik va yomonlik qaysi falsafiy fanning kategoriyasi hisoblanadi?",
+      "options": [
+        "Estetika",
+        "Etika",
+        "psixologiya",
+        "Aksiologiya"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q37",
+      "prompt": "Eng qadimgi dunyoqarash shakli",
+      "options": [
+        "ilmiy",
+        "mifologik",
+        "diniy",
+        "falsafiy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q38",
+      "prompt": "Estetikaning qaysi kategoriyasi hodisalarni eng yuqori estetik mukammalligi jihatidan tavsiflaydi?",
+      "options": [
+        "chiroylilik",
+        "gо‘zallik",
+        "nazokatlilik",
+        "buyuklik"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q39",
+      "prompt": "Falsafa tarixida qaysi faylasuf “O‘z-o‘zingni anglagin va bilgin” degan qarashni ta’kidlagan?",
+      "options": [
+        "Fales",
+        "Suqrot",
+        "Anaksimen",
+        "Pifagor"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q40",
+      "prompt": "Miflar nimalar orqali ifodalanadi?",
+      "options": [
+        "Rivoyat, qo‘shiqlar",
+        "Afsona va rivoyatlar",
+        "Mexnat, ov",
+        "qo‘shiq, kuy"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q41",
+      "prompt": "Fetishizm bu?",
+      "options": [
+        "U yoki bu predmetni odamlar hayotiga ta'sir ko‘rsatadi deb sig‘inish",
+        "Odamlarga sig‘inish",
+        "Hayvonlarga sig‘inish",
+        "O‘simliklarga ishonish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q42",
+      "prompt": "Dunyoning asosiga olovni qo‘ygan faylasuf kim?",
+      "options": [
+        "Geraklit",
+        "Fales",
+        "Arastu",
+        "Anaksimen"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q43",
+      "prompt": "Daosizm ta'limoti asoschisi kim?",
+      "options": [
+        "Lao - Szi",
+        "Konfutsi",
+        "Suqrot",
+        "Geraklit"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q44",
+      "prompt": "«Hamma narsa sondir» kimning fikri?",
+      "options": [
+        "Pifagor",
+        "Fales",
+        "Anaksimandr",
+        "Ksenofan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q45",
+      "prompt": "Sharq mutafakkirlaridan kim borliq muammosini hal qilishda «Vujudi vojib» va «Vujudi mumkin» ning o‘zaro nisbatiga murojaat qilgan?",
+      "options": [
+        "Forobiy",
+        "Al - Xorazmiy",
+        "At – Termiziy",
+        "Beruniy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q46",
+      "prompt": "Borliqning asosiy shakllari qaysi javobda ko’rsatilgan?",
+      "options": [
+        "tabiat borlig‘i, ma’naviy borliq, inson borlig‘i, ijtimoiy borliq, virtual borliq",
+        "«sifat» va «miqdor»",
+        "«makon» va «vaqt»",
+        "sabab va vaqt"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q47",
+      "prompt": "Falsafada qadriyatlarni o’rganuvchi fan nima deb ataladi?",
+      "options": [
+        "Aksiologiya",
+        "Ontologiya",
+        "Tanatalogiya",
+        "gneseologiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q48",
+      "prompt": "“Dialektika” so‘zining ma’nosini toping.",
+      "options": [
+        "yun. Dialektika – suhbat qurish san’ati",
+        "yun. Dialektika – sezgi, xis-tuyg‘u",
+        "yun. Dialektika – ong",
+        "yun. Dialektika – ongsizlik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q49",
+      "prompt": "Nisbiylik nazariyasi kim yaratgan?",
+      "options": [
+        "Eynshteyn",
+        "Bogdanov",
+        "Parson",
+        "Max"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q50",
+      "prompt": "Teologiya bu nima?",
+      "options": [
+        "Xudo haqidagi ta’limot",
+        "Xudolarning kelib chiqishi",
+        "Jon haqidagi ta’limot",
+        "Logos haqidagi ta’limot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q51",
+      "prompt": "Qaysi qatorda o’rta asr g’arb faylasufi keltirilgan?",
+      "options": [
+        "Foma Akvinskiy",
+        "Arastu",
+        "Kant",
+        "Gegel"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q52",
+      "prompt": "Mantiq fani asoschisini aniqlang?",
+      "options": [
+        "Arastu",
+        "Platon",
+        "Farobiy",
+        "Navoiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q53",
+      "prompt": "Dekartning borliqning asosi masalasida tutgan pozitsiyasi:",
+      "options": [
+        "Dualizm",
+        "Idealizm",
+        "Materializm",
+        "Solipsizm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q54",
+      "prompt": "Atomlar bo’linmas deb nomlanuvchi qarashni qaysi faylasuf ilgari surgan?",
+      "options": [
+        "Demokrit;",
+        "Anaksimen;",
+        "Berkli;",
+        "Gobbs;"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q55",
+      "prompt": "Dunyoqarashning ikkinchi tarixiy shaklini aniqlang?",
+      "options": [
+        "Diniy",
+        "Falsafiy",
+        "Matematik",
+        "Qiyosiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q56",
+      "prompt": "О‘rta asrlar falsafasiga xos xususiyatni belgilang?",
+      "options": [
+        "Teosentrizm",
+        "Kosmotsentrizm",
+        "Antropotsentrizm",
+        "Metodologizm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q57",
+      "prompt": "Metod nima?",
+      "options": [
+        "Usul, vosita",
+        "Inson masalasi",
+        "Borliq masalasi",
+        "Makon va zamon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q58",
+      "prompt": "Falsafada bilish nazariyasini qaysi fan o’rganadi?",
+      "options": [
+        "Gnoseologiya",
+        "Ontologiya",
+        "Aksiologiya",
+        "Praksiologiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q59",
+      "prompt": "Totemizm qanday diniy ta’limot?",
+      "options": [
+        "Hayvon va o’simliklarga ishonish",
+        "Suvga ishonish",
+        "Jonsiz narsalarga ishonish",
+        "Ruhlarga ishonish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q60",
+      "prompt": "Aksiologiya nima?",
+      "options": [
+        "falsafaning qadriyatlar sohasini о‘rganuvchi sohasi",
+        "inson bilishini umumiy o’rganish",
+        "ijtimoiy taraqqiyot qonuniyatlarini о‘rganuvchi fan",
+        "fаlsаfаning sinflаr vа siyosiy pаrtiyalаrni o‘rganish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q61",
+      "prompt": "Kim Arastuga o`xshab, fazilatlarni ikki qismga ajratadi?",
+      "options": [
+        "Abu Nasr Forobiy",
+        "Abu Rayhon Beruniy",
+        "Ibn Sino",
+        "Ali Qushchi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q62",
+      "prompt": "Monoteizm nima?",
+      "options": [
+        "Yakkaxudolikka ishonish",
+        "E’tiqod uchun kurash",
+        "Xudoni haqiqiy mavjudligini rad etish",
+        "Missionerlik faoliyati"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q63",
+      "prompt": "Go’zallik, chiroylilik kategoriyalari qaysi falsafa bo’limida o’rganiladi?",
+      "options": [
+        "Estetika",
+        "Etika",
+        "Ontologiya",
+        "Praksiologiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q64",
+      "prompt": "Mehnatsevarlik tamoyili qaysi falsafiy fanda o'rganiladi?",
+      "options": [
+        "Etika",
+        "Estetika",
+        "Gnoseologiya",
+        "Tanatalogiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q65",
+      "prompt": "Sensualizm nimalar haqidagi ta’limot xisoblanadi?",
+      "options": [
+        "Sezgilar",
+        "Tuyg‘ular",
+        "Bilish",
+        "Borliq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q66",
+      "prompt": "Pozitivizmning asoschisi kim?",
+      "options": [
+        "O.Kont",
+        "R.Karnap",
+        "G.Spenser",
+        "R. Bultman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q67",
+      "prompt": "Falsafa tarixida o‘zining mavjudligi uchun o‘zidan boshqa hech narsaga muhtoj bo‘lmagan birinchi asosni ifodalash uchun qanday kategoriya qo‘llaniladi?",
+      "options": [
+        "substansiya",
+        "makon",
+        "zamon",
+        "borliq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q68",
+      "prompt": "Makon va zamondagi har qanday o‘zgarish nima hisoblanadi?",
+      "options": [
+        "Harakat",
+        "reallik",
+        "mavjudlik",
+        "rivojlanish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q69",
+      "prompt": "Pozitivizm, Pragmatizm, Neopozitivizm, Postpozitivizm, Empiriokritisizm qaysi davr falsafiy yo‘nalishlari xisoblanadi?",
+      "options": [
+        "eng yangi davr falsafasining",
+        "yangi davr falsafasining",
+        "antik davr falsafasining",
+        "o‘rta asrlar falsafasining"
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "q70",
+      "prompt": "“Qadimgi xalqlardan qolgan yodgorliklar”, “Hindiston”, “Minerologiya” asarlari muallifi kim?",
+      "options": [
+        "Abu Rayhon Beruniy",
+        "Ibn Sino",
+        "Abu Nasr Farobiy",
+        "Al-Xorazmiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q71",
+      "prompt": "Mantiqning 1-qonuni qanday ataladi?",
+      "options": [
+        "nozidlik qonuni",
+        "Yetarli asos qonuni",
+        "Ayniyat qonuni",
+        "uchinchi istisno qonuni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q72",
+      "prompt": "Formal mantiqning asosiy tadqiqot obyektini ko‘rsating?",
+      "options": [
+        "Tafakkur",
+        "Bilim",
+        "Tasavvur",
+        "Inson"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q73",
+      "prompt": "Globallashuv jarayonlarini o'rganadigan falsafaning sohasini aniqlang?",
+      "options": [
+        "Globalistika",
+        "Gnoseologiya",
+        "Mantiq",
+        "Etika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q74",
+      "prompt": "Borliq tushunchsining aksi?",
+      "options": [
+        "yo‘qlik",
+        "tugash",
+        "tamom bo‘lish",
+        "o‘lim"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q75",
+      "prompt": "Oddiy hukmlar deb nimaga aytiladi?",
+      "options": [
+        "Tarkibidan yana bir hukmni ajratib olib bo'lmaydigan mulohazaga aytiladi",
+        "Ikkita kukmni birlashtirish mulohazaga aytiladi",
+        "Ikkita predikati mavjud bo'lgan hukmlar",
+        "Bitta so'zdan iborat hukmlar"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q76",
+      "prompt": "Farobiy borliqni nechiga bo‘ladi?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q77",
+      "prompt": "Falsafaning jamiyatni o‘rganish sohasi qanday nomlanadi?",
+      "options": [
+        "O.Kont",
+        "R.Karnap",
+        "G.Spenser",
+        "R. Bultman"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q78",
+      "prompt": "Jamiyatshunoslik bo‘yicha birinchi risola muallifini aniqlang?",
+      "options": [
+        "Platon",
+        "Suqrot",
+        "Aristotel",
+        "Forobiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q79",
+      "prompt": "Sotsiologiya atamasini fanga kim kiritgan?",
+      "options": [
+        "Kont",
+        "Bekon",
+        "Kant",
+        "Platon"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q80",
+      "prompt": "Sotsiologiya atamasining tarjimasini toping?",
+      "options": [
+        "Jamiyat falsafasi",
+        "Inson falsafasi",
+        "Ilk asos",
+        "Suv"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q81",
+      "prompt": "Falsafa qonunlari nechta?",
+      "options": [
+        "3 ta",
+        "4 ta",
+        "5 ta",
+        "6 ta"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q82",
+      "prompt": "Falsafa tarixida dialektika nechta bosqichda o‘rganiladi?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q83",
+      "prompt": "Dialektikaning 3 ta qonunini asoslab fanga kiritgan faylasufni aniqlang?",
+      "options": [
+        "Gegel",
+        "Kant",
+        "Bekon",
+        "Ibn Sino"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q84",
+      "prompt": "Mif so‘zining ma’nosini aniqlang?",
+      "options": [
+        "Afsona, rivoyat",
+        "Yolg‘on",
+        "Tarix",
+        "Ertak, chupchak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q85",
+      "prompt": "Magiya so‘zi qaysi tildan olingan va qanday ma’noni anglatadi?",
+      "options": [
+        "Yununcha sexrgarlik",
+        "Forscha sexrgarlik",
+        "Lotincha ta’sir ko‘rsatish",
+        "Inglizcha o‘zaro ta’sir"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q86",
+      "prompt": "Falsafiy antropologiya ma’nosini to‘g‘ri toping?",
+      "options": [
+        "Inson haqidagi ta’limot",
+        "Jamiyat haqidagi ta’limot",
+        "Koinot haqidagi ta’limot",
+        "Borliq haqidagi ta’limot"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q87",
+      "prompt": "Estetika atamasini birinchi bo‘lib kim ilmiy muomalaga kiritgan?",
+      "options": [
+        "Aleksandr Baumgarten",
+        "I.Kant",
+        "G.Laybnits",
+        "O.Kont"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q88",
+      "prompt": "Laybnits inson ma’naviy olamini nechta sohaga bo‘lgan?",
+      "options": [
+        "3",
+        "5",
+        "10",
+        "12"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q89",
+      "prompt": "Laybnits fikricha aql – idrokni o‘rganadigan fan qaysi?",
+      "options": [
+        "Mantiq",
+        "Falsafa",
+        "Axloq",
+        "Estetika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q90",
+      "prompt": "“Estetika” iborasi qanday ma’noni anglatadi?",
+      "options": [
+        "His qilish, his qilinadigan, his etiladigan",
+        "San’at asarini idrok qilish",
+        "Go‘zallikni o‘rganish",
+        "Didni yuksaltirish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q91",
+      "prompt": "Estetikaning juft mezoniy tushunchalari (kategoriyalari) qaysi javobda to‘gri ko‘rsatilgan?",
+      "options": [
+        "Go‘zallik va xunuklik",
+        "Chiroylilik va badbasharalik",
+        "Sabab va oqibat",
+        "Ulug‘lik va pastkashlik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q92",
+      "prompt": "Korrupsiya. 1600-1770 yillarda Florensiyada axloq va hokimiyat asari kimniki?",
+      "options": [
+        "Jan-Klod Vake",
+        "I.Kant",
+        "Bekon",
+        "Dekart"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q93",
+      "prompt": "Korrupsiya so‘zining ma’nosi nima?",
+      "options": [
+        "buzmoq",
+        "pora",
+        "aldash",
+        "mansabdan foydalanish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q94",
+      "prompt": "Quyida axloqiy tamoyilni aniqlang?",
+      "options": [
+        "Vatanparvarlik",
+        "Burch",
+        "Qadr",
+        "Muhabbat"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q95",
+      "prompt": "Bolalar balog‘atga yetgach, erkin shaxs sifatida yangi oilaga asos bo‘lishlari - o‘g‘il bolalarning uylantirilishi, qizlarning erga berilishi qanday oila tarqalishiga misol bo‘ladi?",
+      "options": [
+        "Axloqiy",
+        "Tabiiy",
+        "Huquqiy",
+        "Zaruriy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q96",
+      "prompt": "Arxaik san’at turini aniqlang?",
+      "options": [
+        "Badihago‘ylik, xattotlik",
+        "Rassomlik, kituvchilik",
+        "Teart, musiqa",
+        "Savdo, siyosat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q97",
+      "prompt": "An’anaviy san’at turini aniqlang?",
+      "options": [
+        "Teart",
+        "tikuvchilik",
+        "Badihago‘ylik",
+        "Siyosat"
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "q98",
+      "prompt": "Estetik tarbiyaning muhim vositasini aniqlang?",
+      "options": [
+        "San’at",
+        "Tarbiya",
+        "Guzallik",
+        "Ishonch"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q99",
+      "prompt": "Birlashgan Millatlar Tashkilotining “Korrupsiyaga qarshi konvensiyasi” qachon qabul qilingan?",
+      "options": [
+        "2003-yil 31-oktyabr",
+        "2012-yil 23-dekabr",
+        "2001-yil 11-sentyabr",
+        "2022-yil 12-yanvar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q100",
+      "prompt": "Nechanchi yildan boshlab 9 dekabr xalqaro Korrupsiyaga qarshi kurash kuni sifatida nishonlanadi?",
+      "options": [
+        "2004-yil",
+        "2005-yil",
+        "2001-yil",
+        "2007-yil"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q101",
+      "prompt": "Falsafa nimani o‘rganadi?",
+      "options": [
+        "Borliq, bilish va inson hayotining umumiy qonuniyatlarini",
+        "Faqat tabiat hodisalarini",
+        "Faqat jamiyatni",
+        "Faqat tafakkurni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q102",
+      "prompt": "“Borliq” tushunchasi nimani anglatadi?",
+      "options": [
+        "Mavjud bo‘lgan barcha narsalar majmuini",
+        "Faqat moddiy jismlarni",
+        "Faqat ong mahsullarini",
+        "Faqat tabiatni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q103",
+      "prompt": "Falsafaning eng umumiy usuli qaysi?",
+      "options": [
+        "Dialektik usul",
+        "Statistik usul",
+        "Tajriba usuli",
+        "Texnik usul"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q104",
+      "prompt": "Ontologiya nimani o‘rganadi?",
+      "options": [
+        "Borliq va uning shakllarini",
+        "Bilish jarayonini",
+        "Qadriyatlarni",
+        "Axloqiy munosabatlarni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q105",
+      "prompt": "Gnoseologiya nimani tadqiq etadi?",
+      "options": [
+        "Bilish jarayoni va uning imkoniyatlarini",
+        "Jamiyat qonunlarini",
+        "Go‘zallikni",
+        "Axloqni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q106",
+      "prompt": "Falsafada “subyekt” nima?",
+      "options": [
+        "Biluvchi inson",
+        "Bilinayotgan narsa",
+        "Moddiy jism",
+        "Tabiiy hodisa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q107",
+      "prompt": "Bilishning boshlang‘ich bosqichi nima?",
+      "options": [
+        "Hissiy bilish",
+        "Nazariy bilish",
+        "Ilmiy bilish",
+        "Mantiqiy bilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q108",
+      "prompt": "Mantiq fani nimani o‘rganadi?",
+      "options": [
+        "Tafakkur qonunlari va shakllarini",
+        "Axloq qoidalarini",
+        "Go‘zallikni",
+        "Jamiyatni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q109",
+      "prompt": "Dialektikaning asosiy g‘oyasi nimaga asoslanadi?",
+      "options": [
+        "Olamning doimiy harakat va rivojlanishiga",
+        "Olamning o‘zgarmasligiga",
+        "Tasodifga",
+        "Barqarorlikka"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q110",
+      "prompt": "Falsafada “kategoriya” nima?",
+      "options": [
+        "Eng umumiy tushuncha",
+        "Xususiy fikr",
+        "Kundalik atama",
+        "Tasodifiy so‘z"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q111",
+      "prompt": "Etika qaysi masalani o‘rganadi?",
+      "options": [
+        "Axloq va xulq-atvor muammolarini",
+        "Bilish masalasini",
+        "Borliqni",
+        "Go‘zallikni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q112",
+      "prompt": "Estetika nimani o‘rganadi?",
+      "options": [
+        "Go‘zallik va san’atni",
+        "Axloqni",
+        "Bilishni",
+        "Jamiyatni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q113",
+      "prompt": "“Go‘zallik” qaysi falsafiy fan kategoriyasi?",
+      "options": [
+        "Estetika",
+        "Etika",
+        "Ontologiya",
+        "Gnoseologiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q114",
+      "prompt": "Qadriyatlar haqidagi ta’limot nima deb ataladi?",
+      "options": [
+        "Aksiologiya",
+        "Ontologiya",
+        "Mantiq",
+        "Sotsiologiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q115",
+      "prompt": "Antik falsafa qayerda shakllangan?",
+      "options": [
+        "Qadimgi Yunonistonda",
+        "Misrda",
+        "Xitoyda",
+        "Hindistonda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q116",
+      "prompt": "Sharq falsafasiga xos xususiyat qaysi?",
+      "options": [
+        "Axloqiy kamolotga intilish",
+        "Texnik ustunlik",
+        "Raqobat",
+        "Individualizm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q117",
+      "prompt": "O‘rta asrlar falsafasiga xos asosiy tamoyil qaysi?",
+      "options": [
+        "Teosentrizm",
+        "Antropotsentrizm",
+        "Kosmotsentrizm",
+        "Naturalizm"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q118",
+      "prompt": "Yangi davr falsafasining markaziy muammosi nima?",
+      "options": [
+        "Bilish va aql masalasi",
+        "Mifologiya",
+        "Marosimlar",
+        "Afsonalar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q119",
+      "prompt": "Inson muammosini markazga qo‘ygan falsafa yo‘nalishi qaysi?",
+      "options": [
+        "Falsafiy antropologiya",
+        "Ontologiya",
+        "Mantiq",
+        "Aksiologiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q120",
+      "prompt": "Jamiyatni o‘rganuvchi falsafa sohasi nima deb ataladi?",
+      "options": [
+        "Ijtimoiy falsafa",
+        "Ontologiya",
+        "Gnoseologiya",
+        "Estetika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q121",
+      "prompt": "“Madaniyat” tushunchasi nimani anglatadi?",
+      "options": [
+        "Inson yaratgan moddiy va ma’naviy boyliklar majmuini",
+        "Faqat san’atni",
+        "Faqat urf-odatni",
+        "Faqat bilimni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q122",
+      "prompt": "Mifologiya qanday dunyoqarash shakli?",
+      "options": [
+        "Eng qadimgi dunyoqarash shakli",
+        "Ilmiy dunyoqarash",
+        "Falsafiy dunyoqarash",
+        "Zamonaviy dunyoqarash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q123",
+      "prompt": "Din qanday dunyoqarash shakliga kiradi?",
+      "options": [
+        "Diniy dunyoqarash",
+        "Ilmiy",
+        "Texnik",
+        "Falsafiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q124",
+      "prompt": "Falsafa qaysi dunyoqarash shakliga mansub?",
+      "options": [
+        "Nazariy dunyoqarash",
+        "Kundalik",
+        "Amaliy",
+        "Marosimiy"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q125",
+      "prompt": "Inson erkinligi falsafada nimani anglatadi?",
+      "options": [
+        "Ongli tanlov qilish imkonini",
+        "Cheksiz kuchni",
+        "To‘liq mustaqillikni",
+        "Nazoratsizlikni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q126",
+      "prompt": "Mas’uliyat nimaga bog‘liq?",
+      "options": [
+        "Erkinlikka",
+        "Kuchga",
+        "Bilimga",
+        "Lavozimga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q127",
+      "prompt": "“Harakat” falsafada nimani bildiradi?",
+      "options": [
+        "Har qanday o‘zgarishni",
+        "Faqat joy almashishni",
+        "Faqat tezlikni",
+        "Faqat rivojlanishni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q128",
+      "prompt": "Rivojlanish nimani anglatadi?",
+      "options": [
+        "Sifat jihatdan yangilanishni",
+        "Takrorlanishni",
+        "To‘xtashni",
+        "Tasodifni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q129",
+      "prompt": "Sabab va oqibat qaysi tushunchalar turiga kiradi?",
+      "options": [
+        "Dialektik kategoriyalar",
+        "Axloqiy tushunchalar",
+        "Estetik tushunchalar",
+        "Diniy tushunchalar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q130",
+      "prompt": "Ilmiy bilishning asosiy belgisi nima?",
+      "options": [
+        "Mantiqiylik va isbotlanganlik",
+        "Tasodifiylik",
+        "E’tiqod",
+        "Sezgi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q131",
+      "prompt": "Haqiqat nima?",
+      "options": [
+        "Bilimning borliqqa mosligi",
+        "Fikr xilma-xilligi",
+        "Taxmin",
+        "E’tiqod"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q132",
+      "prompt": "Absolyut haqiqat nimani anglatadi?",
+      "options": [
+        "To‘liq va inkor etib bo‘lmaydigan bilimni",
+        "Taxminiy bilimni",
+        "Subyektiv fikrni",
+        "Nisbiy qarashni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q133",
+      "prompt": "Nisbiy haqiqat nima?",
+      "options": [
+        "To‘liq bo‘lmagan, rivojlanib boruvchi bilim",
+        "Soxta bilim",
+        "E’tiqod",
+        "Xato"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q134",
+      "prompt": "Inson ongining asosiy shakli qaysi?",
+      "options": [
+        "Ijtimoiy ong",
+        "Texnik ong",
+        "Mexanik ong",
+        "Biologik ong"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q135",
+      "prompt": "Ijtimoiy ong shakllariga qaysi kiradi?",
+      "options": [
+        "Axloq, din, san’at, huquq",
+        "Fizika va kimyo",
+        "Texnika",
+        "Matematika"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q136",
+      "prompt": "Falsafaning tarbiyaviy vazifasi nimada?",
+      "options": [
+        "Shaxsni fikrlashga va mas’uliyatga o‘rgatishda",
+        "Faqat bilim berishda",
+        "Faqat nazoratda",
+        "Faqat baholashda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q137",
+      "prompt": "Falsafa qanday fikrlashni shakllantiradi?",
+      "options": [
+        "Tanqidiy va mustaqil fikrlashni",
+        "Mexanik fikrlashni",
+        "Tasodifiy fikrlashni",
+        "Yodlashni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q138",
+      "prompt": "Inson hayotining ma’nosi masalasi qaysi fan doirasida ko‘riladi?",
+      "options": [
+        "Falsafada",
+        "Faqat psixologiyada",
+        "Faqat biologiyada",
+        "Faqat sotsiologiyada"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q139",
+      "prompt": "Falsafaning asosiy vazifasi nima?",
+      "options": [
+        "Olamni yaxlit tushuntirish",
+        "Faqat axborot berish",
+        "Faqat nazorat qilish",
+        "Faqat tarixni o‘rganish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q140",
+      "prompt": "Falsafa fan sifatida nimani talab qiladi?",
+      "options": [
+        "Tizimli va mantiqiy fikrlashni",
+        "Yodlashni",
+        "Tasodifiy fikrni",
+        "Ko‘r-ko‘rona ishonishni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q141",
+      "prompt": "Inson va jamiyat munosabati qaysi falsafada o‘rganiladi?",
+      "options": [
+        "Ijtimoiy falsafada",
+        "Estetikada",
+        "Ontologiyada",
+        "Mantiqda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q142",
+      "prompt": "Falsafaning bashorat qilish vazifasi nimani anglatadi?",
+      "options": [
+        "Taraqqiyot yo‘nalishlarini oldindan ko‘ra bilishni",
+        "Tasodifni",
+        "Fol ochishni",
+        "Taxminni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q143",
+      "prompt": "Falsafa nima uchun zarur?",
+      "options": [
+        "Insonni ongli hayotga yo‘naltirish uchun",
+        "Faqat fanlar uchun",
+        "Faqat siyosat uchun",
+        "Faqat tarix uchun"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q144",
+      "prompt": "Falsafiy tafakkur nimasi bilan ajralib turadi?",
+      "options": [
+        "Umumlashtiruvchi va tanqidiyligi bilan",
+        "Tor doiraligi bilan",
+        "Texnikligi bilan",
+        "Amaliyligi bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q145",
+      "prompt": "Insonning o‘zini anglashi qaysi muammo doirasiga kiradi?",
+      "options": [
+        "Antropologik muammoga",
+        "Texnik muammoga",
+        "Biologik muammoga",
+        "Mexanik muammoga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q146",
+      "prompt": "Falsafaning metodologik vazifasi nimada?",
+      "options": [
+        "Boshqa fanlarga yo‘l ko‘rsatishda",
+        "Ularni almashtirishda",
+        "Ularni bekor qilishda",
+        "Faqat nazorat qilishda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q147",
+      "prompt": "Inson kamoloti falsafada nimaga bog‘liq?",
+      "options": [
+        "Ong, bilim va axloqqa",
+        "Boylikka",
+        "Kuchga",
+        "Mansabga"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q148",
+      "prompt": "Falsafa fanining yakuniy maqsadi nima?",
+      "options": [
+        "Komil insonni shakllantirish",
+        "Faqat bilim berish",
+        "Faqat axborot yetkazish",
+        "Faqat tarixni o‘rganish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q149",
+      "prompt": "Falsafaning amaliy ahamiyati nimada?",
+      "options": [
+        "Hayotiy muammolarni ongli hal etishda",
+        "Faqat nazariyada",
+        "Faqat tarixda",
+        "Faqat bahsda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q150",
+      "prompt": "Axloqning asosiy mezoni nima?",
+      "options": [
+        "Ezgulik va yovuzlik",
+        "Foyda",
+        "Kuch",
+        "Hokimiyat"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
