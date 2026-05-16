@@ -1,0 +1,932 @@
+{
+  "id": "bolalarni-sahnalashtirish-va-ijodiy-faoliyatga-orgatish",
+  "name": "Sahnalashtirish kechki",
+  "timeSeconds": 1800,
+  "questions": [
+    {
+      "id": "q1",
+      "prompt": "Soya teatrining sahnasi nima deb ataladi?",
+      "options": [
+        "Ekran",
+        "Oʻyin burchagi",
+        "“Chodir jamol”",
+        "Interfaol ekran"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q2",
+      "prompt": "Sahnalashtirilgan oʻyinlarda qatnashib, bolalar atrof olamni qanday tanishadi?",
+      "options": [
+        "Obrazlar, ranglar (boʻyoqlar), tovushlar bilan tanishadi.",
+        "Tarbiyachilar tanishtiradi",
+        "Oʻyin vaqtida tanishadi",
+        "Har xil roʻllar yordamida tanishadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q3",
+      "prompt": "Maktabgacha taʼlim tashkilotida sahnalashtirish faoliyatning asosiy vazifalari boʻlmagan qatorni tanlang",
+      "options": [
+        "Bolalarni teatr madaniyatiga oshno qilish.",
+        "Kattalarning sanalashtirilgan faoliyati (ota-onalar, xodimlar ishtirokida birgalikda spektakllar qoʻyish;).",
+        "Pedagogik jarayonda sanalashtirilgan va boshqa faoliyat turlari oʻzaro aloqadorligi uchun sharoit yaratish.",
+        "Sahnalashtirilgan faoliyatda bolalarning ijodiy faolligi uchun sharoit yaratish."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q4",
+      "prompt": "Teatrlashtirilgan tomoshalarga hos boʻlmagan qatorni tanlang",
+      "options": [
+        "Teatr sanʼati bola shaxsining bir tomonlama rivojlanishiga koʻmaklashadi.",
+        "Teatr maktabgacha yoshdagi bolalarning his-tuygʻulari va kayfiyati (ruhiyati) ga kuchli emotsional taʼsir oʻtkazadi,",
+        "Teatr bolani maʼnaviy tarbiyalaydi",
+        "Teatr sanʼati bola shaxsining koʻp tomonlama rivojlanishiga koʻmaklashadi."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q5",
+      "prompt": "Bolaga ijod uchun imkoniyatlar qaysi usullar orqali namaoyon boʻladi?",
+      "options": [
+        "Kichik sahnalarni oʻynab oʻziga ishonch, topqirlik rivojlanish orqali",
+        "Rol orqali hammani qiziqtirishi bilan",
+        "Bolalani oʻziga ishonchini rivojlantirish",
+        "Kichik yoshdan jamoa oldida nutq soʻzlashga oʻrgatish yoʻli bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q6",
+      "prompt": "Bolalarni ijodiy qobiliyatlarini rivojlantiradigan faoliyat qanday?",
+      "options": [
+        "sahnalashtirilgan faoliyat",
+        "bolalarni hamma narsaga qiziqtirish faoliyati bilan",
+        "oʻyin faoliyati",
+        "jamoa erkin soʻzlashishga oʻrgatish yoʻli bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q7",
+      "prompt": "Pedagog uchun sahnalashtirilgan faoliyatni bolalar tayyorlov guruhiga kelib kutgan natijaga erishish uchun qaysi guruhdan boshlab shugʻullanishi zarur?",
+      "options": [
+        "Kichik guruhdan boshlab shugʻullanish kerak",
+        "Oʻrta guruhdan boshlab shugʻullanish kerak",
+        "Katta guruhdan boshlab shugʻullanish kerak",
+        "Tayyorlov guruhdan boshlab shugʻullanish kerak"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q8",
+      "prompt": "Sahnalashtirishda adabiy asarlarni tanlashda qoʻyiladigan talablarni belgilang?",
+      "options": [
+        "Mazmunining gʻoyaviy maʼnaviy barkamolligi",
+        "Badiiy jihatdan mazmundorligi",
+        "Asardagi qatnashchi va roʻllarning soni",
+        "Hamma javoblar toʻgri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q9",
+      "prompt": "MTT ning qaysi guruhida sahnalashtirilgan mualliflik oʻyinlarining boshlangʻich etaplarini koʻrish mumkin?",
+      "options": [
+        "Kichik guruh",
+        "Oʻrta guruh",
+        "Katta guruh",
+        "Tayyorlov guruhi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q10",
+      "prompt": "Qaysi ertak turida tasvir engsiz taglik koʻrinishida boʻladi?",
+      "options": [
+        "Stol teatri",
+        "Paxmoq teatri",
+        "Soya teatri",
+        "Qoʻgʻirchoq qoʻlqop teatri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q11",
+      "prompt": "Qoʻgʻirchoq qoʻlqop qaysi teatr uchun kerakli anjom hisoblanadi?",
+      "options": [
+        "Qoʻgʻirchoq teatri",
+        "Paxmoq teatri",
+        "Soya teatri",
+        "Stol teatri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q12",
+      "prompt": "Qoʻgʻirchoq qoʻlqop teatrining bosh qismi nimadan tayorlanadi?",
+      "options": ["Pape-mashedan", "Paxtadan", "Qattiq jism", "Loydan"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q13",
+      "prompt": "Yumshoq oʻyinchoqni ichiga nima solinadi?",
+      "options": ["Mato,paralon va paxta", "Qogʻoz", "Qattiq jism", "Loy"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q14",
+      "prompt": "\"Qoʻlqopcha” ertagi qaysi guruhda saxnalashtiriladi?",
+      "options": [
+        "Oʻrta guruh",
+        "Maktabga tayyorlov guruh",
+        "Katta guruh",
+        "Kichik guruh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q15",
+      "prompt": "\"Echki bolalari\" ertagi qaysi guruxda saxnalashtiriladi?",
+      "options": [
+        "Oʻrta guruh",
+        "Maktabga tayyorlov guruh",
+        "Katta guruh",
+        "Kichik guruh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q16",
+      "prompt": "\"Boʻg'irsoq” ertagi qaysi guruxda saxnalashtiriladi?",
+      "options": [
+        "Oʻrta guruh",
+        "Maktabga tayyorlov guruh",
+        "Kichik guruh",
+        "Katta guruh"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q17",
+      "prompt": "Stol teatri qayerda namoyish qilinadi?",
+      "options": ["Stol ustida", "Interfaol ekran", "“Chodir jamol”", "Ekran"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q18",
+      "prompt": "Qaysi yosh bolalarda \"Oʻyinlar oʻylab topadi, syujet-rolli oʻyinlarda ishtirok etadi, turli ertaklarni sahnalashtirishda qatnashadi\" malakasi shakllantiriladi?",
+      "options": [
+        "6 yoshi 9 oylik",
+        "6 yoshu 6oylik",
+        "5 yoshi 9 oylik",
+        "6 yoshu 3oylik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q19",
+      "prompt": "Soya teatri personajlari qanday rangda boʻyaladi?",
+      "options": ["Qora rangda", "Rangsiz", "Oq rangda", "Qizil rangda"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q20",
+      "prompt": "Kichik guruhlarda \"Qushlar doʻkoni\" mavzusi qaysi rivojlantiruvchi markazda oʻrganiladi?",
+      "options": [
+        "Ilm-fan va tabiat",
+        "Til va nutq",
+        "Syujetli -rolli oʻyinlar va saxnalashtirish",
+        "Sanʼat."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q21",
+      "prompt": "Maktabgacha taʼlim tashkilotlarida qanday spektakllami qoʻyish mumkin emas?",
+      "options": [
+        "Katta spektakllarni",
+        "Badiiy asarni qoʻg ʼirchoq teatri orqali koʻrsatishni",
+        "Kichik sahnali spektakllarni",
+        "Kichik ertak asosidagi spektakllarni"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q22",
+      "prompt": "Teatr nechinchi asr va qayerda paydo boʻlgan?",
+      "options": [
+        "5- asr Yunoniston.",
+        "6- asr Yunoniston",
+        "3- asr Yunoniston",
+        "4- asr Yunoniston"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q23",
+      "prompt": "Bola nechi yoshidan boshlab oʻyinlarda oʻziga roʻllar olishni boshlaydi?",
+      "options": ["4 yoshdan", "3-4 yoshdan", "5 yoshdan", "4-5 yoshdan"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q24",
+      "prompt": "Qoʻgʻirchoq umurtqa vazifasini bajaruvchi tayoqcha nimadan iborat?",
+      "options": ["tayoqcha", "ip", "igna", "tuqish ip"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q25",
+      "prompt": "Quyonjon va laylakvoy va Aqlli qarğa xalq ertagi nechi yoshdagi bolalar uchun?",
+      "options": ["4-5 yosh.", "5-6 yosh", "2-3 yosh", "3-4 yosh"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q26",
+      "prompt": "Applikatsiya nechinchi yil muqaddam kòchmanchi xalqlarda paydo boʻlgan?",
+      "options": ["2500-yil.", "2000-yil", "1500-yil", "2700-yil"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q27",
+      "prompt": "Pape-mashe texnikasi yordamida nimalar tayyorlash mumkin?",
+      "options": [
+        "barcha javoblar to’g’ri.",
+        "vaza, òyinchoqla, gullar",
+        "gullar, patnisla, vaza",
+        "òyinchoqla, hayvonchala, uychala"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q28",
+      "prompt": "Oʻsimlik nechi daqiqada quriydi va òzining rangini yoʻqotmiydi?",
+      "options": ["2-3 daqiqa.", "10-15 daqiqa", "15-20 daqiqa", "3-4 daqiqa"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q29",
+      "prompt": "Oʻyin bu …..",
+      "options": [
+        "oʻyin bolalarni koʻrganlarini aks ettirish faoliyatidir;",
+        "bolalarni ermaklaridan biri;",
+        "inson faoliyatining koʻrinishlaridan biri;",
+        "qiziqarli mashgʻulotdir"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q30",
+      "prompt": "Bola nechi yoshida yumshoq oʻyinchoqlar, yoğochli teatr, konusli teatr, xalq òyinchoq teatr kòrinishini oʻrganadi?",
+      "options": ["4-5 yosh.", "5-7 yosh", "3-4 yosh", "6-7 yosh"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q31",
+      "prompt": "Applikatsiya mashgʻulotlarini olib borishdan koʻzlangan maqsad",
+      "options": [
+        "qaychi bilan ishlash, yelimlash malakasini oshirish, ranglarni farqlash va toʻgri atashga oʻrgatish",
+        "tabiiy boyliklarimizni farqlash",
+        "qogʻozdan buklab yasash va tashlandiq materiallarni ajratish",
+        "Tuproq bilan suvni birikmasini tahlil qilish va loy yasash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q32",
+      "prompt": "Uy teatr qòğirchoqlarni nechta turga bòlish mumkin?",
+      "options": ["3 turga.", "5 turga", "6 turga", "2 turga"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q33",
+      "prompt": "Qoğozni nechi qavat qilib buklab turib qirqishga murakkab qirqish usuli deyiladi?",
+      "options": ["5-6 qavat.", "4-5 qavat", "6-7 qavat", "2-3 qavat"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q34",
+      "prompt": "Katta yoshdagi guruhlarda bolalarni qanday qòğirchoqlar bilan tanishtiradi?",
+      "options": [
+        "marianetka va jonli qoʻlli.",
+        "jonli qòl",
+        "marianetka",
+        "trostli qòğirchoq"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q35",
+      "prompt": "Polishinelning qòlpaypoq qòğirchoqlari nechinchi asrga mansub?",
+      "options": ["XVIII asr.", "XX asr", "XIX asr", "X asr"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q36",
+      "prompt": "Qaysi davlatda kòplab mayda qòğirchoq guruhlari faoliyat koʻrsatmoqda?",
+      "options": ["Turkiya", "AQSH.", "Bellarusiya", "Xitoy"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q37",
+      "prompt": "Italiyada qòğirchoq tomoshalarining nechi turi mavjud?",
+      "options": ["2 turi", "3 turi.", "4 turi", "6 turi"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q38",
+      "prompt": "\"Qaragʻay\", \"Ur toʻqmoq\" xalq ertagi nechi yoshli bolalar uchun?",
+      "options": ["6-7 yoshli", "4-5 yoshli", "2-3 yoshli", "5-6 yoshli."],
+      "correctIndex": 0
+    },
+    {
+      "id": "q39",
+      "prompt": "Qòğirchoqlarni qanday tayyorlasa boʻladi?",
+      "options": [
+        "barchar javoblar to’g’ri",
+        "eski qòlqopdan.",
+        "andazadan",
+        "mato va qoğozdan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q40",
+      "prompt": "Nechinchi asrga kelib kòchiruvchilar orqali qoğoz Yevropaga yetib keladi?",
+      "options": ["XIX asr", "XII asr.", "XX asr", "XVIII asr"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q41",
+      "prompt": "Qaysi didaktik oʻyinlarda bolalarda sensor madaniyat rivojlanadi?",
+      "options": [
+        "rasmlar bilan oʻynaladigan oʻyinlarda;",
+        "xalq didaktik oʻyinchoqlar bilan oʻynaladigan oʻyinlarda;",
+        "harakatli-didaktik oʻyinlarda;",
+        "tovushli-didaktik oʻyinlarda."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q42",
+      "prompt": "Sahnalashtirish faoliyati jarayonida nechta asosiy prinsplarga tayaniladi?",
+      "options": ["4ta", "6ta", "2ta", "5ta"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q43",
+      "prompt": "Ijodiy faoliyatni mezonlar asosida vujudga kelishini kim isbotladi?",
+      "options": ["Levitiv", "Torrens", "Stanislavskiy", "Tolstoy"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q44",
+      "prompt": "………so’zining ma’nosi, qirqib olib yopishtirish demakdir. Bu usulda qog’oz, mato, charm, somon, quritilgan o’simliklar, urug’lar, tashlandiq narsalar, simlar, iplardan foydalanib har xil ishlarni bajarish mumkin.",
+      "options": ["Applikatsiya", "Origami", "Mozayka", "Pape-mashe"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q45",
+      "prompt": "Qaysi oʻyinchoqlar bilan oʻynashda bolalarda sensor madaniyat rivojlanadi?",
+      "options": [
+        "stol ustida oʻynaladigan oʻyinchoqlar bilan oʻynaganda;",
+        "ogʻzaki oʻyinlarda oʻyinchoqlardan foydalanilsa;",
+        "labirint tipdagi oʻyinlarda;",
+        "xalq didaktik oʻyinchoqlari bilan oʻynaladigan oʻyinlarda."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q46",
+      "prompt": "Bola nechi yoshidan boshlab oʻyinlarda oʻziga roʻllar olishni boshlaydi?",
+      "options": ["4 yoshdan", "3-4 yoshdan", "5 yoshdan", "4-5 yoshdan"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q47",
+      "prompt": "Maktabgacha ta’lim tashkilotlarda oʻrta guruh nechi yoshdan boshlanadi?",
+      "options": ["4-5 yosh", "4 yosh", "3 yosh", "5-6 yosh"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q48",
+      "prompt": "Levitiv ijodiy faoliyatni neca hil mezon asosida vujudga kelishini isbotladi?",
+      "options": ["6xil", "2xil", "5xil", "3xil"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q49",
+      "prompt": "Bola necha yoshda syujetli-roli o’ynlarda ishtirok eta oladi?",
+      "options": ["3-4yosh", "5yosh", "4-5yosh", "5-6yosh"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q50",
+      "prompt": "Applikatsiya soʻzining lugʻaviy manosi?",
+      "options": ["Joylashtirish", "Tahlash", "Qogʻozlarni kesish", "Buklash"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q51",
+      "prompt": "\"Sahnada ham jismoniy ham ruhiy harakat qilmoq kerak\" degan fikrni kim ilgari surgan?",
+      "options": ["Stanislavskiy", "Levitiv", "Mudrik", "Vasilkova"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q52",
+      "prompt": "Sahnalashtirish faoliyatining foydasi nima?",
+      "options": [
+        "Xotira rivojlanishi, fikrlash va hayoliy tasavvurlar",
+        "Aqliy chamalashni tezligi",
+        "Milliy va maʼnaviy qadriyatlarni singdirb borsh",
+        "Toʻgʻri fikrlash"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q53",
+      "prompt": "Bolalarni har tamonlama rivoylanishiga koʻmaklashadigan sanʼat turi qaysi?",
+      "options": ["Teatr", "Ijodkorlik", "Drama", "Spektakl"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q54",
+      "prompt": ". Origami soʻzi aynan qaysi tilga mansub?",
+      "options": ["Yapon", "Grek", "Lotin", "Turk"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q55",
+      "prompt": "Eng sodda applikatsiya turi qaysi?",
+      "options": [
+        "Geometrik applikatsiya",
+        "Gullar bargi applekatsiyasi",
+        "Murakkab applekatsiya",
+        "Ijodiy applekatsiya"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q56",
+      "prompt": ". Inson tanasi tuzilishi, ruhiyati va hulqida biologik jarayonlar hamda atrof-muhit tasirida roʻy beradigan oʻzgarishlarga nima deyiladi?",
+      "options": ["Rivojlanish", "Ijodkorlik", "Aktyorlik", ". Kreativlik"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q57",
+      "prompt": ". Erkinlik va mustaqillik prinspiga toʻgʻri berilgan taʼrifni belgilang?",
+      "options": [
+        "A. *Bola muhitga oʻz munosabatini mustaqil bildirish",
+        "B. Bola bilish faoliyatini, faoligini ragʻbatlash",
+        "C. Ruhiy va faktik imkoniyat yaratish",
+        "D. Bolani qiziqtirgan faoliyati bn shugʻullanish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q58",
+      "prompt": "Teatr faoliyati neca xil yoʻnalishdan tashkil topgan?",
+      "options": ["5xil", "2xil", "3xil", "4xil"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q59",
+      "prompt": ". ...- aqliy salohiyatga bogʻliq jarayon?",
+      "options": [
+        "Ijod",
+        "Sahnalashtirish oʻyinlari",
+        "Mashgʻulot",
+        "Didaktik oʻyinlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q60",
+      "prompt": "Paxmoq teatri va personajlarini tayyorlash?",
+      "options": [
+        "Paxmoq teatrida kichkintoylar asosan ertak qaxramonlarining aynan oʻzini koʻradilar. Personajlar paxmoq ekranga yopishtiriladi. Personajlarni tayyorlash uchun oʻrtacha qalinlikdagi karton qogʻozdan qirqib olinadi va rangli boʻyoqda, guashda boʻyaladi. tayyor boʻlgan personaj orqasiga paxmoq gazlamasi yopishtiriladi ertak matni bilan bitta papkaga solib qoʻyiladi.",
+        "Monumental dekorativ saʻnat turlaridan biridir.Mozaikada rasm sathida ayrim-ayrim parchalar (qogʻoz, oyna, sapo, gul tojibarglari, tuxum poʻsti va shu kabilar) qoʻyib chiqishdir. Bunday ish odatda eng oddiy konturlardan boshlanadi. Keyinroq konturlar ancha murakkablashadi.",
+        "Oʻsimliklarni shoxlari, ildizlari, barglari, meva va rezavor urugʻlari, qushlarning patlari, samon va oʻt poyasi, baliq tangalari mahalliy material sifatida foydalaniladi.",
+        "koʻp qirrali mashgʻulot boʻlib, bolalarda shakl va ranglarni ajrata olish, badiiy estetik hissiyotarini va qoʻl mayda motorikasini rivojlantiradi hamda ikki bosqichda bajariladi; shakllarni qirqish va fonga yopishtirish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q61",
+      "prompt": "Bolalar oʻzini xuddi uyidagidek his qiladigan sharoit yaratish\" bu qaysi prinsp",
+      "options": [
+        "Psixologik komfort",
+        "Erkinlik va mustaqillik",
+        "Komplekslash",
+        "Faollik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q62",
+      "prompt": "Mozaika nima va Mozaika ishlarining tashkil etish?",
+      "options": [
+        "Mozaika monumental dekorativ saʻnat turlaridan biridir.Mozaikada rasm sathida ayrim-ayrim parchalar (qogʻoz, oyna, sapo, gul tojibarglari, tuxum poʻsti va shu kabilar) qoʻyib chiqishdir. Bunday ish odatda eng oddiy konturlardan boshlanadi. Keyinroq konturlar ancha murakkablashadi.",
+        "Mozaika teatrida kichkintoylar asosan ertak qaxramonlarining aynan oʻzini koʻradilar. Personajlar paxmoq ekranga yopishtiriladi. Personajlarni tayyorlash uchun oʻrtacha qalinlikdagi karton qogʻozdan qirqib olinadi va rangli boʻyoqda, guashda boʻyaladi.",
+        "Mozaika oʻsimliklarni shoxlari, ildizlari, barglari, meva va rezavor urugʻlari, qushlarning patlari, samon va oʻt poyasi sifatida foydalaniladi.",
+        "Mozaika koʻp qirrali mashgʻulot boʻlib, bolalarda shakl va ranglarni ajrata olish, badiiy estetik hissiyotarini rivojlantiradi hamda ikki bosqichda bajariladi; Personajlar paxmoq ekranga yopishtiriladi."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q63",
+      "prompt": "Trafaret nima va uni tayyorlash jarayoni qanday amalga oshiriladi?",
+      "options": [
+        "Trafaret-dermantik, qalin qogʻoz, rangli karton, tunuka selyuloid, plastmassadan tayyorlanadigan plastinkadir. Mttda trafaretlar klyonka, qalin kartondan, naqsh xarflarni aniq chiziklar bilan tushirilib, rasmni uyib kirqib olinadi. Trafaret ikki xil boʻladi: Qalin kartonga son raqami, figura yoki xayvon shakli tushiriladi. Tushirilgan shakl pichoqda sekin-astalik kesib turib, qolgan qismi asta-sekinlik bilan qaychida qirqib olinadi. Shaklni qirqib olayotgada extiyotkorlik bilan ish bajariladi, unda tarfaretning tomonini qirqib yubormaslikka xarakat qilish lozim",
+        "Trafaret oʻyin faoliyatida bolalarni badiiy tarbiyalash natijasida shakillanadi. Bolalarni adabiy syujetlarning emotsional ichki boyligini oshiradi.",
+        "Trafaret kichik yoshdan notanish auditoriya oldida nutq soʻzlashga oʻrganish, Ijodiy oʻyinlar uchun jixozlarga turli xildagi oʻyinchoqlar kerak boʻladi. Oʻyinchoqlar mavzu, shakli, tuzilishi, qanday materialdan tayyorlanganligi, bolalar oʻyinlarida qanday maqsadlarda foydalanishiga koʻra turli tumandir.",
+        "Trafaret-monumental dekorativ saʻnat turlaridan biridir.Mozaikada rasm sathida ayrim-ayrim parchalar (qogʻoz, oyna, sapo, gul tojibarglari, tuxum poʻsti va shu kabilar) qoʻyib chiqishdir."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q64",
+      "prompt": ". Tovushga xos xususiyatni toping.",
+      "options": [
+        "Eshitamiz, talaffuz qilamiz.",
+        "Aqlan va jismonan xarakat qilamiz:",
+        "Koʻrish va eshitish qobiliyatlarini rivojlantiradi",
+        "Bola aqlan, jismonan va emotsional rivojlanadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q65",
+      "prompt": "Dramatizatsiya nima?",
+      "options": [
+        "Bolalar ijodi",
+        "Kichik sahna ko‘rinishi",
+        "Adabiy syujetlarning emotsionali",
+        "Personajlarning muayyan harakatlari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q66",
+      "prompt": "Bir so’z bilan aytganda teatr bola uchun qanday ahamiyatga ega?",
+      "options": [
+        "Teatr bolalarning emotsional namoyon boʻlishiga koʻmaklashadi",
+        "Teatr bola shaxsining har tomonlama rivojlanishiga koʼmaklashadi",
+        "Teatr bolalarning ijodiy qobiliyatlarini rivojlantiradi",
+        "Teatr bolalarning xulqini korreksiyalaydi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q67",
+      "prompt": "Bolani omma oldida nutq so’zlashishga odatlantirish uchun nima qilish kerak?",
+      "options": [
+        "Kichik yoshdan notanish auditoriya oldida nutq so’zlashga oʻrgatish yoʻli bilan shakllantirish kerak",
+        "Teatr bolalarning omma oldida gapirishga oʻrgatadi",
+        "Oʻyin faoliyati bolalarni badiiy tarbiyalash natijasida shakillanadi",
+        "Bolalarni adabiy syujetlarning emotsional ichki boyligi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q68",
+      "prompt": "Qo’g’irchoqlar turlari?",
+      "options": [
+        "Qo’lqopli qo’g’irchoq turi.Trossli qo’g’irchoq turi (simli).Iplar yordamida (marionetka) boshqaradigan qo’g’irchoq turi. Ochiq usulda boshqariladigan (planshetli) qo’g’irchoq turi. Soyasi tushirilib o’ynatiladigan qo’g’irchoq turi. Niqob (maska) bilan ishlanadigan qo’g’irchoq.",
+        "Qo’lqopli qo’g’irchoq turi.Trossli qo’g’irchoq turi (simli).Iplar yordamida (marionetka) boshqaradigan qo’g’irchoq turi.Gullarni tasvirlash. Applikatsiya",
+        "Ochiq usulda boshqariladigan (planshetli) qo’g’irchoq turi. Soyasi tushirilib o’ynatiladigan qo’g’irchoq turi. Stol teatri. Niqob (maska) bilan ishlanadigan qo’g’irchoq. Kashtachilik, zardo’stlik.",
+        "Qo’lqopli qo’g’irchoq turi.Trossli qo’g’irchoq turi (simli). Niqob (maska) bilan ishlanadigan qo’g’irchoq. Temir qog’richoq. Origami."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q69",
+      "prompt": "Quyidagilardan qaysi biri didaktik prinsiplar?",
+      "options": [
+        "komplekslash va egiluvchan zonalashtirish, faollik, psixologik comfort",
+        "psixologik komfort , olam haqida shartli tasavvur, variativlik",
+        "variativlik, ijodkorlik, faollik, erkinlik va mustaqillik",
+        "psixologik olam haqida tasavvur, variativlik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q70",
+      "prompt": "Teatrlashtirilgan faoliyatda bolalarning ijodiy faolligini oshirish boʻyicha vazifalarni hal qilishda ular va ota-onalar bilan ishlarning zarur shakllari",
+      "options": [
+        "amaliy va yakunlovchi bosqich",
+        "boshlovchi, amaliy va yakunlovchi bosqich",
+        "boshlovchi va yakunlovchi bosqich",
+        "tashkiliy, amaliy va yakunlovchi bosqich"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q71",
+      "prompt": "Teatrlashtirilgan faoliyatda bolalarning ijodiy faolligini oshirish boʻyicha “Ijodkor bola qanday boʻladi?” mavzusida ota-onalar bilan soʻrov oʻtkazilishi qaysi bosqichda amalga oshiriladi?",
+      "options": [
+        "amaliy bosqich",
+        "boshlovchi bosqich",
+        "yakunlovchi bosqich",
+        "tashkiliy bosqich"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q72",
+      "prompt": "“Origami”soʻzining maʼnosi nima?",
+      "options": [
+        "Buklangan, qat qogʻoz qogʻoz, degan maʼnolarni anglatadi",
+        "Toʻrtburchak qogʻoz, degan maʼnoni anglatadi",
+        "Uvitilgan qogʻoz, degan manoni anglatadi",
+        "Doira shaklidagi qogoz, degan maʼnoni anglatadi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q73",
+      "prompt": "“Origami” oʻyinchoqlarni yasash deganda qanday yasalgan oʻyinchoqlar tushuniladi?",
+      "options": [
+        "To’rtburchakli qogʻozlarni buklab turli buyum va oyinchoqlarni yasash tushuniladi.",
+        "Mato va yumshoq eguluvchan simlardan, plastmassalardan yasash tushuniladi",
+        "Gazlama orqali bajariladigan gullari tushuniladi",
+        "Qogozni bir necha bor buklab qirqish asosida gul barglarini qirqish va uni novdaga yelimlab, chiroyli gullagan nastarin gulini yasash tushuniladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q74",
+      "prompt": "Origami sanʼat sifatida ilk marotaba qachon qayrda paydo boʻlgan?",
+      "options": [
+        "IX-XII asrlarda Yaponiyada",
+        "XIX- asrning ikkinchi yarmida Xitoyda",
+        "XIV -XV asrlarda Eronda",
+        "XIX asring ikkinchi yarmiga kelib Yevropa mamlakatlarida"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q75",
+      "prompt": "Gullar ganday turlarga ajratiladi?",
+      "options": [
+        "Tabiy va sunʼiy",
+        "Qogʻoz va gazlama orqali yasaladigan gullar",
+        "mato va yumshoq eguluvchan simlardan, plastmassalardan yasaladigan gullar.",
+        "kishidan mehnatni, parvarishni talab qiladigan gullar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q76",
+      "prompt": "Qaysi qo’g’irchoq teatrida qo’g’irchoqlar barmoqlarga kiygizilib qo’g’irchoq teatri ko’rsatiladi?",
+      "options": ["Barmoqli", "tabiiy", "Qogʻozli", "Qo’lqopli"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q77",
+      "prompt": "Qaysi qo’g’irchoq teatri 3 xil bo’ladi: arqonli, temirli, cho’pli. Bu teatr turida qo’g’irchoqlarning qo’l va oyoqlari leska, ingichka sim yoki arqon bilan bog’langan holda teatr o’tkaziladi.",
+      "options": ["Marionetka", "Soya", "Qo’lqop", "Qo’g’richoq"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q78",
+      "prompt": "Yevropa mamlakatlariga Origami sanʼat qaysi davrda rivojlandi?",
+      "options": [
+        "XIX asrning ikkinchi yarmiga",
+        "XVII-XIX — asring ikkinchi yarmida",
+        "XIV -XV asrlarda",
+        "IX-XII asrlarda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q79",
+      "prompt": "Teatr deganda nimani tushunasiz?",
+      "options": [
+        "Bolalar ozlariga yaqin va tanish boʻlgan oʻyinchoqlarni jonli ravishda koʻradigan joy.",
+        "Teatr bolalarga katta tarbiyaviy ahamiyatga ega boʻlgan saxna.",
+        "Teatirlashtirilgan saxna",
+        "yunoncha (tiyation) soʻzidan olingan boʻlib tomoshaxona degan maʼnoni bildiradi."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q80",
+      "prompt": "Bu teatr stol ustida ko’rsatiladi. Bu teatr turi maktabgacha ta’lim tashkilotlari uchun qulaydir. Qaysi teatr turi xaqida so’z ketyapti?",
+      "options": ["Stol", "Soya", "Qo’lqop", "Qo’g’richoq"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q81",
+      "prompt": "Qaysi qo’g’irchoq teatrining 4 xili bo’ladi.(Qog’ozdan yasaladi; Kartondan yasaladi; Taxtadan yasaladi; Plastmassadan yasaladi)",
+      "options": ["Stol", "Soya", "Qo’lqop", "Qo’g’richoq"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q82",
+      "prompt": "Uch avlodi qoʻgʻirchoqbozlar boʻlib otgan Buxorolik qoʻgʻirchoqboz kim?",
+      "options": [
+        "Rajab Meshkob (Buxoro)",
+        "Abdukarim (1800- 1870)",
+        "Tursunboy Abdujabborov",
+        "Xolmurod bobo (1897 — 1967)"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q83",
+      "prompt": "Didaktik oʻyinlarni tashkil etishda bolalarning qanday xususiyatlarini hisobga olish lozim?",
+      "options": [
+        "Yosh va individual",
+        "Ijodiy qobiliyatlari",
+        "Bilim va malakalari",
+        "Individual ijodiy qobiliyatlari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q84",
+      "prompt": "Maktabgacha yoshidagi bolani egallashi lozim boʻlgan madaniy-gigiyenik malakalarni koʻrsating",
+      "options": [
+        "Ovqatni yeyish koʻnikmalari, oʻz tanasini parvarish qilish, xonada tartibga rioya qilish, kiyimdan foydalanish (kiyinish, yechinish, taxlash)",
+        "Bogʻchaga kelishni, salomlashishni, qoʻllarini yuvishni",
+        "Harakatli sport musobaqalari oʻyinlarini, Ovqatni yeyish koʻnikmalari",
+        "Oʻz-oʻziga xizmat qilish, topshiriqlarni bajarish, yakka tartibdagi mehnat, navbatchilik"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q85",
+      "prompt": "Bolalarga ekologik tarbiya berishda qanday usullardan foydalaniladi?",
+      "options": [
+        "Koʻrgazmali, amaliy,ogʻzaki",
+        "Kuzatish",
+        "Suhbat",
+        "Bayon qilish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q86",
+      "prompt": "Oʻyin qanday turlarga boʻlinadi?",
+      "options": [
+        "Ijodiy oʻyin, qoidali oʻyin",
+        "Saxnalashtirilgan",
+        "Syujetli-rolli",
+        "Qurish-yasash oʻyinlari"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q87",
+      "prompt": "Faoliyatlar (Mashgʻulotlar) davomida qanday oʻyinlar oʻtkaziladi?",
+      "options": [
+        "Harakatli-qoidali oyinlar oʻtkaziladi (ular mashgʻulot mazmuniga qarab tanlanadi)",
+        "Qurish-yasash oyinlari",
+        "Saxnalashgan",
+        "Syujetli-rolli"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q88",
+      "prompt": "Ijodiy oʻyinlarga qanday oyinlar kiradi?",
+      "options": [
+        "Syujetli-rolli, saxnalashgan, qurish-yasash",
+        "Didaktik oʻyinlar",
+        "Sport oʻyinlari",
+        "Harakatli oʻyinlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q89",
+      "prompt": "Qoidali oʻyin turlarini ayting.",
+      "options": [
+        "Didaktik oʻyinlar, harakatli oyinlar, musiqali didaktik oʻyinlar",
+        "Qurilish materiallari bilan oʻynagan oʻyinlar",
+        "musiqali didaktik oʻyinlar",
+        "Saxnalashtirilgan oʻyinlar"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q90",
+      "prompt": "Maktabgacha taʻlim tashkilotlarida sayr qachon oʻtkaziladi?",
+      "options": [
+        "Ertalabki mashgʻulotdan keyin, kunduzgi uyqudan keyin",
+        "Kunduzgi uyqudan keyin",
+        "Ertalabki qabulda",
+        "Peshingi uyqudan oldin"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q91",
+      "prompt": "Ijodiy oʻyinlarda qanday qoidalar boʻladi ?",
+      "options": [
+        "qoidalar boʻlmaydi",
+        "o'yinlar rejalashtiriladi",
+        "Majburiy qoidalar boʻladi",
+        "Uzoq muddatga moʻljallangan reja boʻladi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q92",
+      "prompt": "Necha yoshda bolaning ijobiy xulq-atvori barqarorlashadi?",
+      "options": ["3-5 yoshda", "6-7 yoshda", "8-10 yoshda", "10-15 yoshda"],
+      "correctIndex": 0
+    },
+    {
+      "id": "q93",
+      "prompt": "Yakka tartibdagi ish deganda nimani tushunasiz?",
+      "options": [
+        "Tarbiyachi va tarbiyalanuvchining yakkama yakka ishlashi",
+        "Yakka tartibda taʼlim olish",
+        "Bolalarni ichki kechinmalarini tushunish",
+        "tarbiyachi va tarbiyalanuvchilar órtasidagi uzviy aloqa"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q94",
+      "prompt": "Sahnalashtirishda adabiy asarlarni tanlashda qoʻyiladigan talablarni belgilang?",
+      "options": [
+        "Mazmunining gʻoyaviy maʻnaviy barkamolligi",
+        "Badiiy jihatdan mazmundorligi",
+        "Asardagi qatnashchi va roʻllarning soni",
+        "Hamma javoblar toʻgri"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q95",
+      "prompt": "MTT ning qaysi guruhida sahnalashtirilgan mualliflik oʻyinlarining boshlangʻich etaplarini koʻrish mumkin?",
+      "options": [
+        "Kichik guruh",
+        "Oʻrta guruh",
+        "Katta guruh",
+        "Tayyorlov guruhi"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q96",
+      "prompt": "Bolalarni qobiliyatlarini rivojlantiradigan faoliyat qanday?",
+      "options": [
+        "sahnalashtirilgan faoliyat",
+        "bolalarni hamma narsaga qiziqtirish faoliyati bilan",
+        "oʻyin faoliyati",
+        "jamoa erkin soʻzlashishga oʻrgatish yoʻli bilan"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q97",
+      "prompt": "Qaysi hikoya turida koʻrgazmalardan foydalanilmaydi?",
+      "options": [
+        "Oʻz xotirasidan hikoya qilishda.",
+        "Tarbiyachi kitobdan oʻqib berganda",
+        "TV orqali tomosha qilganda",
+        "Rasm, tasvirda tomoshaga qarab ertak tuzganda"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q98",
+      "prompt": "Hikoya, rivoyat, ertak, topishmoq va maqollar qaysi mashgʻulotda qoʻllaniladi?",
+      "options": [
+        "Badiiy adabiyot",
+        "\"Nutq o'stirsh\"",
+        "\"Atrof olam\"",
+        "Tabiat bilan tanishtirish"
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q99",
+      "prompt": "Teatrlashtirilgan tomoshalarga hos boʻlmagan qatorni tanlang",
+      "options": [
+        "Teatr sanʻati bola shaxsining bir tomonlama rivojlanishiga koʻmaklashadi.",
+        "Teatr maktabgacha yoshdagi bolalarning his-tuygʻulari va kayfiyati (ruhiyati) ga kuchli emotsional taʻsir oʻtkazadi,",
+        "Teatr bolani maʻnaviy tarbiyalaydi",
+        "Teatr sanʻati bola shaxsining koʻp tomonlama rivojlanishiga koʻmaklashadi."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "q100",
+      "prompt": "Bolaga ijod uchun imkoniyatlar qaysi usullar orqali namaoyon boʻladi",
+      "options": [
+        "Kichik sahnalarni oʻynab oʻziga ishonch, topqirlik rivojlanish orqali",
+        "Rol orqali hammani qiziqtirishi bilan",
+        "Bolalani oʻziga ishonchini rivojlantirish",
+        "Kichik yoshdan jamoa oldida nutq soʻzlashga oʻrgatish yoʻli bilan"
+      ],
+      "correctIndex": 0
+    }
+  ]
+}
